@@ -1,0 +1,119 @@
+@charset "utf-8";
+/*==================================================
+	Last-updated: 2017-03-27 pc4.0
+==================================================*/
+.fm_title {
+	text-align: center;
+	font-size: 30px;
+	line-height: 34px;
+	margin-top: 50px;
+	margin-bottom: 35px;	
+}
+.fm_wrap {
+	width: 1260px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.fm_img {
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-bottom: 80px;
+	float: left;
+}
+.fm_img img {
+	display: block;	
+}
+.fm_link {
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-bottom: 80px;	
+}
+.footer_pc400{
+    width:100%;
+    background-color: #3f3f3f;
+}
+
+.footer_main_pc400{
+    width:1100px;
+    margin: auto;
+    padding: 45px 0px;
+}
+
+.footer_left_pc400{
+    width:615px;
+    float: left;
+}
+
+.footer_left_pc400 a,
+.footer_left_pc400 p{
+    line-height: 24px;
+    color: #a6a6a6;
+    font-size: 14px;
+    display: block;
+}
+.footer_left_pc400 a:hover {
+    text-decoration: none;
+}
+.footer_left_pc400 span{
+    float: left;
+    margin-right:40px;
+}
+
+.footer_right_pc400{
+    width:480px;
+    float: right;
+    text-align: right;
+}
+
+.footer_right_pc400 span{
+    width:50px;
+    height:60px;
+    font-size:9px;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    margin-right: 5px;
+}
+
+.footer_right_pc400 i{
+    width:42px;
+    height:42px;
+    margin: auto;
+    display: block;
+}
+
+.footer_right_pc400 p {
+    color: #a6a6a6;
+    margin-top: 5px;
+    font-size:12px;
+    /*font-family: "Adobe 黑体 Std R";*/
+}
+
+.footer_pc400_img{
+    margin-top: 100px;
+}
+
+.footer_pc400_img i{
+    width:100px;
+    height:30px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.footer_icon_pc400:hover .footer_code_pc400{
+    display: block;
+}
+
+.footer_code_pc400{
+    width:120px;
+    height:106px;
+    position: absolute;
+    left: -35px;
+    top: 70px;
+    padding-top: 20px;
+    display: none;
+    background: url("img/footer_pc400_bg.png") no-repeat;
+}
+
+.color_8d8d8d{ color: #8d8d8d !important;}
+

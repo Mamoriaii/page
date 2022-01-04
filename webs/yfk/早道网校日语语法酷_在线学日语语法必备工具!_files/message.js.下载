@@ -1,0 +1,255 @@
+//***********************************
+//* 早道消息管理器 
+//* by:drce 2012-08-30 技术交流群:67326862
+//* 说明：
+//*   配置项：MessageOp  js object对象，封装了基本的配置参数
+//*   DIV加载：根据MessageOp 配置，生成DIV消息框大小及样式
+//*	  函数封装模式：底层 -> 核心 -> 入口函数
+//*	  函数: 
+//*     入口:
+//*     	ajax_popMsg()       无后台加载消息框，参数：ajax_popMsg('标题','提示内容'，'关闭时间'，'自动跳转路径')
+//*     	ajax_get_exeJs()    ajax调用后台程序并执行返回的JS代码，参数：ajax_popMsg('文件路径')
+//*     	ajax_submit_exeJs() ajax表单提交并执行返回的JS代码，参数：ajax_submit_exeJs('表单ID')
+//*     	ajax_submit_exeJs() ajax表单提交并执行返回的JS代码，参数：ajax_submit_exeJs('表单ID')
+//*     核心:
+//*         autoPopMsg()    	无后台加载消息框,参数：autoPopMsg('标题','提示内容'，'关闭时间'，'自动跳转路径')
+//*         autoPopMessage()    后台加载消息框,自动加载封装HTML属性与值,调用底层函数opMessage(),参数：autoPopMsg('HTML属性');
+//*     底层:
+//*     	opMessage()         ajax加载消息类容，自动加载封装HTML属性与值，
+//*                             参数：opMessage(this),由于是底层函数，一般很少用,可以围绕它些一些入口函数
+//*   基本函数：
+//*          popupDiv()         显示层，参数：popupDiv('层ID')
+//*          hideDiv()          隐藏层，参数：hideDiv('层ID')
+//***********************************
+
+	var MessageOp = {//消息提示配置项
+		"message_default": {
+			"popDiv": 'pop_div',
+			"title": '默认配置项',
+			"url": './zdschool/php/message_ajax.php',
+			"type": 'post',
+			"dataType": 'html'
+		},
+		"message_course_signUp": {
+			"popDiv": 'pop_div',
+			"title": '课程报名',
+			"url": '/zdschool/php/message_ajax.php',
+			"type": 'post',
+			"dataType": 'html'
+		},
+		"message_addcart_no_mobile": {
+			"popDiv": 'pop_div',
+			"title": '个人资料完善',
+			"url": './zdschool/php/message_ajax.php',
+			"type": 'post',
+			"dataType": 'html'
+		},
+		"message_msg":{
+			"popDiv": 'pop_div',
+			"title": '提示',
+			"url": './zdschool/php/message_ajax.php',
+			"type": 'post',
+			"dataType": 'html'
+		},
+		"message_download_copyright":{
+			"popDiv": 'pop_download_copyright',
+			"title": '下载须知',
+			"url": './zdschool/php/message_ajax.php',
+			"type": 'post',
+			"dataType": 'html'
+		}
+	}
+	//***********************************
+	//*说明：1、读取按钮自带的全部属性，并将其转换成对象传给消息管理器,message_ajax.php
+	//*		 2、通过cat来标识消息提示的类别
+	//***********************************
+	function opMessage(thisObj,op){//加载消息类容
+		var thisOp = {};//当前配置项
+		var thisData = {};//参数
+		eval("thisData = "+op);
+		var cat = thisData['cat'];
+		if(MessageOp[cat] != null){
+			jQuery.extend(thisOp,MessageOp[cat]);//获取cat标识，加载配置项
+		}else{
+			jQuery.extend(thisOp,MessageOp['message_default']);//加载默认配置项
+		}
+		thisData['popDiv'] = thisOp.popDiv;
+		jQuery.ajax({
+			type: thisOp.type,
+			url: thisOp.url,
+			dataType: thisOp.dataType,
+			data:thisData,
+			async: true,
+			success: function(data){
+				jQuery("#p_h_title").html(thisData.title);//加载标题
+				jQuery("#p_b_body").html(data);//加载主体数据
+				popupDiv(thisData.popDiv);//弹出层
+			}
+		});
+	}
+	//***********************************
+	//*弹出层
+	//***********************************
+	function popupDiv(div_id) {//弹出层
+    	var div_obj = jQuery("#" + div_id);
+        //窗口宽度,高度
+        var winWidth = jQuery(window).width();
+        var winHeight = jQuery(window).height();
+        //弹出的div的宽度,高度
+        var popHeight = div_obj.height();
+        var popWidth = div_obj.width();
+        div_obj.animate({ opacity: "show", left: (winWidth-popWidth) / 2, top: (winHeight-popHeight)/2,width:popWidth}, 300);
+    }
+    function hideDiv() {//关闭层
+        jQuery("#" + tDiv).animate({opacity: "hide" }, 300);
+		clearInterval(messageInter);//关闭消息定时器
+    }
+	function hideDiv2(tDiv) {//关闭层2
+        jQuery("#" + tDiv).animate({opacity: "hide" }, 300);
+		clearInterval(messageInter);
+    }
+	function hideDivMT(tDiv) {//关闭层
+        jQuery("#" + tDiv).animate({opacity: "hide" }, 300);
+		//clearInterval(messageInter);//关闭消息定时器
+    }
+    jQuery(function() {//拖拽控制
+        //jQuery(".pop_box").easydrag();
+        //jQuery(".pop_box").setHandler(".pop_box .p_head");
+    });
+	function autogotoUrl(){
+
+		window.location.href = gotoUrlval;
+		
+	}
+	//***********************************
+	//*后台加载消息框,参数：op：参数，closeTime：自动关闭时间，url：完成后自动跳转
+	//*op参数格式:必选参数：cat
+	//*如：cat='$cat' msg='$msg' [op1='$op1'] [op2='$op2'] 更多参数...
+	//***********************************
+	
+	//消息定时器对象
+	
+	var messageInter = ''; 
+
+	function autoPopMessage(op){
+		eval("thisData = "+op);
+		var closeTime = thisData['closeTime'];
+		var autoUrl = thisData['autoUrl'];
+		opMessage('',op);
+		if(closeTime!=0 && closeTime!='' && typeof(closeTime)!="undefined"){
+			tDiv = MessageOp['message_msg'].popDiv;			
+			messageInter = setTimeout('hideDiv()',closeTime);//打关闭层开定时器
+		}
+		if(autoUrl!='' && typeof(autoUrl)!="undefined"){
+			var autogotourltime = parseInt(closeTime)+100;
+			gotoUrlval = autoUrl;
+			setTimeout('autogotoUrl()',autogotourltime);//完成执行后跳转
+		}
+	}
+	
+	//判断弹出层是否存在，不存时自动创建
+	jQuery(document).ready(function(){
+		if(typeof jQuery('#pop_divs').attr("id")=="undefined"){
+			var pop_divs = "<div id='pop_divs'><div id='pop_div' class='pop_box'><div class='p_head'><div class='p_h_title' id='p_h_title'></div><div><a class='p_h_x' onClick=\"hideDiv2('pop_div');\" title='关闭窗口'>X</a></div></div><div class='p_box_body' id='p_b_body'></div></div></div>";
+			jQuery("body").append(pop_divs);
+			setPopDivWH("pop_divs");
+		}else{
+			setPopDivWH("pop_divs");
+		}
+		if(typeof jQuery('#mask').attr("id")=="undefined"){//遮罩层
+			var pop_divs = '<div class="mask" id="mask"></div>';
+			jQuery("body").append(pop_divs);
+			setPopDivWH("mask");
+		}
+		if(typeof jQuery('#pop_download_copyright').attr("id")=="undefined"){
+			var pop_divs = '<div class="boxtj_shouting" id="pop_download_copyright"  style="display:none; width:600px;height:200px;margin-left:0px;">\
+			  <div class=" fs24 bluetxt ff-yh">\
+			    <div id="pop_download_copyright_title" style="float:left">望知悉</div>\
+			      <a href="javascript:;" style="float:right" class="fs16 redtxt2" onClick="jQuery(\'#pop_download_copyright\').hide();jQuery(\'#mask\').hide();">X 关闭</a>\
+			  </div><br />\
+			  <div id="pop_download_copyright_main" style=" padding-top:30px; font-size:16px; line-height:180%">内部资料，仅此一份，每一个考生都可能与你是竞争关系，请勿外泄！<br>如果外泄，早道日语保留对责任方追究法律责任的权利！望知悉！</div>\
+			  <br style="clear:both"/><br/>\
+			  <div style="text-align:center;padding-top:10px;"><span class="boxtj_shouting_but" id="pop_download_downloading"><a href="javascrppt:void(0);">确认(下载)</a></span></div>\
+			</div>';
+			jQuery("body").append(pop_divs);
+			setPopDivWH("pop_download_copyright");
+		}
+		function setPopDivWH(div_id){
+			var div_obj = jQuery("#" + div_id);
+			//窗口宽度,高度
+			var winWidth = jQuery(window).width();
+			var winHeight = jQuery(window).height();
+			//弹出的div的宽度,高度
+			var popHeight = div_obj.height();
+			var popWidth = div_obj.width();
+			div_obj.css({ left: (winWidth-popWidth) / 2, top: (winHeight-popHeight)/2,width:popWidth,height:popHeight}, 300);
+		}
+	});
+	
+	//***********************************
+	//*非ajax加载消息框,参数:标题,提示内容，关闭时间，自动跳转路径
+	//***********************************
+	var tDiv;
+	var gotoUrlval;
+	function autoPopMsg(title,msg,closeTime,autoUrl){
+		jQuery("#p_h_title").html(title);//加载标题
+		jQuery("#p_b_body").html("<div align='center' style='padding-bottom:30px'>"+msg+"</div>");//加载主体数据
+		popupDiv(MessageOp['message_msg'].popDiv);//弹出层
+		
+		if(closeTime!=0 && closeTime!='' && typeof(closeTime)!="undefined"){
+			tDiv = MessageOp['message_msg'].popDiv;			
+			messageInter = setTimeout('hideDiv()',closeTime);//打关闭层开定时器
+		}	
+		if(autoUrl!='' && typeof(autoUrl)!="undefined"){
+			var autogotourltime = parseInt(closeTime)+100;
+			gotoUrlval = autoUrl;
+			setTimeout('autogotoUrl()',autogotourltime);//完成执行后跳转
+		}
+	}
+	
+	//资源下载提示框
+	function autoPopDownMsg(title,msg,closeTime,autoUrl){
+		jQuery('#mask').show();
+		if(title!=''){
+			jQuery("#pop_download_copyright_title").html(title);//加载标题
+		}
+		if(msg!=''){
+			jQuery("#pop_download_copyright_main").html("<div style='font-size:16px'>"+msg+"</div>");//加载主体数据
+		}
+		if(autoUrl!=''){
+			jQuery("#pop_download_downloading").html('<a href="'+autoUrl+'" target="_blank">确认(下载)</a>');//替换资料下载路径
+		}
+		popupDiv(MessageOp['message_download_copyright'].popDiv);//弹出层
+		
+		if(closeTime!=0 && closeTime!='' && typeof(closeTime)!="undefined"){
+			tDiv = MessageOp['message_download_copyright'].popDiv;			
+			messageInter = setTimeout('hideDiv()',closeTime);//打关闭层开定时器
+		}	
+		if(autoUrl!='' && typeof(autoUrl)!="undefined"){
+			var autogotourltime = parseInt(closeTime)+100;
+			gotoUrlval = autoUrl;
+			setTimeout('autogotoUrl()',autogotourltime);//完成执行后跳转
+		}
+	}
+	
+	function ajax_popMsg(title,msg,closeTime,autoUrl){//ajax消息提示,参数:标题,提示内容，关闭时间，自动跳转路径
+		autoPopMsg(title,msg,closeTime,autoUrl);
+	}
+	
+	function ajax_get_exeJs(url){//执行js代码的get_ajax
+		clearInterval(messageInter);//关闭消息定时器
+		jQuery.ajax({
+			type: 'get',
+			url: url,
+			dataType: 'html',
+			async: true,
+			success: function(data){eval(data);}
+		}); 
+	}
+	
+	function ajax_submit_exeJs(formID){//ajax表单提交,执行返回js脚本
+ 
+		jQuery("#"+formID).ajaxForm(function(data) {
+         	eval(data);
+         }); 
+	}

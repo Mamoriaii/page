@@ -1,0 +1,116 @@
+var meiqiaConfig = {
+	triggerClass:"",
+	autoInvition:0,
+	popInterval:0,
+	new_grouptk:"",
+	weixinGroup:["mqqbrowser", "mi note lte", "iphone", "sm-a8000"],
+	hrefArray:["miui","xiaomi","redmi","redmi note","mi note","mi 3","mi 5","samsung"],
+	isForceUrl:false,
+	setTriggerClass:function(new_triggerClass) {
+		meiqiaConfig.triggerClass = new_triggerClass;
+	},
+	init:function() {
+		if (meiqiaConfig.triggerClass=="") {
+			return;
+		}
+		if (meiqiaConfig.isInWeixinBrowser()) {
+			$("."+meiqiaConfig.triggerClass).bind("click",function() {
+				clearInterval(meiqiaConfig.popInterval);
+				var grouptk = $(this).attr("data-grouptk");
+				var kefuUrl = "";
+				if (typeof (grouptk) != "undefined") {
+					kefuUrl = "https://tools.izaodao.com/meiqia/service.html?groupId="+grouptk;
+				} else {
+					kefuUrl = "https://tools.izaodao.com/meiqia/service.html";
+				}
+				location.href=kefuUrl;
+			});
+		} else if (meiqiaConfig.isHref() || meiqiaConfig.isForceUrl) {
+			$("."+meiqiaConfig.triggerClass).bind("click",function() {
+				clearInterval(meiqiaConfig.popInterval);
+				var grouptk = $(this).attr("data-grouptk");
+				var kefuUrl = "";
+				if (typeof (grouptk) != "undefined") {
+					kefuUrl = "https://static.meiqia.com/dist/standalone.html?eid=24233&groupid="+grouptk;
+				} else {
+					kefuUrl = "https://static.meiqia.com/dist/standalone.html?eid=24233";
+				}
+				location.href=kefuUrl;
+			});
+		} else {
+			$("."+meiqiaConfig.triggerClass).bind("click",function() {
+				clearInterval(meiqiaConfig.popInterval);
+				var grouptk = $(this).attr("data-grouptk");
+				if (typeof (grouptk) != "undefined") {
+					_MEIQIA('assign', {groupToken: grouptk});
+				}
+				_MEIQIA('showPanel');
+			});
+		}
+		$("."+meiqiaConfig.triggerClass).show();
+		var autoSecond = parseInt(meiqiaConfig.autoInvition);
+		if (autoSecond > 0) {
+			meiqiaConfig.popInterval = setInterval(meiqiaConfig.popInvition,meiqiaConfig.autoInvition*1000);
+		}
+	},
+	clickTrigger:function(gtk) {
+		if (typeof (gtk) != "undefined" && gtk != '') {
+			_MEIQIA('assign', {groupToken: gtk});
+		}
+		_MEIQIA('showPanel');
+	},
+	popInvition:function() {
+		if (meiqiaConfig.new_grouptk != "") {
+			_MEIQIA('assign', {groupToken: meiqiaConfig.new_grouptk});
+		}
+		_MEIQIA('showPanel');
+		clearInterval(meiqiaConfig.popInterval);
+	},
+	hideTrigger:function() {
+		if (meiqiaConfig.triggerClass=="") {
+			return;
+		}
+		$("."+meiqiaConfig.triggerClass).hide();
+	},
+	isHref:function() {
+		var userAgentLower = navigator.userAgent.toLowerCase();
+		for (var n=1;n<meiqiaConfig.weixinGroup.length;n++) {
+			var weixinAgent = meiqiaConfig.weixinGroup[0];
+			if (userAgentLower.indexOf(weixinAgent) && userAgentLower.indexOf(meiqiaConfig.weixinGroup[n])>0) {
+				return true;
+			}
+		}
+		for (var i=0;i<meiqiaConfig.hrefArray.length;i++) {
+			if (userAgentLower.indexOf(meiqiaConfig.hrefArray[i])>0) {
+				return true;
+			}
+		}
+		return false;
+	},
+	isInWeixinBrowser:function() {
+		var userAgentLower = navigator.userAgent.toLowerCase();
+		if (userAgentLower.indexOf('mqqbrowser') > -1 || userAgentLower.indexOf('micromessenger') > -1 || userAgentLower.indexOf('miniprogram') > -1) {
+			return true;
+		}
+		return false;
+	},
+	setAutoInvition:function(new_autoInvition, new_grouptk) {
+		meiqiaConfig.autoInvition = new_autoInvition;
+		meiqiaConfig.new_grouptk = new_grouptk;
+	}
+};
+(function(m, ei, q, i, a, j, s) {
+	m[a] = m[a] || function() {
+		(m[a].a = m[a].a || []).push(arguments)
+	};
+	j = ei.createElement(q),
+		s = ei.getElementsByTagName(q)[0];
+	j.async = true;
+	j.charset = 'UTF-8';
+	j.src = i + '?v=' + new Date().getUTCDate();
+	s.parentNode.insertBefore(j, s);
+})(window, document, 'script', '//static.meiqia.com/dist/meiqia.js', '_MEIQIA');
+_MEIQIA('entId', 24233);
+_MEIQIA('withoutBtn');
+_MEIQIA('fallback', 2);
+_MEIQIA('allSet', meiqiaConfig.init);

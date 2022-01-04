@@ -1,0 +1,26 @@
+myFocus.pattern.extend({//*********************tbhuabao******************
+	'mF_zaodao':function(settings,$){
+		var $focus=$(settings);
+		var $picBox=$focus.find('.pic');
+		var $picUl=$picBox.find('ul');
+		$picUl[0].innerHTML+=$picUl[0].innerHTML;//无缝复制
+		$picUl[0].innerHTML+=$picUl[0].innerHTML;//无缝复制
+		var $txtList=$focus.addListTxt().find('li');
+		//CSS
+		var w=280,h=60,dotH=0,arrLeft=w/2,n=$txtList.length;
+		$focus[0].style.width=w+'px';
+		$focus[0].style.height=h+'px';
+		$picBox[0].style.cssText='width:'+w+'px;height:'+h+'px;';
+		$picUl[0].style.width=w*2*n+'px';
+		//PLAY
+		$focus.play(function(i){
+			var index=i>=n?(i-n):i;
+			$txtList[index].style.display='none';
+		},function(i){
+			var index=i>=n?(i-n):i;
+			$picUl.slide({top:-h/2*i});
+			$txtList[index].style.display='block';
+		},settings.seamless);
+	}
+});
+myFocus.config.extend({'mF_zaodao':{seamless:true}});//支持无缝设置

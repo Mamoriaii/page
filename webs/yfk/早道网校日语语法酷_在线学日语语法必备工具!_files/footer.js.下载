@@ -1,0 +1,18 @@
+$(function () {
+    footer.init();
+});
+
+var footer = {
+    init: function () {
+        var self = this;
+        self._bindDomEvent();
+
+    },
+    _bindDomEvent: function () {//绑定事件
+        $("body").on('click',".about_pc310 li",function(){
+            var index = $(this).index();
+            $(this).addClass("current_abotu_pc310").siblings().removeClass("current_abotu_pc310");
+            $(".about_list_pc310 li").eq(index).addClass("ac").siblings().removeClass("ac");
+        });
+    }
+};

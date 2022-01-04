@@ -1,0 +1,216 @@
+$(function () {
+    $("body").removeAttr("style");
+    $(".drop_v41").hover(function(){
+        $(this).find("i.icon_down").removeClass("icon_down_new");
+        $(this).find("i.icon_down").addClass("icon_up_new");
+        $(this).find(".pull_down_v41").stop().fadeIn(500);
+    },function(){
+        $(this).find("i.icon_down").removeClass("icon_up_new");
+        $(this).find("i.icon_down").addClass("icon_down_new");
+        $(this).find(".pull_down_v41").stop().hide();
+    });
+    $("#jp_course_drop_v41").hover(function(){
+        $(this).find("i.icon_course_new").removeClass("icon_down_new");
+        $(this).find("i.icon_course_new").addClass("icon_up_new");
+        $(this).find(".course_list_v41").stop().fadeIn(500);
+        $(this).find("p.course_hover_v41").addClass("nav_current_v41");
+    },function(){
+        $(this).find("i.icon_course_new").removeClass("icon_up_new");
+        $(this).find("i.icon_course_new").addClass("icon_down_new");
+        $(this).find(".course_list_v41").stop().hide();
+        $(this).find("p.course_hover_v41").removeClass("nav_current_v41");
+    });
+    $(".learningTool_v41").hover(function(){
+        $(this).find("i.icon_learningTool_new").removeClass("icon_down_new");
+        $(this).find("i.icon_learningTool_new").addClass("icon_up_new");
+        $(this).find("p.learningTool_text_v41").addClass("nav_current_v41");
+        $(this).find(".learningTool_list_v41").stop().fadeIn(500);
+    },function(){
+        $(this).find("i.icon_learningTool_new").removeClass("icon_up_new");
+        $(this).find("i.icon_learningTool_new").addClass("icon_down_new");
+        $(this).find("p.learningTool_text_v41").removeClass("nav_current_v41");
+        $(this).find(".learningTool_list_v41").stop().hide();
+    });
+    $(".login_main_v41").hover(function(){
+        $(this).find(".login_list_v41").stop().fadeIn(500);
+        $(this).find(".user_v41").addClass("main_icon_arrow_up");
+    },function(){
+        $(this).find(".login_list_v41").stop().hide();
+        $(this).find(".user_v41").removeClass("main_icon_arrow_up");
+    });
+
+    //头部高亮
+    var highlight = {
+        jp:{
+            home: 'menu_home',
+            't/experience': 'menu_experience',
+            'course/topic/vip': 'menu_select_class',
+            'course/topic/svip': 'menu_select_class',
+            'course/topic/kouyu': 'menu_select_class',
+            'course/topic/xuanxiu': 'menu_select_class',
+            'course/topic/oneonone': 'menu_select_class',
+            'course/details': 'menu_select_class',
+            't/jxtx': 'menu_select_jxtx',
+            liuxue: 'menu_select_liuxue',
+            leveltest: 'menu_learning_tools',
+            misc: 'menu_learning_tools',
+            zd_ask: 'menu_learning_tools',
+            grammar: 'menu_learning_tools',
+            wxgzpt: 'menu_learning_tools',
+            tiku: 'menu_learning_tools',
+            'test.php': 'menu_learning_tools',
+            'zdt.php': 'menu_learning_tools'
+        },
+
+        studytool:{
+            'studytool/index': 'menu_study_tool_main',
+            'app/tools?t=deyu': 'menu_study_tool_german',
+            'app/tools?t=hanyu': 'menu_study_tool_korean',
+            'app/tools?t=wangxiao': 'menu_study_tool_zdwx',
+            'app/tools?t=wushiyin': 'menu_study_tool_wsyt',
+            'app/tools?t=cidao': 'menu_study_tool_cidao',
+            'app/tools?t=yufaku': 'menu_study_tool_yfk',
+        }
+    };
+    var highlightIndex = 'studytool';
+    var currentHost = window.location.host;
+    var currentUrl = window.location.href.toLowerCase();
+    var cpss = $('#cpss_domain'), url, isMaster = false;
+    if(currentHost.indexOf("jp") !== -1 || currentHost.indexOf("cpss") !== -1){
+        highlightIndex = 'jp';
+        $(".login_v41 .jp").addClass("display");
+        $(".learning_v41").show();
+    } else {
+        isMaster = true;
+    }
+    if(highlightIndex != ""){
+        for (var i in highlight[highlightIndex]) {
+            if (currentUrl.indexOf(i) !== -1) {
+                $('#' + highlight[highlightIndex][i]).addClass('nav_borB_v41');
+            }
+        }
+    }
+    var logout = function (url, type) {
+        var logout;
+        $.ajax({
+            url: url,
+            type: 'get',
+            dataType: type,
+            data: {},
+            success: function (result) {
+                if (result.code === 200) {
+                    var master = $('#master_domain').val();
+                    // $("#To_logout_js").html(result.status);
+                    // if (master) {
+                    //     logout = master + 'main.php/User/Login/log_out';
+                    // } else {
+                    //     logout = '/main.php/User/Login/log_out';
+                    // }
+                    setTimeout(function () {
+                        if (master) {
+                            window.location = master;
+                        } else {
+                            window.location.reload();
+                        }
+                    }, 1000);
+                } else {
+                    window.location.reload();
+                }
+            }
+        });
+    };
+
+    $('#logout').on('click', function () {
+        if (cpss.length > 0) {
+            url = cpss.val() + 'api/user/logout';
+            type = 'jsonp';
+        } else {
+            url = '/api/user/logout';
+            type = 'json';
+        }
+        logout(url, type);
+    });
+
+    var load = function (url, type) {
+        $.ajax({
+            url: url,
+            type: 'get',
+            dataType: type,
+            data: {},
+            success: function (data) {
+                if (data.code === 200) {
+                    data = data.data;
+                    window.cpss = {user: data};
+                    var loginPanel = $('.login_v41');
+                    loginPanel.show();
+                    loginPanel.find('#user_name').html(data.user_name);
+                    loginPanel.find('#zao_yuan').html("早元：" + data.currency.yuan);
+                    loginPanel.find('#header_avatar').attr('src', data.avatar);
+                    if (data.is_teacher) {
+                        loginPanel.find('#is_teacher').show();
+                    }
+                    var unpaid = parseInt(data.unpaid), total = 0;
+                    var sms = parseInt(data.sms);
+                    if (unpaid > 0 && !isMaster) {
+                        total += unpaid;
+                        unpaid = unpaid > 99 ? '99' : unpaid;
+                        loginPanel.find('#order_unpaid').html(unpaid);
+                        $("#order_unpaid").show();
+                    }
+                    if (sms > 0) {
+                        total += sms;
+                        sms = sms > 99 ? '99' : sms;
+                        loginPanel.find('#sms_unread').html(sms);
+                        $("#sms_unread").show();
+                    }
+                    if (total > 0) {
+                        total = total > 99 ? '99' : total;
+                        loginPanel.find('#total_tips').addClass('m_news').html(total);
+                    }
+                } else {
+                    $('.not_login_v41').show();
+                }
+            }
+        });
+    };
+    //设置客服电话
+    var loadZd = function (url, type) {
+        $.ajax({
+            url: url,
+            type: 'get',
+            dataType: type,
+            data: {},
+            success: function (ret) {
+                if (ret.code === 200) {
+                    var data = ret.data;
+                    var area = data.phone.area;
+                    var main = data.phone.main;
+                    $('#qc_phone').html(area + '-' + main);
+                    $('#area_code').html(area);
+                    $('#main_phone').html(main);
+                    $('#top_phone').html(area + '-' + main);
+                }
+            }
+        });
+    };
+    var userInfo = function () {
+        if (cpss.length > 0) {
+            url = cpss.val() + 'api/user/info';
+            load(url, 'jsonp');
+        } else {
+            load('/api/user/info', 'json');
+        }
+    };
+
+    var qcPhone = function () {
+        if (cpss.length > 0) {
+            url = cpss.val() + 'api/zaodao/info';
+            loadZd(url, 'jsonp');
+        } else {
+            loadZd('/api/zaodao/info', 'json');
+        }
+    };
+
+    userInfo();
+    qcPhone();
+});

@@ -1,0 +1,30 @@
+/********************************
+ * generic als elements styling(涉及首页学员评价的滚动效果)
+ * @author gaopeng
+ ********************************/
+.als-container {
+	position: relative;
+}
+
+.als-viewport {
+	position: relative;
+	overflow: hidden;
+}
+
+.als-wrapper {
+	position: relative;
+}
+
+.als-item {
+	position: relative;
+	display: block;
+	float: left;
+}
+
+
+/*
+*首页新闻栏目的标签样式
+*/
+
+
+

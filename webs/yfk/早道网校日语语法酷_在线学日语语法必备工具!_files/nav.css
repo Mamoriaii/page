@@ -1,0 +1,533 @@
+/* CSS Document */
+.nav_v41{
+    width:100%;
+    height:80px;
+    font-size: 14px;
+    color: #666;
+    font-family: "Microsoft YaHei";
+    background-color: #fff;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.nav_mian_v41{
+    width:1100px;
+    height:80px;
+    margin: auto;
+}
+
+.logo_v41{
+    float: left;
+}
+
+.logo_v41 img{
+    vertical-align: middle;
+}
+
+.nav_list_v41{
+    margin: 0px 0px 0px 120px;
+    float: left;
+}
+
+.course_v41{
+    height:80px;
+    float: left;
+    position: relative;
+}
+
+.course_v41 p,
+.learningTool_v41 p{
+    cursor: default;
+}
+
+.nav_list_v41 a,
+.course_v41 p,
+.learningTool_v41{
+    float: left;
+    display: block;
+    color: #666;
+    line-height: 26px;
+    position: relative;
+    margin: 26px 40px 26px 0px;
+}
+
+.nav_list_v41 a:hover,
+.course_v41 p:hover,
+.not_login_v41 a:hover{
+    border-bottom: 2px solid #338bff;
+    text-decoration: none;
+}
+
+.learningTool_v41{
+    position: relative;
+}
+
+.learningTool_list_v41{
+    position: absolute;
+    left: -105px;
+    display: none;
+    z-index: 999;
+    top: 46px;
+}
+
+.learningTool_list_main_v41{
+    width:187px;
+    padding: 15px 40px;
+    text-shadow: none;
+    box-shadow: 0 -1px 11px 0px #d2d2d2;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.learningTool_list_main_v41 a{
+    width:93px;
+    float: left;
+    margin: 0px;
+    line-height: 32px;
+}
+
+span.learningTool_list_top_v41,
+span.learningTool_list_bottom_v41{
+    display: block;
+    height:21px;
+}
+
+.not_login_v41,
+.login_v41{
+    float: right;
+    margin: 27px 0px;
+}
+
+.not_login_v41{
+    line-height: 26px;
+}
+
+.login_v41 a{
+    color: #666;
+    height: 26px;
+    line-height: 26px;
+    display: inline-block;
+}
+
+.login_v41 p{
+    margin-right: 28px;
+    float:left;
+}
+
+.login_main_v41{
+    position: relative;
+    float: right;
+}
+
+a.learning_v41{
+    width:56px;
+    height:24px;
+    display: block;
+    float: right;
+    line-height: 26px;
+    color: #666;
+    margin: 27px 25px 0px 0px;
+    display: none;
+}
+
+a.learning_v41:hover{
+    border-bottom: 2px solid #338bff;
+    text-decoration: none!important;
+}
+
+.login_main_v41 a.user_v41{
+    width: 80px;
+    height: 26px;
+    float: right;
+    margin-right: 0px !important;
+    padding-right: 15px;
+    text-align: right;
+    line-height: 26px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    z-index: 99;
+    background: url(img/login_main_icon.png) no-repeat right 11px;
+}
+
+.login_list_v41{
+    width:160px;
+    left: -65px;
+    top: 40px;
+    position: absolute;
+    z-index: 99999;
+    display: none;
+}
+
+.login_list_v41 span.login_list_top_v41,
+.login_list_v41 span.login_list_bottom_v41{
+    display: block;
+    width:188px;
+}
+
+.login_list_bg_v41{
+    z-index: 99999;
+    text-shadow: none;
+    box-shadow: 0 -1px 11px 0px #d2d2d2;
+    border-radius: 5px;
+    padding: 5px 0px 10px 0px;
+    background-color: #fff;
+}
+
+.login_arrow_v41,
+.download_arrow_v41,
+.course_arrow_v41,
+.learningTool_arrow_v41{
+    height: 30px;
+    top: -25px;
+    position: absolute;
+}
+
+.arrow_up,
+.download_arrow_up,
+.course_arrow_up,
+.learningTool_arrow_up{
+    position: absolute;
+    width: 0;
+    height: 0;
+    top: 16px;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid #fff;
+}
+
+.learningTool_arrow_up{
+    left:123px;
+}
+
+.learningTool_arrow_v41{
+    width:267px;
+}
+
+.login_arrow_v41{
+    width: 160px;
+}
+.download_arrow_v41{
+    width: 140px;
+}
+
+.course_arrow_v41 {
+    width: 362px;
+}
+
+.arrow_up{
+    right: 22px;
+}
+
+.download_arrow_up{
+    right: 55px;
+}
+
+.course_arrow_up{
+    right: 158px;
+}
+
+.login_list_bg_v41 a{
+    width: 113px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 14px;
+    color: #666;
+    display: block;
+    margin: auto;
+    position: relative;
+    padding-left: 45px;
+}
+
+.login_list_bg_v41 a:hover{
+    color: #4b97ff;
+}
+
+.login_list_bg_v41 a.order_icon_v41{
+    background: url("img/order_icon.png") no-repeat 15px 0px;
+}
+
+.login_list_bg_v41 a.order_icon_v41:hover{
+    background: #f4f4f4 url("img/order_icon.png") no-repeat 15px -34px;
+}
+
+.login_list_bg_v41 a.news_icon_v41{
+    background: url("img/news_icon.png") no-repeat 15px 0px;
+}
+
+.login_list_bg_v41 a.news_icon_v41:hover{
+    background: #f4f4f4 url("img/news_icon.png") no-repeat 15px -34px;
+}
+
+.login_list_bg_v41 a.pay_icon_v41{
+    background: url("img/pay_icon.png") no-repeat 15px 0px;
+}
+
+.login_list_bg_v41 a.pay_icon_v41:hover{
+    background: #f4f4f4 url("img/pay_icon.png") no-repeat 15px -34px;
+}
+
+.login_list_bg_v41 a.article_icon_v41{
+    background: url("img/article_icon.png") no-repeat 15px 0px;
+}
+
+.login_list_bg_v41 a.article_icon_v41:hover{
+    background: #f4f4f4 url("img/article_icon.png") no-repeat 15px -34px;
+}
+
+.login_list_bg_v41 a.profoe_icon_v41{
+    background: url("img/profoe_icon.png") no-repeat 15px 0px;
+}
+
+.login_list_bg_v41 a.profoe_icon_v41:hover{
+    background: #f4f4f4 url("img/profoe_icon.png") no-repeat 15px -34px;
+}
+
+.login_list_bg_v41 a.credits_icon_v41{
+    background: url("img/credits_icon.png") no-repeat 15px 0px;
+}
+
+.login_list_bg_v41 a.credits_icon_v41:hover{
+    background: #f4f4f4 url("img/credits_icon.png") no-repeat 15px -34px;
+}
+
+.login_list_bg_v41 a.privilege_icon_v41{
+    background: url("img/privilege_icon.png") no-repeat 15px 0px;
+}
+
+.login_list_bg_v41 a.privilege_icon_v41:hover{
+    background: #f4f4f4 url("img/privilege_icon.png") no-repeat 15px -34px;
+}
+
+.login_list_bg_v41 a.exit_icon_v41{
+    background: url("img/exit_icon.png") no-repeat 15px 0px;
+}
+
+.login_list_bg_v41 a.exit_icon_v41:hover{
+    background: #f4f4f4 url("img/exit_icon.png") no-repeat 15px -34px;
+}
+
+.login_list_bg_v41 a.my_icon_v41{
+    background: url("img/my_icon.png") no-repeat 15px 0px;
+}
+
+.login_list_bg_v41 a.my_icon_v41:hover{
+    background: #f4f4f4 url("img/my_icon.png") no-repeat 15px -34px;
+}
+
+.login_list_bg_v41 a.leave_icon_v41{
+    background: url("img/leave_icon_v41.png") no-repeat 15px 0px;
+}
+
+.login_list_bg_v41 a.leave_icon_v41:hover{
+    background: #f4f4f4 url("img/leave_icon_v41.png") no-repeat 15px -34px;
+}
+
+.login_list_bg_v41 a b.tips_v41{
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 10px;
+    font-family: Arial;
+    line-height: 16px;
+    text-align: center;
+    padding: 1px;
+    position: absolute;
+    right: 32px;
+    top: 10px;
+    background-color: #ff5050;
+}
+
+.login_list_bg_v41 span.element_v41{
+    width: 136px;
+    display: block;
+    padding: 10px 0px 15px 0px;
+    margin: 0px auto 10px auto;
+    border-bottom: 1px solid #eee;
+}
+
+.login_list_bg_v41 span.element_v41 img{
+    width:36px;
+    height:36px;
+    border-radius: 50%;
+    float: left;
+    border: 1px solid #eee;
+}
+
+.login_list_bg_v41 span.element_v41 p{
+    width: 82px;
+    display: inline-block;
+    margin-right: 5px;
+    line-height: 36px;
+    font-size: 13px;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+.login_list_bg_v41 span.element_v41 b{
+    float: left;
+    margin-top: 08px;
+}
+
+.course_list_v41{
+    width:400px;
+    position: absolute;
+    left:-180px;
+    top: 70px;
+    display: none;
+    z-index: 99999;
+}
+
+.course_main_v41{
+    padding: 15px 30px;
+    background: #fff;
+    box-shadow: 0 -1px 11px 0px #d2d2d2;
+    border-radius: 5px;
+}
+
+.course_main_v41 a{
+    width: 170px;
+    height:32px;
+    line-height: 32px;
+    margin: 0px;
+}
+
+a.level_v41:link,
+a.level_v41:visited{
+    color: #999;
+}
+
+.course_main_v41 a:hover,
+a.level_v41:hover,
+a.level_v41:active,
+.learningTool_list_main_v41 a:hover{
+    color: #4b97ff;
+    border-bottom: none;
+}
+
+.nav_current_v41,
+.nav_borB_v41{
+    border-bottom: 2px solid #338bff;
+}
+
+.login_v41 .learning_v41{
+    display: none;
+}
+.main_icon_arrow_up {
+    color: #39f!important;
+    background: url(img/login_main_icons.png) no-repeat right 11px!important;
+}
+.jp,
+.login_v41 .jp,
+.not_login_v41,
+.login_v41,
+#order_unpaid,
+#sms_unread{
+    display: none;
+}
+
+.login_v41 .display{
+    display: block;
+}
+
+.nav_list_v41 a:hover{
+    text-decoration: none;
+}
+
+.course_list_v41 span.course_list_top_v41 img,
+.language_list_bgTop_v41 img,
+.login_list_top_v41 img{
+    vertical-align: bottom;
+}
+
+.course_list_v41 span.course_list_bottom_v41 img,
+.learningTool_list_bottom_v41 img{
+    vertical-align: top;
+}
+
+.not_login_v41 a{
+    color: #777;
+}
+
+.arrow_center{
+    width:140px;
+}
+
+a.teacher_v41{
+    width:11px;
+    height:14px;
+    float: right;
+    margin: 6px 0px 0px 0px;
+    background: url("img/teacher.png") no-repeat 0px 0px;
+}
+
+a.teacher_v41:hover{
+    background: url("img/teacher.png") no-repeat 0px -15px;
+}
+
+.boB_cacaca{ border-bottom: 1px solid #cacaca !important;}
+.m_news {
+    width: 14px;
+    height: 14px;
+    float: left;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 10px;
+    font-family: Arial;
+    line-height: 16px;
+    text-align: center;
+    padding: 1px;
+    position: absolute;
+    right: 6px;
+    top: -6px;
+    background-color: #ff5050;
+}
+
+.icon_course_new{
+    width:8px;
+    height:4px;
+    top: 38px;
+    right: 26px;
+    position: absolute;
+    background: url("img/login_main_icon_02.png") no-repeat;
+}
+
+.icon_learningTool_new{
+    width:8px;
+    height:4px;
+    top: 12px;
+    right: -15px;
+    position: absolute;
+    background: url("img/login_main_icon_02.png") no-repeat;
+}
+
+.icon_up_new{
+     background-position: 0px bottom;
+}
+
+.icon_down_new{
+    background-position: 0px top;
+}
+
+.nav_mian_v41 a.class-icon{
+    color: #666;
+    float: left;
+    margin-top: 30px;
+    display: block;
+    padding-left: 23px;
+    margin-left: 415px;
+    background: url("img/class-icon.gif") no-repeat;
+}
+
+.nav_mian_v41 a.learning-icon{
+    color: #666;
+    float: left;
+    margin-top: 30px;
+    display: block;
+    padding-left: 23px;
+    margin-left: 30px;
+    background: url("img/learning-icon.gif") no-repeat;
+}
+
+.w340{ width: 340px !important;}

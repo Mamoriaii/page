@@ -1,0 +1,1 @@
+document.write('<div><a href="http://www.izaodao.com/test.php?ac=leveltest&pid=3" target="_blank"><font color="#FF0066">想知道你现在的日语水平吗？=></font></a></div>');

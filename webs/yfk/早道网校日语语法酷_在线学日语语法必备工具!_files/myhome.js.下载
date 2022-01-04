@@ -1,0 +1,816 @@
+var myHomeOp = {
+	"url": './zdschool/php/myhome_ajax.php',
+	"type": 'post',
+	"dataType": 'html'
+};
+var doing_msg = "你正在干嘛?";
+
+//广播发布 文本框处理
+function checkAr(mode){
+	popAtDiv("#msgTxt");
+	if(mode == 'f'){
+		if(jQuery("#msgTxt").val() == doing_msg){
+			jQuery("#msgTxt").val("");
+		}
+		jQuery("#msgTxt").animate({ height:"80"}, 200);
+	}
+}
+jQuery(document).ready(function(){
+	jQuery("#msgDiv").hover(
+	  function () {
+		
+	  },
+	  function () {
+		
+	  }
+	); 
+})
+
+//一级评论 文本框处理
+var doing_msg2 = "评论 ...";
+function checkComment(thisObj,mode){
+	popAtDiv(thisObj);
+	if(mode == "f"){
+		if(jQuery(thisObj).val() == doing_msg2){
+			jQuery(thisObj).val("");
+			jQuery(thisObj).animate({ height:"60"}, 200);
+		}
+	}else{
+		if(jQuery(thisObj).val() == ""){
+			jQuery(thisObj).val(doing_msg2);
+			jQuery(thisObj).animate({ height:"18"}, 200);
+		}
+	}
+}
+
+//二级评论 文本框处理
+var doing_msgText_2 = "";
+function checkCommentText_2(thisObj,mode){
+	if(mode == "f"){
+		if(jQuery(thisObj).val() == doing_msgText_2){
+			jQuery(thisObj).val("");
+		}
+	}else{
+		if(jQuery(thisObj).val() == ""){
+			jQuery(thisObj).val(doing_msgText_2);
+		}
+	}
+}
+
+//广播发布提交
+function submitDoing(kw){
+	var msg = jQuery("#msgTxt").val();
+	if(!msg || msg == doing_msg){
+		ajax_popMsg('提示', '请输入要发布的内容', '2000');
+		return false;
+	}else if(jQuery('#maxlimit').html() < 0){
+		ajax_popMsg('提示', '超出字数限制', '2000');
+		return false;
+	}else{
+		var wb_mode = jQuery('#wb_mode').val();
+		var wb_page = jQuery('#wb_page').val();
+		var wb_suid = jQuery('#wb_suid').val();
+		var wb_stime = jQuery('#wb_stime').val();
+		var wb_etime = jQuery('#wb_etime').val();
+		var wb_forward = jQuery('#wb_forward').val();
+		var wb_fwinfo = jQuery('#wb_fwinfo').val();
+		var wb_video = jQuery('#wb_video').val();
+		var wb_top = jQuery('#wb_top').val();
+		var thisData = {verify:'ogkino',type:'submitdoing',message:msg,forward:wb_forward,fwinfo:wb_fwinfo,wb_video:wb_video,wb_top:wb_top};
+		jQuery.ajax({
+			type: myHomeOp.type,
+			url: myHomeOp.url,
+			dataType: myHomeOp.dataType,
+			data:thisData,
+			async: true,
+			success: function(data){
+				var data_ary = data.split("|");
+				if(kw){
+					jQuery("#msgTxt").val('#'+kw+'#');
+					showDoing(kw,wb_mode,wb_page,wb_suid,wb_stime,wb_etime);
+				}else{
+					jQuery("#msgTxt").val('');
+					jQuery("#tagContenttAir").before(data_ary[1]);
+				}
+				$d('file-shower').innerHTML = '';
+				$d('file-uploader').style.display = '';
+				$d('file-shower').style.display = 'none';
+				$d('maxlimit').innerHTML = 200;
+				jQuery('#wb_forward').val(0);
+				jQuery('#wb_fwinfo').val('');
+				jQuery('#forwardmsg').html('');
+				jQuery('#msgTxt').css('backgroundColor','#ffffff');
+				
+				jQuery('#wb_video').val('');
+				jQuery('#setvideo').hide();
+				jQuery('#wb_top').val('');
+				jQuery('#settop').hide();
+				
+				jQuery('#wb_video').val('');
+				jQuery('#setvideo').hide();
+				jQuery('#wb_top').val('');
+				jQuery('#settop').hide();
+				
+				jQuery('#wb_video').val('');
+				jQuery('#setvideo').hide();
+				jQuery('#wb_top').val('');
+				jQuery('#settop').hide();
+				
+				
+				eval(data_ary[0]);
+				
+			}
+		});
+	}
+}
+//参数说明：
+//		 type 分类：全校广播(showdoing)、特别说听(showdoing1)、提到我的(showdoing2)
+//       cat  分类：全部()、广播(air)、照片(photo)、日志(journal)
+function showDoing(k,mode,page,suid,stime,etime,type,cat){
+	if(type=='' || type == null || typeof(type) == "undefined"){
+		type = "showdoing";//默认加载全校广播
+	}
+	var thisType = jQuery("#s_type").val();
+	jQuery("#moreAir"+thisType).html('<img src="zdschool/images/loading.gif" align="absmiddle"> 正在加载...');
+	var thisData = {verify:'ogkino',type:type,mode:mode,k:encodeURI(k),page:page,suid:suid,stime:stime,etime:etime,type:type,cat:cat};
+	jQuery.ajax({
+		type: myHomeOp.type,
+		url: myHomeOp.url,
+		dataType: myHomeOp.dataType,
+		data:thisData,
+		async: true,
+		success: function(data){
+			if(type == "showdoing"){//加载到全校广播
+				jQuery("#tagContenttAir").append(data);
+			}else if(type == "showdoing1"){//加载到特别收听
+				jQuery("#tagContenttAir1").append(data);
+			}else if(type == "showdoing2"){//加载到提到我的
+				jQuery("#tagContenttAir2").append(data);
+			}else if(type == "showdoing3"){//加载到我的发布
+				jQuery("#tagContenttAir3").append(data);
+			}
+			jQuery("#moreAir"+thisType).html('更多...');
+		}
+	});
+}
+
+function delDoing(wid,k,mode,page,suid,stime,etime,scl){
+	if(!confirm('确认要删除?')){
+		return false;
+	}
+	var thisData = {verify:'ogkino',type:'deldoing',wid:wid,scl:scl};
+	jQuery.ajax({
+		type: myHomeOp.type,
+		url: myHomeOp.url,
+		dataType: myHomeOp.dataType,
+		data:thisData,
+		async: true,
+		success: function(data){
+			if(data != 0){
+				autoPopMsg("提示","删除成功!","2000","");
+				if(scl == 'hf'){jQuery("#tagContenttAirBox_"+wid).fadeOut('slow');}
+				else{jQuery("#tagContenttAirCommentBox_"+wid).fadeOut('slow');}
+			}else{
+				autoPopMsg("提示","删除内容失败","2000","");
+			}
+		}
+	});
+}
+
+function forwardDoing(wid){
+	scroll(0,0);
+	jQuery('#forwardmsg').html("<br>Loading...<br><br>");
+	jQuery('#msgTxt').focus();
+	jQuery('#msgTxt').css('backgroundColor','#ffffcc');
+	var thisData = {verify:'ogkino',type:'forwarddoing',wid:wid};
+	jQuery.ajax({
+		type: myHomeOp.type,
+		url: myHomeOp.url,
+		dataType: myHomeOp.dataType,
+		data:thisData,
+		async: true,
+		success: function(data){
+			var d = new Array;
+			d = data.split("._.ogkino._.");
+			jQuery('#forwardmsg').html("<br><b>转发内容:</b>&nbsp;&nbsp;&nbsp;&nbsp;[<a href='javascript:;' onclick='canelForward();'>取消转发</a>]<br><br>@"+d[1]+": "+d[0]+"<br><br>");
+			jQuery('#wb_forward').val(wid);
+			jQuery('#wb_fwinfo').val("@"+d[1]+": "+d[0]);
+			jQuery('#msgTxt').val('');
+		}
+	});
+}
+
+function canelForward(){
+	jQuery('#wb_forward').val(0);
+	jQuery('#wb_fwinfo').val('');
+	jQuery('#forwardmsg').html('');
+	jQuery('#msgTxt').css('backgroundColor','#ffffff');
+}
+
+//图片按比例缩放
+var flag=false;
+function image_draw(_img,boxWidth,boxHeight){
+	//参数(图片允许的宽度，图片允许的高度) 
+     var _img = $(_img);
+     var imgWidth=_img.width();
+     var imgHeight=_img.height();
+     
+     //比较imgBox的长宽比与img的长宽比大小
+     if((boxWidth/boxHeight)>=(imgWidth/imgHeight))
+     {
+         //重新设置img的width和height
+         _img.width((boxHeight*imgWidth)/imgHeight);
+        _img.height(boxHeight);
+        //让图片居中显示
+        var margin=(boxWidth-_img.width())/2;
+       //_img.css("margin-left",margin);
+    }
+    else
+    {
+        //重新设置img的width和height
+        _img.width(boxWidth);
+        _img.height((boxWidth*imgHeight)/imgWidth);
+        //让图片居中显示
+        var margin=(boxHeight-_img.height())/2;
+        //_img.css("margin-top",margin);
+    }
+}
+
+function image_view(img){
+	if(img.width <= 499){
+		image_draw(img,500,1100);
+	}
+	else{
+		image_draw(img,210,280);
+	}
+}
+
+function image_view2(img){
+	if(img.width <= 10){
+		image_draw(img,500,1100);
+	}
+	else{
+		image_draw(img,10,10);
+	}
+}
+
+function image_view3(img){
+	if(img.width <= 550){
+		var image=new Image();
+		image.src=img.src;
+		jQuery('#photodetail_enter').html(image);
+		jQuery('#mask').show();
+		jQuery('#photodetail_enter').show('slow');
+		jQuery('#photodetail_enter').css();
+	}else{
+		image_draw(img,550,650);
+	}
+}
+
+/** @好友 **/
+
+//记录光标标记
+var myInputCursor = 0;
+var atReplaceKeyWord = '';
+
+//文本框中输入@后：弹出@好友界面
+function popAtDiv(thisObj){
+	var thisObj = jQuery(thisObj);
+	var thisOffset = thisObj.offset();
+	var thisLeft = thisOffset.left;
+	var thisTop = thisOffset.top;
+	var thisWidth = thisObj.width();
+	var thisHeight = thisObj.height();
+	
+	var thisVal = thisObj.val()+" ";
+	var position = thisObj.position();
+	var thisVal_0 = thisVal.substr(0,position);//截取光标前的字符串
+	var thisLastSpanIdx = thisVal_0.lastIndexOf(' ');//光标前的字符串中，最后出现空格的位置
+	var thisLastAtIdx = thisVal_0.lastIndexOf('@');//光标前的字符串中最，后出现@的位置
+	if(thisLastSpanIdx < thisLastAtIdx){
+		var thisVal_1 = thisVal.substr(thisLastAtIdx,thisVal.length);//截取光标后的字符串
+		var thisLastSpanIdx_1 = thisVal_1.indexOf(' ');//光标后的字符串中，第一次出现空格的位置
+		var thisLastAtIdx_1 = thisVal_1.indexOf('@');//光标后的字符串中，第一次出现空格的位置
+		var thisLastIdx = thisLastSpanIdx_1;
+		if(thisLastSpanIdx_1 < thisLastAtIdx_1){
+			
+		}
+		if(thisLastSpanIdx_1 <= 0){//不存在时，截取长度为最大字符串长度
+			thisLastSpanIdx_1 = thisVal_1.length();
+		}
+		atReplaceKeyWord = thisVal_1.substr(0,thisLastSpanIdx_1);
+		keyword = atReplaceKeyWord.replace("@","");
+		myInputCursor = position;
+		targetObj = "#"+thisObj.attr('id');
+		var thisData = {verify:'ogkino',type:'popAtDiv',targetObj:targetObj,keyword:keyword};
+		jQuery.ajax({
+			type: myHomeOp.type,
+			url: myHomeOp.url,
+			dataType: myHomeOp.dataType,
+			data:thisData,
+			async: true,
+			success: function(data){
+				var e = window.event;
+				//var xx= thisObj.offset().left;
+				//var yy= thisObj.offset().top;
+				//$('#atPopDiv').css({left:xx,top:yy+5});
+				if(data == '' || data == null ){//无数据
+					jQuery('#atPopDiv').html('');
+					jQuery('#atPopDiv').hide();
+				}else{
+					jQuery('#atPopDiv').css({left:thisLeft,top:thisTop+thisHeight+5});
+					jQuery('#atPopDiv').html(data);
+					jQuery("#atPopDiv").animate({opacity: 'show' },200);
+				}
+			}
+		});
+	}else{
+		jQuery('#atPopDiv').hide();
+	}
+}
+
+
+
+function popAtDivC(thisObj,targetObj){
+	var thisOffset = jQuery(thisObj).offset();
+	var thisLeft = thisOffset.left;
+	var thisTop = thisOffset.top;
+	var thisWidth = jQuery(thisObj).width();
+	var thisHeight = jQuery(thisObj).height();
+	myInputCursor = jQuery(targetObj).position();//获得输入框焦点位置
+	
+	
+	var thisData = {verify:'ogkino',type:'popAtDiv',targetObj:targetObj,cat:'c'};
+	jQuery.ajax({
+		type: myHomeOp.type,
+		url: myHomeOp.url,
+		dataType: myHomeOp.dataType,
+		data:thisData,
+		async: true,
+		success: function(data){
+			jQuery('#atPopDiv').html(data);
+			jQuery('#atPopDiv').css({left:thisLeft,top:thisTop+thisHeight+5});
+			jQuery("#atPopDiv").animate({opacity: 'show' },200);
+		}
+	}); 
+}
+
+function atSetVal(username,targetObj){//@好友 匹配替换文本框内容
+	var thisObj = jQuery(targetObj);
+	var position = myInputCursor;
+	
+	var thisVal = thisObj.val()+" ";
+	var thisVal_0 = thisVal.substr(0,position);//截取光标之前的字符串
+	var thisVal_1 = thisVal.substr(position,thisVal.length);//截取光标之前的字符串
+	var FirstAtIdx = thisVal_0.lastIndexOf("@");
+	var LastSpanIdx = thisVal_0.length + thisVal_1.indexOf(" ");
+	
+	thisVal_0 = thisVal.substr(0,FirstAtIdx);//从0截取到光标左右离光标最近的@的位置
+	thisVal_1 = thisVal.substr(FirstAtIdx,LastSpanIdx);//从0截取到光标左右离光标最近的@的位置
+	var thisVal_1 = "@"+username+" ";
+	var thisVal_2 = thisVal.substr(LastSpanIdx,thisVal.length-2);
+	var thisVal_temp = thisVal.substr(FirstAtIdx,LastSpanIdx);//截取需要替换的字符串
+
+	thisVal = thisVal_0+thisVal_1+thisVal_2;
+	thisVal = thisVal.replace(/(\s*$)/g, "")+" ";//去掉末尾空格
+	thisObj.val(thisVal);
+	thisObj.position(FirstAtIdx+thisVal_1.length);//光标重获焦点
+	jQuery('#atPopDiv').hide();
+}
+
+function atSetValc(username,targetObj){//@好友 插入到文本框
+	
+	var thisObj = jQuery(targetObj);
+		thisObj.click();
+	if(thisObj.val() == doing_msg2){
+		thisObj.val('');
+	}
+	var position = myInputCursor;
+	
+	var thisVal = thisObj.val()+" ";
+	
+	var thisVal_0 = thisVal.substr(0,position);//从0截取到光标左右离光标最近的@的位置置
+	var thisVal_1 = "@"+username+" ";
+	var thisVal_2 = thisVal.substr(position,thisVal.length);
+	
+	thisVal = thisVal_0+thisVal_1+thisVal_2;
+	thisVal = thisVal.replace(/(\s*$)/g, "");//去掉末尾空格
+	thisObj.click();
+	thisObj.val(thisVal);
+	thisObj.position(position+thisVal_1.length);//光标重获焦点
+	jQuery('#atPopDiv').hide();
+}
+
+
+function searchAtUserInfo(val){
+	var thisData = {verify:'ogkino',type:'popAtDiv',cat:'c',keyword:val};
+	jQuery.ajax({
+		type: myHomeOp.type,
+		url: myHomeOp.url,
+		dataType: myHomeOp.dataType,
+		data:thisData,
+		async: true,
+		success: function(data){
+			jQuery('#atPopDiv').html(data);
+			jQuery('#atPopDiv').show();
+			//$("#atKeyWord").focus();
+		}
+	});
+}
+
+
+function atMouseOver(thisObj){
+	jQuery(thisObj).css({"background":"#D2E9FA"});
+}
+function atMouseOut(thisObj){
+	jQuery(thisObj).css({"background":"#FFFFFF"});
+}
+/** @好友结束 **/
+
+function strLenCalc_ogkino(obj, obj2, len){
+			popAtDiv(obj);
+			var Words = obj.value;
+			var W = new Object();
+            var Result = new Array();
+            var iNumwords = 0;
+            var sNumwords = 0;
+            var sTotal = 0; //双字节字符;
+            var iTotal = 0; //中文字符；
+            var eTotal = 0; //Ｅ文字符
+            var otherTotal = 0;
+            var bTotal = 0;
+
+            for (i = 0; i < Words.length; i++) {
+                var c = Words.charAt(i);
+                if (c.match(/[\u4e00-\u9fa5]/)) {
+                    if (isNaN(W[c])) {
+                        iNumwords++;
+                        W[c] = 1;
+                    }
+                    iTotal++;
+                }
+
+            }
+            for (i = 0; i < Words.length; i++) {
+                var c = Words.charAt(i);
+                if (c.match(/[^\x00-\xff]/)) {
+                    if (isNaN(W[c])) {
+                        sNumwords++;
+                    }
+                    sTotal++;
+                }
+                else {
+                    eTotal++;
+                }
+               
+            }
+		
+           if ((iTotal + eTotal)>0){
+			 jQuery('#submitDoing').removeClass("sumitding_disabled");
+		   	 jQuery('#submitDoing').addClass("sumitding_valid");	
+		   } else {
+			 jQuery('#submitDoing').removeClass("sumitding_valid");
+			 jQuery('#submitDoing').addClass("sumitding_disabled"); 
+		   }
+		   
+           document.getElementById(obj2).innerHTML = len - iTotal - eTotal;
+}
+ 
+var textSelect = function(o, a, b){
+	//o是当前对象，例如文本域对象
+	//a是起始位置，b是终点位置
+	var a = parseInt(a, 10), b = parseInt(b, 10);
+	var l = o.value.length;
+	if(l){
+		//如果非数值，则表示从起始位置选择到结束位置
+		if(!a){
+			a = 0;
+		}
+		if(!b){
+			b = l;
+		}
+		//如果值超过长度，则就是当前对象值的长度
+		if(a > l){
+			a = l;
+		}
+		if(b > l){
+			b = l;
+		}
+		//如果为负值，则与长度值相加
+		if(a < 0){
+			a = l + a;
+		}
+		if(b < 0){
+			b = l + b;
+		}
+		if(o.createTextRange){//IE浏览器
+			var range = o.createTextRange();
+			range.moveStart("character",-l);
+			range.moveEnd("character",-l);
+			range.moveStart("character", a);
+			range.moveEnd("character",b-1);
+			range.select();
+		}else{
+			o.setSelectionRange(a, b);
+			o.focus();
+		}
+	}
+};
+
+function setSmilea(){
+	jQuery('#setimg').hide();
+	jQuery('#setmusic').hide();
+	jQuery('#setvideo').hide();
+	
+	jQuery('#setsmilea').toggle();
+}
+function setImg(){
+	if(jQuery('#file-shower').html()=='' || typeof(jQuery('#file-shower').html())=='undefined' ){
+		jQuery('#setsmilea').hide();
+		jQuery('#setmusic').hide();
+		jQuery('#setvideo').hide();
+		
+		jQuery('#setimg').toggle();
+		jQuery('#wb_img').val('');
+		jQuery('#wb_img').focus();
+	}else{
+		
+	}
+}
+function setMusic(){
+	jQuery('#setsmilea').hide();
+	jQuery('#setimg').hide();
+	jQuery('#setvideo').hide();
+	
+	jQuery('#setmusic').toggle();
+	jQuery('#wb_music').val('');
+	jQuery('#wb_music').focus();
+}
+function setVideo(){
+	jQuery('#setsmilea').hide();
+	jQuery('#setimg').hide();
+	jQuery('#setmusic').hide();
+	
+	jQuery('#setvideo').toggle();
+	jQuery('#wb_video').val('');
+	jQuery('#wb_video').focus();
+}
+
+function playVideo(p,v){
+	jQuery('#'+p).html('<embed src="'+v+'" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed><br><a href="javascript:;" onclick="closeVideo(\''+p+'\',\''+v+'\');">[关闭视频]</a>');
+}
+
+function closeVideo(p,v){
+	jQuery('#'+p).html('<img src="./zdschool/images/play11080.jpg" border="0" style=" cursor:pointer;" onclick="playVideo(\''+p+'\',\''+v+'\');\">');
+}
+
+function playVideo2(p,v){
+	jQuery('#'+p).html('<embed src="'+v+'" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed><br><a href="javascript:;" onclick="closeVideo2(\''+p+'\',\''+v+'\');">[关闭视频]</a>');
+}
+
+function closeVideo2(p,v){
+	jQuery('#'+p).html('<img src="./zdschool/images/play1815.jpg" border="0" style=" cursor:pointer;" onclick="playVideo2(\''+p+'\',\''+v+'\');\">');
+}
+
+
+function setSmile1(wid){//一级评论表情层
+	var e = window.event;
+	var xx=e.pageX;
+	var yy=e.pageY;
+	jQuery('#smileDiv').remove();
+	var smileDiv = get_zd_smilea("addSmile1",wid,xx,yy);
+	jQuery(document.body).append(smileDiv);
+}
+
+
+function setSmile2(wid){//二级评论表情层
+	var e = window.event;
+	var xx=e.pageX;
+	var yy=e.pageY;
+	jQuery('#smileDiv').remove();
+	var smileDiv = get_zd_smilea("addSmile2",wid,xx,yy);
+	jQuery(document.body).append(smileDiv);
+}
+
+function addSmile(sid){//广播评论表情
+	if(jQuery('#msgTxt').val()=="你正在干嘛?")
+		jQuery('#msgTxt').val('');
+	var ss = jQuery('#msgTxt').val()+"{:s_"+sid+":}";
+	jQuery('#smileDiv').remove();
+	jQuery('#msgTxt').focus();
+	jQuery('#msgTxt').val(ss);
+}
+
+function addSmile1(wid,sid){//一级评论表情
+	jQuery('#commentText_'+wid).click();
+	if(jQuery('#commentText_'+wid).val() == "评论 ...")
+		jQuery('#commentText_'+wid).val('');
+	var ss = jQuery('#commentText_'+wid).val()+"{:s_"+sid+":}";
+	jQuery('#smileDiv').remove();
+	jQuery('#commentText_'+wid).focus();
+	jQuery('#commentText_'+wid).val(ss);
+}
+
+function addSmile2(wid,sid){//二级评论表情
+	if(jQuery('#commentText_2_'+wid).val()==doing_msgText_2)
+		jQuery('#commentText_2_'+wid).val('');
+	var ss = jQuery('#commentText_2_'+wid).val()+"{:s_"+sid+":}";
+	jQuery('#smileDiv').remove();
+	jQuery('#commentText_2_'+wid).focus();
+	jQuery('#commentText_2_'+wid).val(ss);
+}
+
+function commentDoing(e,wid,uname,jihf){
+	var cj='';
+	if(jihf =='dj'){cj ='t_';}
+	var xx = jQuery(e).offset().left - 370;
+	var yy = jQuery(e).offset().top - 20;
+	var commentDiv = '<div style="background:#FFFFFF; border:2px #669f0a solid;width:400px;height:150px; padding:20px; z-index:999;position:absolute;left:'+xx+'px;top:'+yy+'px;" id="commentDiv_'+wid+'"><div style="text-align:center; float:right; width:20px; cursor:pointer;" onclick="jQuery(\'#commentDiv_'+wid+'\').remove();"> X </div><div>评论 '+uname+' 发表的内容:<br><br><textarea style="width:390px;height:75px;" id="commentText_'+wid+'"></textarea><br><p align="right"><input type="button" value="提交" onclick="submitComment('+wid+');"></p></div><div id="commentDrag_'+wid+'" style="color:#999999; width:100%; cursor:move;">鼠标放置到这里按住左键可以拖动哟...</div><input type="hidden" id="jihf" value="'+jihf+'" /></div>';
+	jQuery(document.body).append(commentDiv);
+	var drag = new Drag('commentDiv_'+wid, { mxContainer: "", Handle: 'commentDrag_'+wid, Limit: true});
+}
+
+var toUid;
+//评论回复,参数:回复主题id,上级评论id
+function submitComment(wid,fid){
+	var msg;
+	var thisClass = "";
+	if(fid != 0 && fid != ''){//二级评论,针对评论的评论提交
+		thisClass = "commentText_2_";
+		msg = jQuery('#'+thisClass+fid).val();
+	}else{//一级评论,针对帖子的评论进行提交
+		thisClass = "commentText_";
+		msg = jQuery('#'+thisClass+wid).val();
+	}
+ 
+	if(msg==doing_msg2 || msg==doing_msgText_2){
+		//ajax_popMsg('提示','评论内容至少5个字啦','2000');
+		//jQuery('#'+thisClass+fid).focus();
+		return false;
+	}
+	else{
+		var jihf = jQuery('#jihf').val();
+		var thisData = {verify:'ogkino',type:'submitcomment',message:msg,wid:wid,fid:fid,toUid:toUid,jihf:jihf};
+		jQuery.ajax({
+			type: myHomeOp.type,
+			url: myHomeOp.url,
+			dataType: myHomeOp.dataType,
+			data:thisData,
+			async: true,
+			success: function(data){
+				var data_ary = data.split("|");
+				if(fid != 0 && fid != ''){//更新第二级评论
+					jQuery('#'+thisClass+fid).val('');
+					var o = data_ary[1];
+					jQuery(o).insertBefore('#commentTextDiv_'+data_ary[0]);
+					jQuery('#commentTextDiv_'+data_ary[0]).hide();
+					eval(data_ary[2]);
+				}else{
+					jQuery('#'+thisClass+wid).val('');//更新第一级评论
+					jQuery('#'+thisClass+wid).blur();
+					jQuery('#allComment_'+data_ary[0]).append(data_ary[1]);
+					eval(data_ary[2]);
+				}
+			}
+		});
+	}
+}
+
+//评论完成后追加内容
+
+function showComment(wid){
+	var thisData = {verify:'ogkino',type:'showcomment',wid:wid};
+	jQuery.ajax({
+		type: myHomeOp.type,
+		url: myHomeOp.url,
+		dataType: myHomeOp.dataType,
+		data:thisData,
+		async: true,
+		success: function(data){
+			var da = [];
+			da = data.split("|.ogkino.|");
+			jQuery('#allComment_'+wid).html(da[1]);
+		}
+	});
+}
+
+//回复DIVid,回复对象名称,回复对象id
+function commentTextShow(id,username,uid){
+	jQuery(".commentTextDiv").hide();
+	jQuery("#commentTextDiv_"+id).show();
+	jQuery("#commentText_2_"+id).val("@"+username+":");
+	doing_msgText_2 = "@"+username+":";
+	toUid = uid;
+}
+
+
+jQuery(document).ready(function(){
+	if(!jQuery("#msgTxt").val()) jQuery("#msgTxt").val(doing_msg);
+});
+
+
+//广播话题
+function newTopic(){
+	if($d('msgTxt').value == "你正在干嘛?"){
+		var st = 0;
+		var sm = '';
+	}
+	else{
+		var st = $d('msgTxt').value.length;
+		var sm = $d('msgTxt').value;
+	}
+	jQuery('#msgTxt').val(sm+'#输入话题标题#');
+	textSelect($d('msgTxt'),parseInt(st+1),parseInt(st+7));
+}
+
+//一级评论话题
+function newTopic1(wid){
+	if($d('commentText_'+wid).value == "评论 ..."){
+		var st = 0;
+		var sm = '';
+		jQuery('#commentText_'+wid).animate({ height:"60"}, 200);
+	}
+	else{
+		var st = $d('commentText_'+wid).value.length;
+		var sm = $d('commentText_'+wid).value;
+	}
+	jQuery('#commentText_'+wid).val(sm+'#输入话题标题#');
+	textSelect($d('commentText_'+wid),parseInt(st+1),parseInt(st+7));
+}
+
+function setTop(){
+	jQuery('#settop').toggle();
+	jQuery('#wb_top').val('');
+	jQuery('#wb_top').focus();
+}
+
+
+function autoShowDoing(){
+		var thisType = jQuery("#s_type").val();
+		var thisCat = jQuery("#s_cat").val();
+		if(thisType == '' || thisType == null || typeof(thisType) == 'undefined'){
+			window.PAGE = window.PAGE_;
+			window.TOTAL = window.TOTAL_;
+		}else{
+			eval("window.PAGE = window.PAGE_"+thisType);
+			eval("window.TOTAL = window.TOTAL_"+thisType);
+		}
+		
+		jQuery("#moreAir"+thisType).html('<img src="zdschool/images/loading.gif" align="absmiddle"> 正在加载...');
+		var thisData = {verify:'ogkino',type:'showdoing'+thisType,mode:window.MODE,k:window.KEYS,page:parseInt(window.PAGE)+1,suid:window.SUID,stime:window.STIME,etime:window.ETIME,cat:thisCat};
+		jQuery.ajax({
+			type: myHomeOp.type,
+			url: myHomeOp.url,
+			dataType: myHomeOp.dataType,
+			data:thisData,
+			async: true,
+			success: function(data){
+				page = parseInt(window.PAGE);
+				jQuery("#tagContenttAir"+thisType).append(data);
+				jQuery("#moreAir"+thisType).html("更多...");
+				jQuery(".body").append('<div style="height:0px;clear:both;"></div>');
+			}
+		});
+}
+
+
+window.AUTOPAGE = 1;
+jQuery(document).ready(function (){
+	jQuery(window).scroll(function(){
+								   
+		var thisType = jQuery("#s_type").val();
+		var thisCat = jQuery("#s_cat").val();
+		if(thisType == '' || thisType == null || typeof(thisType) == 'undefined'){
+			window.PAGE = window.PAGE_;
+			window.TOTAL = window.TOTAL_;
+		}else{
+			eval("window.PAGE = window.PAGE_"+thisType);
+			eval("window.TOTAL = window.TOTAL_"+thisType);
+		}
+		
+		var nWindowHight = jQuery(window).height();
+		var nScrollTop = jQuery(document).scrollTop();
+
+		var nBodyHight = jQuery('body').height();
+		//var scrollTop = document.documentElement.scrollTop || window.pageYOffset || document.body.scrollTop;
+		if(nWindowHight + nScrollTop >= nBodyHight){
+			if(window.AUTOPAGE && window.TOTAL!=parseInt(window.PAGE)+1){
+				autoShowDoing();
+				window.AUTOPAGE = 0;
+			}
+			else{
+				window.setTimeout(function(){window.AUTOPAGE = 1;},1100);
+			}
+		}
+	});
+});
+
+function scrollUpTop(){
+	jQuery("html, body").animate({ scrollTop: "0px" }, 500);
+}
+$d = function(id){return document.getElementById(id);}
+
+function get_zd_smilea(fn,wid,xx,yy){
+	var smileDiv = '<div style="background:#FFFFFF; border:1px solid #00A5E9;width:250px;height:200px; padding:20px; z-index:999;position:absolute;left:'+xx+'px;top:'+yy+'px;" id="smileDiv"><div style="text-align:right; width:100%; cursor:pointer;" onclick="jQuery(\'#smileDiv\').remove();"> X </div><a href="javascript:;" onclick="'+fn+'('+wid+',1);"><img src="zdschool/images/smile_ff/1.gif" border="0" width="48" height="48"></a><a href="javascript:;" onclick="'+fn+'('+wid+',2);"><img src="zdschool/images/smile_ff/2.gif" border="0" width="48" height="48"></a><a href="javascript:;" onclick="'+fn+'('+wid+',3);"><img src="zdschool/images/smile_ff/3.gif" border="0" width="48" height="48"></a><a href="javascript:;" onclick="'+fn+'('+wid+',4);"><img src="zdschool/images/smile_ff/4.gif" border="0" width="48" height="48"></a><a href="javascript:;" onclick="'+fn+'('+wid+',5);"><img src="zdschool/images/smile_ff/5.gif" border="0" width="48" height="48"></a><br><br><a href="javascript:;" onclick="'+fn+'('+wid+',6);"><img src="zdschool/images/smile_ff/6.gif" border="0" width="48" height="48"></a><a href="javascript:;" onclick="'+fn+'('+wid+',7);"><img src="zdschool/images/smile_ff/7.gif" border="0" width="48" height="48"></a><a href="javascript:;" onclick="'+fn+'('+wid+',8);"><img src="zdschool/images/smile_ff/8.gif" border="0" width="48" height="48"></a><a href="javascript:;" onclick="'+fn+'('+wid+',9);"><img src="zdschool/images/smile_ff/9.gif" border="0" width="48" height="48"></a><a href="javascript:;" onclick="'+fn+'('+wid+',10);"><img src="zdschool/images/smile_ff/10.gif" border="0" width="48" height="48"></a><br><br><a href="javascript:;" onclick="'+fn+'('+wid+',11);"><img src="zdschool/images/smile_ff/11.gif" border="0" width="48" height="48"></a><a href="javascript:;" onclick="'+fn+'('+wid+',12);"><img src="zdschool/images/smile_ff/12.gif" border="0" width="48" height="48"></a><a href="javascript:;" onclick="'+fn+'('+wid+',13);"><img src="zdschool/images/smile_ff/13.gif" border="0" width="48" height="48"></a></div>';
+	return smileDiv;
+}

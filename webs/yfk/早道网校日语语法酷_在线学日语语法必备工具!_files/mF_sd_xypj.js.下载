@@ -1,0 +1,21 @@
+myFocus.pattern.extend({//*********************tqq******************
+	'mF_sd_xypj':function(settings,$){
+		var $tqq=$(settings);
+		var $msgUl=$tqq.find('.msgs');
+		var $liList = $msgUl.find('li'); 
+		//加入向上向下按钮
+		//var $prevBtn=$tqq.addHtml('<div class="prev"><a href="javascript:;">&#8249;</a></div>');
+		//var $nextBtn=$tqq.addHtml('<div class="next"><a href="javascript:;">&#8250;</a></div>');
+		var h=36,n=$liList.length;//36数值是每次移动的高度
+		//PLAY
+		$tqq.play(function(i){
+		    var index=i>=n?(i-n):i;
+		},function(i){
+		    var index=i>=n?(i-n):i;
+		    $msgUl.slide({top:-h*i});
+		},settings.seamless);
+		//向上向下按钮事件绑定
+		//$prevBtn.bind('click',function(){$tqq.run('+=1')});
+		//$nextBtn.bind('click',function(){$tqq.run('-=1')});
+	}
+});

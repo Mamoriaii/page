@@ -1,0 +1,1 @@
+document.write('<div><a href="http://grammar.izaodao.com/T/App/yfk" target="_blank"><img src="http://www.izaodao.com/data/attachment/common/cf/170118kheoeo5qjg0o3s33.png" border="0"></a></div>');

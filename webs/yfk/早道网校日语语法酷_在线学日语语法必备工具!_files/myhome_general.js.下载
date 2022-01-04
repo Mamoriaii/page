@@ -1,0 +1,85 @@
+function daKa(){
+ 
+	var thisData = {verify:'ogkino',type:'daka'};
+		$.ajax({
+			type: "POST",
+			url: "zdschool/php/myhome_general_ajax.php",
+			dataType: "html",
+			data:thisData,
+			async: true,
+			success: function(data){
+				var val = new Array;
+				val = data.split("|");
+				jQuery('#dk_count').html(parseInt(jQuery('#dk_count').html())+parseInt(val[0]));
+				if(val[0]=='1'){
+					var showcount = val[2];
+					$('#dkbtn').html("已签到");
+					ajax_popMsg("提示","签到成功,获得10早点奖励!","2000","");
+				}else{
+					ajax_popMsg("提示","您今天已签到!","2000","");
+				}
+			}
+		});
+}
+
+function doo(ul)
+{   
+   
+   var ulobj=document.getElementById(ul);
+   //clear(); 
+   //alert(ulobj.style.display);
+   if(ulobj.style.display =="none" || ulobj.style.display =="")
+     {  
+       	  ulobj.style.display="block";
+		  //ulobj.focus();
+   }else{
+   			ulobj.style.display="none";
+   }
+   
+}
+
+//倒计时更换
+function countdown(id){
+	if(navigator.userAgent.indexOf("Firefox") > 0) {jQuery('#index_text1').hide();}
+	ogAjax('netschool/php/my_ajax.php','post',{type:'xuigai',id:id,verify:'ogkino'},function(data){
+		var dataary = data.split('|');
+		jQuery('#cwn_label').html(dataary[0]);
+		if(dataary[1] == 0){jQuery('#daywnz').html('就在 ');jQuery('#daynum').html('今');}
+		else{jQuery('#daywnz').html('还有：');jQuery('#daynum').html(dataary[1]);}
+		jQuery('#kssj').html(dataary[2]);
+		if(dataary[3] == ''){
+			jQuery('.lz_djs_3').html();
+			jQuery('.lz_djs_3').css("height","0");
+		}else{
+		}
+		jQuery('.lz_djs_3').html(dataary[3]);
+		jQuery('.lz_djs_3').css("height","23px");
+	});
+}
+
+//新鲜事
+function fresh_sh(){
+	var noeid = jQuery('#fresh div:first').attr('id');
+	var ne_ar = noeid.split('_');
+	ogAjax('netschool/php/my_ajax.php','post',{type:'fresh',id:ne_ar[1],verify:'ogkino'},function(data){
+		var data_ary = data.split('||');
+		if(data_ary[0].trim() == 'zhengchang'){
+			jQuery('#'+noeid).before(data_ary[1]);
+			var acc = data_ary[2].trim();
+			jQuery('#fresh_'+acc).slideDown("slow",function(){
+				jQuery('#fresh_xj_'+acc).fadeIn("slow",function(){
+					if(jQuery('#fresh').children('div').length>3)
+					jQuery("#fresh>div:last").remove();
+				});
+			});
+		}
+	});
+}
+
+//提示
+function my_tishi(mz){
+	jQuery('#'+mz).hide();
+	ogAjax('netschool/php/myhome_general_ajax.php','post',{type:'tishi',my_tishi:mz,verify:'ogkino'},function(data){
+	});
+}
+

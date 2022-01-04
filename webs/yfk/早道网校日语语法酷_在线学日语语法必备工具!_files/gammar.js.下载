@@ -1,0 +1,18 @@
+// JavaScript Document
+function addfavorites(kid){
+
+			$.ajax({
+				type: "POST",
+				url: "grammar.php?ac=plan",
+				dataType: "html",
+				data:{mod:"ajax","do":"addfavorites",kid:kid},
+				async: true,
+				success: function(data){
+				
+					eval(data);
+				
+				}
+			});
+		
+		
+}

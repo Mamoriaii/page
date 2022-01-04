@@ -1,0 +1,172 @@
+//购物车操作
+	var cart_op = {
+			"url": '/cart.php?ac=do',
+			"type": 'post',
+			"dataType": 'html'
+	}
+	//单次添加班级到购物车
+	function cart_add_one_class(courses_id,up_mobile,price){
+		var op = 'add_one_class';
+        if(price == void 0){
+	       price="";
+	   }
+		var this_data = {'op':op,'courses_id':courses_id,'up_mobile':up_mobile,"price":price};
+		jQuery.ajax({
+			url:cart_op.url,
+			type:cart_op.type,
+			dataType:cart_op.dataType,
+			data:this_data,
+			success:function(data){
+				eval(data);
+			}
+		});	
+	}
+	//删除购物车中的班级
+	function cart_del_one_class(id){
+		var op = 'del_one_class';
+		var this_data = {'op':op,'id':id};
+		jQuery.ajax({
+			url:cart_op.url,
+			type:cart_op.type,
+			dataType:cart_op.dataType,
+			data:this_data,
+			success:function(data){
+				eval(data);
+			}
+		});	
+	}
+	
+	//付款前验证操作
+	function cart_payment_verification(){
+		var op = 'payment_verification';
+		var this_data = {'op':op};
+		jQuery.ajax({
+			url:cart_op.url,
+			type:cart_op.type,
+			dataType:cart_op.dataType,
+			data:this_data,
+			success:function(data){
+				eval(data);
+			}
+		});
+	}
+	
+	function cart_payment(){
+		var op = 'payment';
+		var this_data = {'op':op};
+		jQuery.ajax({
+			url:cart_op.url,
+			type:cart_op.type,
+			dataType:cart_op.dataType,
+			data:this_data,
+			success:function(data){
+				eval(data);
+			}
+		});	
+	}
+//优惠券操作
+	var cart_coupons_op = {
+			"url": '/cart.php?ac=use_coupons',
+			"type": 'post',
+			"dataType": 'html'
+	}
+	//优惠券绑定层
+	function open_use_coupons(cart_id){
+		var op = 'open_use_coupons';
+		var this_data = {'op':op,'cart_id':cart_id};
+		jQuery.ajax({
+			url:cart_coupons_op.url,
+			type:cart_coupons_op.type,
+			dataType:cart_coupons_op.dataType,
+			data:this_data,
+			success:function(data){
+				var div_obj = jQuery("#message_box");
+				div_obj.hide();
+				div_obj.html(data);
+				div_obj.show();
+				var winWidth = jQuery(window).width();
+				var winHeight = jQuery(window).height();
+				var popHeight = div_obj.children().height();
+				var popWidth = div_obj.children().width();
+				div_obj.children().css({ left: (winWidth-popWidth) / 2, top: (winHeight-popHeight)/2}, 100);
+				
+			}
+		});	
+	}
+	//使用优惠券
+	function use_coupons(cart_id){
+		var op = 'use_coupons';
+		var card = jQuery('#card').val();
+		if(card=='' || typeof card=='undefined'){
+			auto_message_box_msg_show("请输入优惠券号!",1);
+			return false;
+		}
+		var this_data = {'op':op,'cart_id':cart_id,'card':card};
+		jQuery('#check_card').addClass("button_gray_wait");
+		jQuery("#check_card").html("验证中...");
+		jQuery('#check_card').attr("disabled","disabled");
+		jQuery.ajax({
+			url:cart_coupons_op.url,
+			type:cart_coupons_op.type,
+			dataType:cart_coupons_op.dataType,
+			data:this_data,
+			success:function(data){
+				eval(data);
+			}
+		});
+	}
+	function auto_message_box_msg_show(msg,close_msg,close_msg_box){
+		jQuery('#message_box_msg').html(msg);
+		jQuery('#message_box_msg').show('fast');
+		if(close_msg=='1'){
+			auto_message_box_msg_close_inv = setTimeout('auto_message_box_msg_close()',1200);
+		}
+		if(close_msg_box=='1'){
+			auto_message_box_close_inv = setTimeout("auto_message_box_close()",1800);
+		}
+	}
+	
+	var auto_message_box_msg_close_inv = "";
+	var auto_message_box_close_inv = "";
+	
+	function auto_message_box_close(){
+		jQuery('#message_box').hide('fast');
+		auto_message_box_close_inv = "";
+	}
+	function auto_message_box_msg_close(){
+		jQuery('#check_card').removeAttr("disabled");
+		jQuery("#check_card").html("&nbsp;提&nbsp;交&nbsp;");
+		jQuery('#check_card').removeClass("button_gray_wait");
+	  	jQuery('#message_box_msg').hide('fast');
+		auto_message_box_msg_close_inv = "";
+	}
+    function xszyh_pop(){
+        jQuery('#mask').show();
+        jQuery('#xszyh_pro').show();
+    }
+    function xszyh_checkbox(thisObj){
+        if(jQuery(thisObj).prop('checked')){
+            //选中
+            //console.log(1);
+            jQuery('.xieyi_next').attr('onclick','xszyh_next();');
+            jQuery('.xieyi_next').addClass('xieyi_next2');
+        }else{
+            //取消
+            //console.log(0);
+            jQuery('.xieyi_next').removeAttr('onclick');
+            jQuery('.xieyi_next').removeClass('xieyi_next2');
+        }
+    }
+    function xszyh_next(){
+        jQuery('#mask').hide();
+        jQuery('#xszyh_pro').hide();
+        autoPopMsg("确认付款","<a href='javascript:void(0);' onclick=\"showCZtip()\">确认付款</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='javascript:void(0);' onclick=\"hideDiv2('pop_div');\">取消付款</a>","30000","");
+    }
+    function xszyh_cancel(){
+        jQuery('#mask').hide();
+        jQuery('.xieyi_next').removeAttr('onclick');
+        jQuery('.xieyi_next').removeClass('xieyi_next2');
+        jQuery('.xieyi610_check').prop('checked',false);
+        jQuery('#xszyh_pro').hide();
+    }
+	

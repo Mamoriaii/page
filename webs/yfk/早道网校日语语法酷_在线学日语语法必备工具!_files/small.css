@@ -1,0 +1,122 @@
+@charset "utf-8";
+/* CSS Document */
+.header_contents{ width:970px;}
+.nav ul{ margin-left:6px;}
+.logo img{ margin-left:0px;}
+.personal{ margin-right:0px;}
+.personal_lt ul li{ margin-right:0px;}
+.getIN{ margin-right:2px;}
+.namebutton{ margin-right:2px;}
+.topicImg_list{ width:970px;}
+.topicImg_list ul{ width:880px;}
+#contents{ width:970px;}
+#wrapper{ width:970px !important;}
+.contents_md{ width:490px;}
+.cl_list,.cl_list_title,.cl_list_contents{ width:490px;}
+.contents_lt{ margin-left:25px;}
+.contents_rt{ margin-right:25px;}
+.contents_rt1{ display:none;}
+.contents_small{ margin-right:0px;}
+.leftbutton img {margin-right: 12px;}
+.rightbutton img {margin-right: 12px; margin-left:6px;}
+.logos b{ margin-left:12px;}
+.logos ul{ margin-left:12px;}
+.footer_contents_lt{ margin-left:12px;}
+.contents_md1{ margin-left:30px;}
+.lesson_join{ display:none;}
+.lesson_detail_con{ margin-left:20px;}
+.lesson_title1{ margin-left:20px;}
+.nav_top1_lt{ margin-left:20px;}
+.nav_top1{ width:970px;}
+.nav_top1_rt{ margin-right:10px;}
+.kecheng_all{ width:970px;}
+.teacher_list{ width:970px;}
+.teacher_list_lt{ width:685px;}
+.teacher_list_contents{width:685px;}
+.teacher_list_contents1,.teacher_list_contents2{ width:684px;}
+.teacher_list_contents_up, .teacher_list_contents_dw{ width:680px;}
+.teacher_icon{ width:50px; margin-right:10px;}
+.teacher_list_contents_dw ul{ width:445px; height:65px;}
+.teaching_rt,.teaching_title,.teching_img{ width:730px;}
+/*下面是教学体系部分的*/
+.setup,.setup_duibi{ width:730px; margin-left:0px;}
+.setup_duibi img{ width:40%;}
+.setup_table{ width:730px;}
+.setup_table th{ width:182px;}
+.setup_contents,.setup_contents1{ padding-left:20px; width:710px;}
+.setup_contents_lt{ width:260px; margin-left:30px;}
+.setup_contents_lt img{ width:100%;}
+.tip1,.tip2,.tip3{ right:10px;}
+.eval_comment{ width:660px;}
+.eval_contents2 ul li p{ width:610px;}
+.mfsx{ margin-bottom:10px;}
+/*下面是关于早道模块的*/
+.company_about span{ width:710px;}
+.company_about, .person_about{ width:730px;}
+.company_partner{ width:750px;}
+.media_word1,.media_word2{ width:730px; height:352px;}
+.media_word_contents1,.media_word_contents2,.media_word_contents3{ width:695px;}
+.media_word_contents1_dwrt ul li{ width:245px;}
+.media_word_contents1_dwrt1 ul li{ width:650px;}
+.media_word_contents1_dwrt1{ width:675px;}
+.media_word_contents1_dwrt ul li a, .media_word_contents1_dwrt1 ul li a{ margin-right:4px;}
+.media_word_contents1_up a, .media_word_contents2_up a{ width:650px;}
+.zaodao_all,.recruitment,.contaction{ width:730px;}
+.zaodao_all_word{ top:237px;}
+.join_price1{ width:227px;}
+.join_price1 p{ padding:15px; width:197px; line-height:20px;}
+.recruitment_contents{ width:415px;}
+.contaction ul{ margin-left:0px;}
+.contaction ul li{ margin-right:125px;}
+.more4{ margin-right:70px;}
+.company_contact1,.company_contact2{ width:730px;}
+#portamento_container #sidebar.fixed{ margin-left:-475px !important; left:50% !important;}
+.app_lt{ display:none;}
+/*补充*/
+.links_list{ width:970px;}
+.jCarouselLite{ width:879px !important;}
+.cl_list_contents1{ margin-right:5px;}
+.evaluation_list_dw p{ width:210px;}
+.leyu0725 a{
+	display:block;
+	background:url(../../images/v4/onlie_talk2.png) no-repeat;
+	width:50px;
+	height:120px;
+}
+.leyu0725 a:hover{
+	background:url(../../images/v4/onlie_talk1.png) no-repeat;
+	width:80px;
+	text-decoration:none !important;
+}
+.username{
+	width: 65px;
+	height: 20px;
+	overflow: hidden;
+}
+/*--2014.08.05---*/
+.lesson_all{ width:970px;}
+.youhui{ width:968px;}
+.for_student, .for_item{ width:435px;}
+.class_nav,.lesson_v4_list{ width:970px;}
+.lesson_v4_list2,.lesson_v4_list2_1,.lesson_v4_list2_2,.lesson_v4_list2_3,.lesson_v4_list2_4,.lesson_v4_list2_5{ width:535px;}
+.lesson_v4_list2_lt{width:235px;}
+.lesson_v4_list2_rt{ width:300px;}
+.lesson_v4_list1{ padding-left:30px;}
+.lesson_v4_list_1,.lesson_v4_list_2,.lesson_v4_list_3,.lesson_v4_list_4,.lesson_v4_list_5{width:970px;}
+.lesson_v4_list_1:hover{background:url(../../images/v4/bg_1.jpg) repeat-y;}
+.lesson_v4_list_2:hover{background:url(../../images/v4/bg1_1.jpg) repeat-y;}
+.lesson_v4_list_3:hover{background:url(../../images/v4/bg2_1.jpg) repeat-y;}
+.lesson_v4_list_4:hover{background:url(../../images/v4/bg3_1.jpg) repeat-y;}
+.lesson_v4_list_5:hover{background:url(../../images/v4/bg4_1.jpg) repeat-y;}
+.self, .eval,.youhui1{ width:970px;}
+.wrapper{ width:970px !important;margin:0 auto;}
+.discover-text{ width:250px !important;}
+.eval_title,.eval_list{ width:950px;}
+.eval_title2{ width:880px;}
+.eval_contents{width:890px;}
+.class_nav_copy{ width:838px;}
+/*----------------------2014.10.13 新增------------------------*/
+.index_v4_con{ width: 94%;}
+/*2015.01.29*/
+.logo_small{ display:block;}
+.logo,.bianpao_lt,.bianpao_rt{ display:none;}

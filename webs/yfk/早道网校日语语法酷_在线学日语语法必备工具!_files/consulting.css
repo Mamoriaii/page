@@ -1,0 +1,128 @@
+
+.layerRight_pc400{
+    width:80px;
+    position: fixed;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    right:0px;
+    bottom: 200px;
+    z-index: 999;
+    background-color: #3ca4ff;
+}
+
+.up_pc400{
+    width:80px;
+    height:65px;
+    font-size: 12px;
+    color: #fff;
+    padding-top: 15px;
+    right:0px;
+    bottom: -80px;
+    /*position: fixed;*/
+    position: absolute;
+    display: none;
+    border-top: 1px solid #fff;
+    background-color: #3ca4ff;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.layerRight_line_pc400{
+    width:80px;
+    height:64px;
+    font-size: 12px;
+    color: #fff;
+    padding-top: 15px;
+    overflow: hidden;
+    position: relative;
+    border-bottom: 1px solid #fff;
+}
+
+.layerRight_line_pc400 span{
+    text-align: center;
+}
+
+.layerRight_line_pc400 span.ov_pc400{
+    position: absolute;
+    left: 0px;
+    text-align: center;
+}
+
+.layerRight_line_pc400 span.hover_pc400{
+    width:80px;
+    height:64px;
+    position: absolute;
+    left: 80px;
+    top: 5px;
+}
+
+.layerRight_line_pc400 a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.layerRight_line_pc400 p{
+    line-height: 18px;
+}
+
+.layerRight_line_pc400 span i.course_pc400,
+.layerRight_line_pc400 span i.study_pc400,
+.layerRight_line_pc400 span i.tel_pc400,
+.layerRight_line_pc400 span i.feedback_pc400,
+.layerRight_line_pc400 span i.help_pc400,
+.layerRight_line_pc400 span i.teacher_pc400,
+.layerRight_line_pc400 span i.help_pc400,
+.up_pc400 span i.upward_pc400{
+    width:35px;
+    height:33px;
+    display: block;
+    margin: 0px 25px 0px 25px;
+}
+.teacher_pc400{
+    background: url("img/teacher_icon.png") no-repeat 0px 0px;
+}
+.help_pc400{
+    background: url("img/ico.png") no-repeat 0px 0px;
+}
+
+.layerRight_line_pc400 span i.course_pc400{
+    background: url("img/layerRight_icon_pc400.png") no-repeat 0px 0px;
+}
+
+.layerRight_line_pc400 span i.study_pc400{
+    background: url("img/layerRight_icon_pc400.png") no-repeat 0px -32px;
+}
+
+.layerRight_line_pc400 span i.tel_pc400{
+    background: url("img/layerRight_icon_pc400.png") no-repeat 0px -64px;
+}
+
+.layerRight_line_pc400 span i.feedback_pc400{
+    background: url("img/layerRight_icon_pc400.png") no-repeat 0px -99px;
+}
+.layerRight_line_pc400 span i.help_pc400{
+    background: url("img/layerRight_icon_pc400.png") no-repeat 0px -131px;
+}
+
+.layerRight_line_pc400 span i.wechat_pc400{
+    width:35px;
+    height:30px;
+    display: block;
+    margin: 0px 22px 0px 23px;
+    background: url("img/wechat-icon.png") no-repeat;
+}
+
+.up_pc400 span i.upward_pc400{
+    margin-top: 10px;
+    background: url("img/layerRight_icon_pc400.png") no-repeat 0px -164px;
+}
+
+.code_pc400{
+    position: absolute;
+    right: 90px;
+    display: none;
+}
+
+.curP{ cursor: pointer !important;}
+.mt15{ margin-top: 15px !important;}
+.top13{ top: 13px !important;}

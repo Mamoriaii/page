@@ -1,0 +1,102 @@
+// JavaScript Document
+function tabs(tabTit,on,tabCon) {
+    $(tabCon).each(function() {
+        $(this).children().eq(0).show();
+    });
+    $(tabTit).each(function() {
+        $(this).children().eq(0).addClass(on);
+    });
+
+    $(tabTit).children().click(function() {
+        $(this).addClass(on).siblings().removeClass(on);
+        var index = $(tabTit).children().index(this);
+        $(tabCon).children().eq(index).show().siblings().hide();
+    });
+}
+function tabs5(tabTit, on, tabCon, val) {
+   if (val){
+        $(tabTit).addClass(on).siblings().removeClass(on);
+        var index = $(tabTit).children().index(this);
+        $(tabCon).children().eq(index).show().siblings().hide();
+        $("#col2-3-leftRight").css({"width":"815px"});
+   } else {
+		$("#col2-3-leftRight").css({"width":"990px"});   
+	   
+   }
+}
+function tabs4(tabTit, on, hover, tabCon) {
+    $(tabCon).each(function() {
+        $(this).children().eq(0).fadeIn("slow");
+    });
+    $(tabTit).each(function() {
+        $(this).children().eq(0).addClass(on);
+    });
+
+    $(tabTit).children().click(function() {
+        $(this).addClass(on).siblings().removeClass(on);
+        var index = $(tabTit).children().index(this);
+        $(tabCon).children().eq(index).fadeIn("slow").siblings().fadeOut("fast");
+    });
+    $(tabTit).children().hover(function() {
+        $(this).addClass(hover);
+    },
+		function() {
+		    $(this).removeClass(hover);
+		});
+}
+function tabsHover(tabTit, hover, tabCon) {
+    $(tabCon).each(function() {
+        $(this).children().eq(0).show();
+    });
+    $(tabTit).each(function() {
+        $(this).children().eq(0).addClass(hover);
+    });
+
+    $(tabTit).children().hover(function() {
+        $(this).addClass(hover).siblings().removeClass(hover);
+        var index = $(tabTit).children().index(this);
+        $(tabCon).children().eq(index).show().siblings().hide();
+    });
+}
+function toggle(toggleTit, on, conElem) {
+
+    $(toggleTit).click(function() {
+        if ($(this).attr("class") != on) {
+            $(this).addClass(on);
+            $(this).next(conElem).slideDown("fast");
+        }
+        else {
+            $(this).removeClass(on);
+            $(this).next(conElem).slideUp("fast");
+
+        }
+    });
+}
+
+function toggle2(toggleTit, on, conElem) {
+
+    $(toggleTit).toggle(function() {
+        $(this).addClass(on);
+        $(this).next(conElem).slideUp("fast");
+    },
+function() {
+    $(this).removeClass(on);
+    $(this).next(conElem).slideDown("fast");
+
+
+});
+}
+
+function toggle3(toggleTit, on, conElem) {
+
+    $(toggleTit).hover(function() {
+        $(this).addClass(on);
+        $(this).next(conElem).show("fast");
+    },
+function() {
+    $(this).removeClass(on);
+    $(this).next(conElem).hide("fast");
+
+
+});
+}
