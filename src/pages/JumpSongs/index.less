@@ -1,0 +1,94 @@
+@desc-height: 14px;
+
+.word-center {
+    text-align: center;
+    text-align-last: center;
+}
+.ep-word-box {
+    position: relative;
+
+    display: inline-block;
+
+    margin: 0 2px;
+
+    text-align: justify;
+    text-align-last: justify;
+}
+
+.ep-word {
+    font-family: '-apple-system', BlinkMacSystemFont, 'Yu Gothic', '游ゴシック', YuGothic, '游ゴシック体', 'Noto Sans Japanese', 'ヒラギノ角ゴ Pro W3', 'メイリオ', 'Hiragino Kaku Gothic ProN', 'MS PGothic', Osaka, 'sans-serif';
+    font-weight: 600;
+    line-height: 28px;
+
+    position: relative;
+
+    padding: 0 5px;
+
+    span {
+        position: relative;
+        z-index: 2;
+    }
+    &::after {
+        position: absolute;
+        z-index: 0;
+        right: 0;
+        bottom: 4px;
+        left: 0;
+
+        height: 3px;
+
+        content: '';
+
+        border-radius: 2px;
+    }
+}
+.word-mark {
+    margin-left: -12px;
+}
+
+
+.ep-reading {
+    font-size: 10px;
+    line-height: 12px;
+    min-width: 1px;
+    margin-bottom: -4px;
+    padding: 0 5px;
+    letter-spacing: 1px;
+    transform: scale(.85);
+}
+
+.ep-desc {
+    font-size: 12px;
+    line-height: @desc-height;
+
+    margin-top: 2px;
+
+    text-align: center;
+    text-align-last: center;
+
+    color: #999;
+}
+
+
+@bgcardList:n,a,v,adv,av,mv,info,\/;
+@colorList:#fef569,#f1c9e1,#b8df86,#d096ea, #93d7df,#aaaaaa,#9b9b9b, transparent;
+.backgroundcard(@className,@color) {
+    .colormap-@{className} {
+      background:@color;
+      padding: 1px 6px;
+    }
+    .colormapbg-@{className} {
+        background:tint(@color,80%);
+        padding: 1px 6px;
+      }
+    .word-@{className}::after {
+        // background:tint(@color, 80%);
+        background:@color;
+    }
+}
+
+.loop(@i) when (@i < length(@bgcardList)+1){
+  .backgroundcard(extract(@bgcardList, @i), extract(@colorList, @i));
+  .loop(@i+1);
+}
+.loop(1);

@@ -1,0 +1,74 @@
+@desc-height: 14px;
+@bgcardList:n,a,v,adv,av,mv,info,\/;
+@colorList:#fef569,#f1c9e1,#b8df86,#d096ea, #93d7df,#aaaaaa,#9b9b9b, transparent;
+.backgroundcard(@className,@color) {
+    .colormap-@{className} {
+      background:@color;
+      padding: 4px 6px;
+    }
+    .word-@{className}::after {
+        background:@color;
+    }
+}
+
+.loop(@i) when (@i < length(@bgcardList)+1){
+  .backgroundcard(extract(@bgcardList, @i), extract(@colorList, @i));
+  .loop(@i+1);
+}
+.loop(1);
+
+
+.lrc-word-box {
+    position: relative;
+
+    display: inline-block;
+
+    margin: 0 3px;
+
+    text-align: justify;
+    text-align-last: justify;
+
+    .word-center {
+        text-align: center;
+        text-align-last: center;
+    }
+
+
+    .lrc-word {
+        font-family: '-apple-system', BlinkMacSystemFont, 'Yu Gothic', '游ゴシック', YuGothic, '游ゴシック体', 'Noto Sans Japanese', 'ヒラギノ角ゴ Pro W3', 'メイリオ', 'Hiragino Kaku Gothic ProN', 'MS PGothic', Osaka, 'sans-serif';
+        font-weight: 600;
+        line-height: 28px;
+
+        position: relative;
+
+        padding: 0 5px;
+
+        span {
+            position: relative;
+            z-index: 2;
+        }
+        &::after {
+            position: absolute;
+            z-index: 0;
+            right: 0;
+            bottom: 4px;
+            left: 0;
+
+            height: 12px;
+
+            content: '';
+
+            border-radius: 2px;
+        }
+    }
+
+    .lrc-reading {
+        font-size: 12px;
+        line-height: @desc-height;
+
+        min-width: 1px;
+        margin-bottom: 2px;
+        padding: 0 5px;
+    }
+}
+

@@ -1,0 +1,91 @@
+@import './_.mixin.less';
+@desc-height: 14px;
+.lrc-line {
+    margin: 10px 0;
+    .lrc-break {
+        position: relative;
+
+        display: inline-block;
+
+        margin: 0 5px 0;
+        padding: 0 2px;
+
+        &::before {
+            position: absolute;
+            right: 0;
+            bottom: 0;
+            left: 0;
+
+            height: 28px;
+
+            content: '';
+
+            border-radius: 4px;
+            background: #F3F3F3;
+        }
+    }
+    .word-center {
+        text-align: center;
+        text-align-last: center;
+    }
+
+    .lrc-word-box {
+        position: relative;
+
+        display: inline-block;
+
+        margin: 0 3px;
+
+        text-align: justify;
+        text-align-last: justify;
+    }
+
+    .lrc-word {
+        font-family: '-apple-system', BlinkMacSystemFont, 'Yu Gothic', '游ゴシック', YuGothic, '游ゴシック体', 'Noto Sans Japanese', 'ヒラギノ角ゴ Pro W3', 'メイリオ', 'Hiragino Kaku Gothic ProN', 'MS PGothic', Osaka, 'sans-serif';
+        font-weight: 600;
+        line-height: 28px;
+
+        position: relative;
+
+        padding: 0 5px;
+
+        span {
+            position: relative;
+            z-index: 2;
+        }
+        &::after {
+            position: absolute;
+            z-index: 0;
+            right: 0;
+            bottom: 4px;
+            left: 0;
+
+            height: 12px;
+
+            content: '';
+
+            border-radius: 2px;
+        }
+    }
+
+    .lrc-reading {
+        font-size: 12px;
+        line-height: @desc-height;
+
+        min-width: 1px;
+        margin-bottom: 2px;
+        padding: 0 5px;
+    }
+
+    .lrc-desc {
+        font-size: 12px;
+        line-height: @desc-height;
+
+        margin-top: 2px;
+
+        text-align: center;
+        text-align-last: center;
+
+        color: #999;
+    }
+}

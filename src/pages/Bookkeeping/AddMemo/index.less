@@ -1,0 +1,94 @@
+.header-bar {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 32px;
+
+    display: flex;
+    justify-content: space-between;
+
+    padding: 10px;
+
+    color: #FFF;
+    background: rgba(darkcyan,.6);
+}
+
+.price-input {
+    font-size: 18px;
+    font-weight: bold;
+
+    text-align: right;
+    letter-spacing: 2px;
+
+    color: #FFF;
+    border: none;
+    outline: none;
+    background: none;
+    &::-webkit-input-placeholder {
+        color: rgba(#FFF,.5);
+    }
+    &:focus {
+        box-shadow: none;
+    }
+}
+
+.desc-box {
+    line-height: 32px;
+
+    display: flex;
+
+    padding: 10px;
+}
+
+.date-box {
+    padding-right: 10px;
+
+// background: gold;
+
+    border-right: 1px solid #666;
+}
+.desc-input-box {
+    overflow: hidden;
+    flex: 1;
+
+    height: 32px;
+    .desc-input {
+        line-height: 16px;
+
+        padding-top: 8px;
+
+        border: none;
+        &:focus {
+            outline: none;
+            box-shadow: none;
+        }
+    }
+}
+
+.icon {
+    padding-right: 10px;
+}
+
+
+.add-wrapper {
+    display: flex;
+    overflow: hidden;
+    flex-direction: column;
+
+    height: 100vh;
+}
+
+
+.add-calc {
+    height: 240px;
+
+    background: gold;
+}
+
+.tags-wrapper {
+    overflow-x: hidden;
+    overflow-y: auto;
+    flex: 1;
+    span {
+        display: inline-block;
+    }
+}

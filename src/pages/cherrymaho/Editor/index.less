@@ -1,0 +1,167 @@
+html,
+body {
+    font-size: 10px;
+}
+
+.editor-layout {
+    overflow: hidden;
+
+    height: 100vh;
+}
+
+
+.passage-stage-section-dialog {
+    font-size: 1.4rem;
+
+    display: flex;
+    ruby {
+        font-size: 1.5rem;
+    }
+    .passage-speaker-wrapper {
+        width: 40px;
+        padding-top: 8px;
+
+        text-align: center;
+    }
+    .passage-segment-wrapper {
+        flex: 1;
+    }
+
+    // .passage-seg {
+    //     background: pink;
+    // }
+
+    // .passage-chunk {
+    //     background: gold;
+    // }
+
+    // .passage-word {
+    //     background: yellowgreen;
+    // }
+    // .passage-punk {
+    //     background: cyan;
+    // }
+}
+
+.mode-show-sys {
+    .passage-chunk:not(.passage-chunk-has-punk) {
+        display: inline-block;
+
+        padding-right: 8px;
+        padding-bottom: 4px;
+
+        border: 1px solid black;
+        border-top: none;
+        border-left: none;
+        border-bottom-right-radius: 4px;
+        &:not(:first-child) {
+            margin-left: 8px;
+        }
+    }
+}
+
+.mode-hide-reading {
+    .passage-speaker-wrapper {
+        padding-top: 0;
+    }
+    ruby rt {
+        display: none;
+    }
+}
+
+@color-noun: #FEF569;
+@color-a: #F1C9E1;
+@color-v: #B8DF86;
+@color-adv: #D096EA;
+@color-av: #93D7DF;
+@color-mv: #AAA;
+@color-info: #9B9B9B;
+.mode-show-pos {
+    .passage-word {
+        padding: 0 4px;
+
+        background: #F3F3F3;
+        &:not(:first-child) {
+            margin-left: 4px;
+        }
+    }
+    .word-n {
+        background: @color-noun;
+    }
+    .word-v {
+        background: @color-v;
+    }
+    .word-a {
+        background: @color-a;
+    }
+    .word-adv {
+        background: @color-adv;
+    }
+    .word-av {
+        background: @color-av;
+    }
+    .word-mv {
+        background: @color-mv;
+    }
+}
+
+.tree-op-wrapper {
+    display: none;
+    & > * {
+        margin-right: 2px;
+
+        transform: scale(.8);
+    }
+}
+
+.tree-title {
+    &:hover .tree-op-wrapper {
+        display: inline-block;
+    }
+}
+
+.speaker-text {
+    padding: 0 5px;
+
+    border-radius: 4px;
+}
+.speaker-has-children {
+    color: #FFF;
+    background-color: @primary-color;
+}
+
+.tree-seg {
+    border-bottom: 2px solid #DDD;
+}
+
+
+.struc-tree {
+    [class^=part-] {
+        padding: 0 6px;
+
+        border: 1px solid #DDD;
+        border-radius: 4px;
+    }
+    .part-surface {
+        opacity: .5;
+    }
+    .part-grammar {
+        margin-right: 5px;
+
+        background: #F2F2F2;
+    }
+
+    .tree-type-seg .part-surface {
+        opacity: 1;
+    }
+
+    .tree-type-word .part-surface {
+        opacity: 1;
+        color: #FFF;
+        background-color: @primary-color;
+    }
+
+    .tree-selected {
+        background: pink;
+    }
+}

@@ -1,0 +1,55 @@
+@import './_maxin.less';
+* {
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: #F0F0F0;
+}
+.page {
+    overflow: auto;
+
+    width: 980px;
+    height: 100vh;
+    margin: 0 auto;
+
+    background: #FFF;
+}
+.word-wrapper {
+    display: inline-block;
+
+    margin: 0 4px;
+
+    text-align: justify;
+    text-align-last: justify;
+    white-space: nowrap;        /* 不换行 */
+    word-break: keep-all;       /* 不换行 */
+
+    border-radius: 4px;
+    // background:#e8f4ff;
+    // background:#ffe3cb;
+    .word-reading {
+        font-size: 10px;
+
+        padding: 0 5px ;
+    }
+    .word {
+        font-family: '-apple-system', BlinkMacSystemFont, 'Yu Gothic', '游ゴシック', YuGothic, '游ゴシック体', 'Noto Sans Japanese', 'ヒラギノ角ゴ Pro W3', 'メイリオ', 'Hiragino Kaku Gothic ProN', 'MS PGothic', Osaka, 'sans-serif';
+        font-weight: 600;
+
+        position: relative;
+
+        padding: 0 5px 5px;
+
+        vertical-align: bottom;
+
+        border-radius: 4px;
+        background: #F0F0F0;
+    }
+
+    .word-center {
+        text-align: center;
+        text-align-last: center;
+    }
+}

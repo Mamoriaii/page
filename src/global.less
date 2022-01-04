@@ -1,0 +1,141 @@
+@import './assets/css/normalize.css';
+input:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+
+.hide-display {
+    display: none;
+}
+* {
+    box-sizing: border-box;
+}
+
+.showBlock .block-box {
+    position: relative;
+    position: relative;
+
+    display: inline-block;
+
+// padding: 5px 0;
+
+    padding-bottom: 4px;
+
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+
+// padding: 2px 0;
+    // padding: 2px;
+    // border-radius: 4px;
+    border-bottom-right-radius: 4px;
+
+    // background: #F3F3F3;
+
+    .block-tag {
+        display: inline-block;
+    }
+}
+
+.block-tag {
+    font-size: 10x;
+    font-weight: bolder;
+    line-height: 14px;
+
+    position: absolute;
+    right: 0;
+    bottom: -7px;
+
+    display: none;
+    display: inline-block;
+
+    width: 14px;
+    height: 14px;
+
+    transform: scale(.85);
+    text-align: center;
+
+    color: #000;
+
+// border: 1px solid #000;
+    border-radius: 4px;
+    text-shadow: #FFF -2px 0 0,#FFF 2px 0 0,#FFF 0 2px 0 ,#FFF 0 -2px 0;
+}
+.showBlock {
+    .block-V {
+        border-color: green;
+        background: #B8DF86;
+        .block-tag {
+            color: green;
+        }
+    }
+    .part-N {
+        // color: orange;
+        // border-bottom-color: #FEF569;
+        background: #FEF569;
+    }
+    .part-A {
+        // color: hotpink;
+        // border-bottom-color: #F1C9E1;
+        background: #F1C9E1;
+    }
+    .part-V {
+        // color: yellowgreen;
+        // border-bottom-color: #B8DF86;
+        background: #B8DF86;
+    }
+}
+.part-output {
+    padding: 0 2px;
+}
+.part-grammar {
+    padding: 0 2px;
+}
+
+// .block-N {
+//     color: red;
+// }
+// .block-A {
+//     color: green;
+// }
+
+
+ruby > rt {
+    font-size: 12px;
+    font-weight: normal;
+
+    transform: translateY(-5px);
+}
+
+ruby {
+    line-height: 22px;
+}
+
+// .showBlock {
+//     ruby > rt {
+//         visibility: hidden;
+//     }
+// }
+
+.curnode {
+    background: pink;
+}
+
+.speaker-wrapper {
+    display: flex;
+
+    .speaker {
+        width: 40px;
+        padding-right: 10px;
+    }
+
+    .lines {
+        flex: 1;
+    }
+}
+
+.hover:hover {
+    cursor: pointer;
+
+    color: @primary-color;
+}
