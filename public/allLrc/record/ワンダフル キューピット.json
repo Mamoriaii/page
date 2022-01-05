@@ -1,0 +1,1160 @@
+{
+  "name": "ワンダフル キューピット",
+  "artist": ["NYC"],
+  "producer": [
+    {
+      "label": "作詞",
+      "value": ["矢吹香那"]
+    },
+    {
+      "label": "作曲",
+      "value": ["Shusui"]
+    }
+  ],
+  "lrc": [
+    {
+      "id": 0,
+      "surface": "よく晴れた日曜日 今日もココアと散歩",
+      "words": [
+        {
+          "base": "よく",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ヨク",
+          "reading": "",
+          "surface": "よく",
+          "curPos": "adv"
+        },
+        {
+          "base": "晴れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハレ",
+          "reading": "はれた",
+          "surface": "晴れた",
+          "curPos": "v"
+        },
+        {
+          "base": "日曜日",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "ニチヨービ",
+          "reading": "にちようび",
+          "surface": "日曜日",
+          "curPos": "n"
+        },
+        {
+          "base": "今日",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "キョー",
+          "reading": "きょう",
+          "surface": "今日",
+          "curPos": "n"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "ココア",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ココア",
+          "reading": "",
+          "surface": "ココア",
+          "curPos": "n"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "散歩",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "サンポ",
+          "reading": "さんぽ",
+          "surface": "散歩",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "surface": "僕が行きたい場所も おかまいなしマイペース",
+      "words": [
+        {
+          "base": "僕",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボク",
+          "reading": "ぼく",
+          "surface": "僕",
+          "curPos": "/"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "行く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イキ",
+          "reading": "いきたい",
+          "surface": "行きたい",
+          "curPos": "v"
+        },
+        {
+          "base": "場所",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "バショ",
+          "reading": "ばしょ",
+          "surface": "場所",
+          "curPos": "n"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "おく",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "オカ",
+          "reading": "",
+          "surface": "おかまいなし",
+          "curPos": "v"
+        },
+        {
+          "base": "マイペース",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "マイペース",
+          "reading": "",
+          "surface": "マイペース",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 3,
+      "surface": "少し落ち込んだ日も いつも連れ出してくれる",
+      "words": [
+        {
+          "base": "少し",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "スコシ",
+          "reading": "すこし",
+          "surface": "少し",
+          "curPos": "adv"
+        },
+        {
+          "base": "落ち込む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "オチコン",
+          "reading": "おちこんだ",
+          "surface": "落ち込んだ",
+          "curPos": "v"
+        },
+        {
+          "base": "日",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ヒ",
+          "reading": "ひ",
+          "surface": "日",
+          "curPos": "n"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "いつも",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "イツモ",
+          "reading": "",
+          "surface": "いつも",
+          "curPos": "adv"
+        },
+        {
+          "base": "連れ出す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ツレダシ",
+          "reading": "つれだして",
+          "surface": "連れ出して",
+          "curPos": "v"
+        },
+        {
+          "base": "くれる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "クレル",
+          "reading": "",
+          "surface": "くれる",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 5,
+      "surface": "今日はどんな幸せ 僕らを待ってるかな",
+      "words": [
+        {
+          "base": "今日",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "キョー",
+          "reading": "きょう",
+          "surface": "今日",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "どんな",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "ドンナ",
+          "reading": "",
+          "surface": "どんな",
+          "curPos": "/"
+        },
+        {
+          "base": "幸せ",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "シアワセ",
+          "reading": "しあわせ",
+          "surface": "幸せ",
+          "curPos": "n"
+        },
+        {
+          "base": "僕ら",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボクラ",
+          "reading": "ぼくら",
+          "surface": "僕ら",
+          "curPos": "/"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "待つ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "マッ",
+          "reading": "まっ",
+          "surface": "待っ",
+          "curPos": "v"
+        },
+        {
+          "base": "てる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "テル",
+          "reading": "",
+          "surface": "てる",
+          "curPos": "v"
+        },
+        {
+          "base": "か",
+          "pos": "助詞,副助詞／並立助詞／終助詞,*,*",
+          "pronunciation": "カ",
+          "reading": "",
+          "surface": "か",
+          "curPos": "av"
+        },
+        {
+          "base": "な",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 7,
+      "surface": "いつも見る あの子は来てるかな?",
+      "words": [
+        {
+          "base": "いつも",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "イツモ",
+          "reading": "",
+          "surface": "いつも",
+          "curPos": "adv"
+        },
+        {
+          "base": "見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミル",
+          "reading": "みる",
+          "surface": "見る",
+          "curPos": "v"
+        },
+        {
+          "base": "あの",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "アノ",
+          "reading": "",
+          "surface": "あの",
+          "curPos": "/"
+        },
+        {
+          "base": "子",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "コ",
+          "reading": "こ",
+          "surface": "子",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "来る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "キ",
+          "reading": "き",
+          "surface": "来",
+          "curPos": "v"
+        },
+        {
+          "base": "てる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "テル",
+          "reading": "",
+          "surface": "てる",
+          "curPos": "v"
+        },
+        {
+          "base": "か",
+          "pos": "助詞,副助詞／並立助詞／終助詞,*,*",
+          "pronunciation": "カ",
+          "reading": "",
+          "surface": "か",
+          "curPos": "av"
+        },
+        {
+          "base": "な",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "?",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 9,
+      "surface": "君のよくきく鼻で あの子を探してくれ",
+      "words": [
+        {
+          "base": "君",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "きみ",
+          "surface": "君",
+          "curPos": "/"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "よく",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ヨク",
+          "reading": "",
+          "surface": "よく",
+          "curPos": "adv"
+        },
+        {
+          "base": "きく",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "キク",
+          "reading": "",
+          "surface": "きく",
+          "curPos": "v"
+        },
+        {
+          "base": "鼻",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ハナ",
+          "reading": "はな",
+          "surface": "鼻",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "あの",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "アノ",
+          "reading": "",
+          "surface": "あの",
+          "curPos": "/"
+        },
+        {
+          "base": "子",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "コ",
+          "reading": "こ",
+          "surface": "子",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "探す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "サガシ",
+          "reading": "さがして",
+          "surface": "探して",
+          "curPos": "v"
+        },
+        {
+          "base": "くれる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "クレ",
+          "reading": "",
+          "surface": "くれ",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "surface": "忘れられない香り ココアも覚えてるだろ?",
+      "words": [
+        {
+          "base": "忘れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ワスレ",
+          "reading": "わすれ",
+          "surface": "忘れ",
+          "curPos": "v"
+        },
+        {
+          "base": "られる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "ラレ",
+          "reading": "",
+          "surface": "られない",
+          "curPos": "v"
+        },
+        {
+          "base": "香り",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カオリ",
+          "reading": "かおり",
+          "surface": "香り",
+          "curPos": "n"
+        },
+        {
+          "base": "ココア",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ココア",
+          "reading": "",
+          "surface": "ココア",
+          "curPos": "n"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "覚える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "オボエ",
+          "reading": "おぼえ",
+          "surface": "覚え",
+          "curPos": "v"
+        },
+        {
+          "base": "てる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "テル",
+          "reading": "",
+          "surface": "てるだろ",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "?",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 12,
+      "surface": "あの子が連れたラッキーは いつもの場所でおすわり",
+      "words": [
+        {
+          "base": "あの",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "アノ",
+          "reading": "",
+          "surface": "あの",
+          "curPos": "/"
+        },
+        {
+          "base": "子",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "コ",
+          "reading": "こ",
+          "surface": "子",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "連れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ツレ",
+          "reading": "つれた",
+          "surface": "連れた",
+          "curPos": "v"
+        },
+        {
+          "base": "ラッキー",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ラッキー",
+          "reading": "",
+          "surface": "ラッキー",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "いつも",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "イツモ",
+          "reading": "",
+          "surface": "いつも",
+          "curPos": "adv"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "場所",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "バショ",
+          "reading": "ばしょ",
+          "surface": "場所",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "おすわり",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "オスワリ",
+          "reading": "",
+          "surface": "おすわり",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 14,
+      "surface": "今日はどんな幸せ 僕らを待ってるかな",
+      "words": [
+        {
+          "base": "今日",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "キョー",
+          "reading": "きょう",
+          "surface": "今日",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "どんな",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "ドンナ",
+          "reading": "",
+          "surface": "どんな",
+          "curPos": "/"
+        },
+        {
+          "base": "幸せ",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "シアワセ",
+          "reading": "しあわせ",
+          "surface": "幸せ",
+          "curPos": "n"
+        },
+        {
+          "base": "僕ら",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボクラ",
+          "reading": "ぼくら",
+          "surface": "僕ら",
+          "curPos": "/"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "待つ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "マッ",
+          "reading": "まっ",
+          "surface": "待っ",
+          "curPos": "v"
+        },
+        {
+          "base": "てる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "テル",
+          "reading": "",
+          "surface": "てる",
+          "curPos": "v"
+        },
+        {
+          "base": "か",
+          "pos": "助詞,副助詞／並立助詞／終助詞,*,*",
+          "pronunciation": "カ",
+          "reading": "",
+          "surface": "か",
+          "curPos": "av"
+        },
+        {
+          "base": "な",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 16,
+      "surface": "僕を見つけたラッキーも しっぽをふって近づく",
+      "words": [
+        {
+          "base": "僕",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボク",
+          "reading": "ぼく",
+          "surface": "僕",
+          "curPos": "/"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "見つける",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミツケ",
+          "reading": "みつけた",
+          "surface": "見つけた",
+          "curPos": "v"
+        },
+        {
+          "base": "ラッキー",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ラッキー",
+          "reading": "",
+          "surface": "ラッキー",
+          "curPos": "n"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "しっぽ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "シッポ",
+          "reading": "",
+          "surface": "しっぽ",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "ふる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "フッ",
+          "reading": "",
+          "surface": "ふって",
+          "curPos": "v"
+        },
+        {
+          "base": "近づく",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "チカズク",
+          "reading": "ちかづく",
+          "surface": "近づく",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "surface": "僕のお茶目なココア 僕のことを引っ張る",
+      "words": [
+        {
+          "base": "僕",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボク",
+          "reading": "ぼく",
+          "surface": "僕",
+          "curPos": "/"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "お",
+          "pos": "接頭詞,名詞接続,*,*",
+          "pronunciation": "オ",
+          "reading": "",
+          "surface": "お",
+          "curPos": "/"
+        },
+        {
+          "base": "茶目",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "チャメ",
+          "reading": "ちゃめな",
+          "surface": "茶目な",
+          "curPos": "a"
+        },
+        {
+          "base": "ココア",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ココア",
+          "reading": "",
+          "surface": "ココア",
+          "curPos": "n"
+        },
+        {
+          "base": "僕",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボク",
+          "reading": "ぼく",
+          "surface": "僕",
+          "curPos": "/"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "こと",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "コト",
+          "reading": "",
+          "surface": "こと",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "引っ張る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヒッパル",
+          "reading": "ひっぱる",
+          "surface": "引っ張る",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 19,
+      "surface": "引き寄せられたふたり 目と目が合い笑った",
+      "words": [
+        {
+          "base": "引き寄せる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヒキヨセ",
+          "reading": "ひきよせ",
+          "surface": "引き寄せ",
+          "curPos": "v"
+        },
+        {
+          "base": "られる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "ラレ",
+          "reading": "",
+          "surface": "られた",
+          "curPos": "v"
+        },
+        {
+          "base": "ふたり",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "フタリ",
+          "reading": "",
+          "surface": "ふたり",
+          "curPos": "n"
+        },
+        {
+          "base": "目と",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "モクト",
+          "reading": "もくと",
+          "surface": "目と",
+          "curPos": "n"
+        },
+        {
+          "base": "目",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "メ",
+          "reading": "め",
+          "surface": "目",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "合う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "アイ",
+          "reading": "あい",
+          "surface": "合い",
+          "curPos": "v"
+        },
+        {
+          "base": "笑う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ワラッ",
+          "reading": "わらった",
+          "surface": "笑った",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 21,
+      "surface": "ココアのおかげだよね 今日はワンダフルサンデー",
+      "words": [
+        {
+          "base": "ココア",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ココア",
+          "reading": "",
+          "surface": "ココア",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "おかげ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "オカゲ",
+          "reading": "",
+          "surface": "おかげ",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        },
+        {
+          "base": "ね",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ネ",
+          "reading": "",
+          "surface": "ね",
+          "curPos": "av"
+        },
+        {
+          "base": "今日",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "キョー",
+          "reading": "きょう",
+          "surface": "今日",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "ワンダフル",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ワンダフル",
+          "reading": "",
+          "surface": "ワンダフル",
+          "curPos": "n"
+        },
+        {
+          "base": "サンデー",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "サンデー",
+          "reading": "",
+          "surface": "サンデー",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "surface": "一緒で",
+      "words": [
+        {
+          "base": "一緒",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "イッショ",
+          "reading": "いっしょ",
+          "surface": "一緒",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "surface": "幸せ",
+      "words": [
+        {
+          "base": "幸せ",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "シアワセ",
+          "reading": "しあわせ",
+          "surface": "幸せ",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "surface": "",
+      "words": []
+    }
+  ],
+  "pureLrc": [
+    "よく晴れた日曜日 今日もココアと散歩",
+    "僕が行きたい場所も おかまいなしマイペース",
+    "",
+    "少し落ち込んだ日も いつも連れ出してくれる",
+    "",
+    "今日はどんな幸せ 僕らを待ってるかな",
+    "",
+    "いつも見る あの子は来てるかな?",
+    "",
+    "君のよくきく鼻で あの子を探してくれ",
+    "忘れられない香り ココアも覚えてるだろ?",
+    "",
+    "あの子が連れたラッキーは いつもの場所でおすわり",
+    "",
+    "今日はどんな幸せ 僕らを待ってるかな",
+    "",
+    "僕を見つけたラッキーも しっぽをふって近づく",
+    "僕のお茶目なココア 僕のことを引っ張る",
+    "",
+    "引き寄せられたふたり 目と目が合い笑った",
+    "",
+    "ココアのおかげだよね 今日はワンダフルサンデー",
+    "一緒で",
+    "幸せ",
+    ""
+  ]
+}

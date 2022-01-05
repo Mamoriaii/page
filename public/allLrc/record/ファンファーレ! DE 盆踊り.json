@@ -1,0 +1,2408 @@
+{
+  "name": "ファンファーレ！ DE 盆踊り",
+  "reading": "Fanfare! DE Bon Odori",
+  "info": [
+    {
+      "label": "作詞",
+      "value": ["辻村有記"]
+    },
+    {
+      "label": "作曲",
+      "value": ["辻村有記", "伊藤賢"]
+    }
+  ],
+  "lrc": [
+    {
+      "id": 0,
+      "surface": "The beginning of Summer",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "The",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "beginning",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "of",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Summer",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 2,
+      "surface": "「考えるより動き出せ」　もうそんな気にさせるくらい",
+      "words": [
+        {
+          "base": "「",
+          "pos": "記号,括弧開,*,*",
+          "pronunciation": "「",
+          "reading": "",
+          "surface": "「",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "考える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カンガエル",
+          "reading": "かんがえる",
+          "surface": "考える",
+          "curPos": "v"
+        },
+        {
+          "base": "より",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヨリ",
+          "reading": "",
+          "surface": "より",
+          "curPos": "av"
+        },
+        {
+          "base": "動き出す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ウゴキダセ",
+          "reading": "うごきだせ",
+          "surface": "動き出せ",
+          "curPos": "v"
+        },
+        {
+          "base": "」",
+          "pos": "記号,括弧閉,*,*",
+          "pronunciation": "」",
+          "reading": "",
+          "surface": "」",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "もう",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "モー",
+          "reading": "",
+          "surface": "もう",
+          "curPos": "adv"
+        },
+        {
+          "base": "そんな",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "ソンナ",
+          "reading": "",
+          "surface": "そんな",
+          "curPos": "/"
+        },
+        {
+          "base": "気",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "キ",
+          "reading": "き",
+          "surface": "気",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "サ",
+          "reading": "",
+          "surface": "さ",
+          "curPos": "v"
+        },
+        {
+          "base": "せる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "セル",
+          "reading": "",
+          "surface": "せる",
+          "curPos": "v"
+        },
+        {
+          "base": "くらい",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "クライ",
+          "reading": "",
+          "surface": "くらい",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "surface": "なんて素晴らしい世界なんだ　あれもこれもキミも",
+      "words": [
+        {
+          "base": "なんて",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ナンテ",
+          "reading": "",
+          "surface": "なんて",
+          "curPos": "av"
+        },
+        {
+          "base": "素晴らしい",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "スバラシイ",
+          "reading": "すばらしい",
+          "surface": "素晴らしい",
+          "curPos": "a"
+        },
+        {
+          "base": "世界",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "セカイ",
+          "reading": "せかい",
+          "surface": "世界",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        },
+        {
+          "base": "ん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ン",
+          "reading": "",
+          "surface": "ん",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        },
+        {
+          "base": "あれ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "アレ",
+          "reading": "",
+          "surface": "あれ",
+          "curPos": "/"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "これ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "コレ",
+          "reading": "",
+          "surface": "これ",
+          "curPos": "/"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "キミ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "",
+          "surface": "キミ",
+          "curPos": "/"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 5,
+      "surface": "照りつける陽射(ひざ)しに汗ばむ心　期待と不安が滲(にじ)んで夏に溶ける",
+      "words": [
+        {
+          "base": "照りつける",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "テリツケル",
+          "reading": "てりつける",
+          "surface": "照りつける",
+          "curPos": "v"
+        },
+        {
+          "base": "陽",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヒ",
+          "reading": "ひ",
+          "surface": "陽",
+          "curPos": "n"
+        },
+        {
+          "base": "射る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イ",
+          "reading": "い",
+          "surface": "射",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "ひざ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヒザ",
+          "reading": "",
+          "surface": "ひざ",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シ",
+          "reading": "",
+          "surface": "し",
+          "curPos": "v"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "汗ばむ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "アセバム",
+          "reading": "あせばむ",
+          "surface": "汗ばむ",
+          "curPos": "v"
+        },
+        {
+          "base": "心",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ココロ",
+          "reading": "こころ",
+          "surface": "心",
+          "curPos": "n"
+        },
+        {
+          "base": "期待",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "キタイ",
+          "reading": "きたい",
+          "surface": "期待",
+          "curPos": "n"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,並立助詞,*,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "不安",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "フアン",
+          "reading": "ふあん",
+          "surface": "不安",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "滲",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "じ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ジ",
+          "reading": "",
+          "surface": "じ",
+          "curPos": "mv"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "んで",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "ンデ",
+          "reading": "",
+          "surface": "んで",
+          "curPos": "av"
+        },
+        {
+          "base": "夏",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ナツ",
+          "reading": "なつ",
+          "surface": "夏",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "溶ける",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "トケル",
+          "reading": "とける",
+          "surface": "溶ける",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "surface": "忘れられない時間(とき)を刻むように　僕らの世界が動き始める　Yeah",
+      "words": [
+        {
+          "base": "忘れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ワスレ",
+          "reading": "わすれ",
+          "surface": "忘れ",
+          "curPos": "v"
+        },
+        {
+          "base": "られる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "ラレ",
+          "reading": "",
+          "surface": "られない",
+          "curPos": "v"
+        },
+        {
+          "base": "時間",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "ジカン",
+          "reading": "じかん",
+          "surface": "時間",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "とき",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "トキ",
+          "reading": "",
+          "surface": "とき",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "刻む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "キザム",
+          "reading": "きざむよう",
+          "surface": "刻むよう",
+          "curPos": "v"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,副詞化,*,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "僕ら",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボクラ",
+          "reading": "ぼくら",
+          "surface": "僕ら",
+          "curPos": "/"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "世界",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "セカイ",
+          "reading": "せかい",
+          "surface": "世界",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "動く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ウゴキ",
+          "reading": "うごき",
+          "surface": "動き",
+          "curPos": "v"
+        },
+        {
+          "base": "始める",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ハジメル",
+          "reading": "はじめる",
+          "surface": "始める",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Yeah",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 8,
+      "surface": "このまま Flash Flash　僕ら輝いて　夏の合図にトキメク心踊る",
+      "words": [
+        {
+          "base": "この",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "コノ",
+          "reading": "",
+          "surface": "この",
+          "curPos": "/"
+        },
+        {
+          "base": "まま",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ママ",
+          "reading": "",
+          "surface": "まま",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Flash",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Flash",
+          "curPos": "n"
+        },
+        {
+          "base": "僕ら",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボクラ",
+          "reading": "ぼくら",
+          "surface": "僕ら",
+          "curPos": "/"
+        },
+        {
+          "base": "輝く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カガヤイ",
+          "reading": "かがやいて",
+          "surface": "輝いて",
+          "curPos": "v"
+        },
+        {
+          "base": "夏",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ナツ",
+          "reading": "なつ",
+          "surface": "夏",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "合図",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "アイズ",
+          "reading": "あいず",
+          "surface": "合図",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "トキメク",
+          "curPos": "n"
+        },
+        {
+          "base": "心",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "シン",
+          "reading": "しん",
+          "surface": "心",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "踊る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "オドル",
+          "reading": "おどる",
+          "surface": "踊る",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "surface": "With you　夕焼けに染まった　キミの姿に恋だと気付いた",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "With",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "you",
+          "curPos": "n"
+        },
+        {
+          "base": "夕焼け",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユーヤケ",
+          "reading": "ゆうやけ",
+          "surface": "夕焼け",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "染まる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ソマッ",
+          "reading": "そまった",
+          "surface": "染まった",
+          "curPos": "v"
+        },
+        {
+          "base": "キミ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "",
+          "surface": "キミ",
+          "curPos": "/"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "姿",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "スガタ",
+          "reading": "すがた",
+          "surface": "姿",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "恋",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "コイ",
+          "reading": "こい",
+          "surface": "恋",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,格助詞,引用,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "気付く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "キズイ",
+          "reading": "きづいた",
+          "surface": "気付いた",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 11,
+      "surface": "The beginning of Summer",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "The",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "beginning",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "of",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Summer",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "surface": "もう誰にも止められやしない",
+      "words": [
+        {
+          "base": "もう",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "モー",
+          "reading": "",
+          "surface": "もう",
+          "curPos": "adv"
+        },
+        {
+          "base": "誰",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ダレ",
+          "reading": "だれ",
+          "surface": "誰",
+          "curPos": "/"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "止める",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "トメ",
+          "reading": "とめ",
+          "surface": "止め",
+          "curPos": "v"
+        },
+        {
+          "base": "られる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "ラレ",
+          "reading": "",
+          "surface": "られやしない",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 14,
+      "surface": "このまま Flash Flash　僕ら輝いて　夏の合図にトキメク心踊る",
+      "words": [
+        {
+          "base": "この",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "コノ",
+          "reading": "",
+          "surface": "この",
+          "curPos": "/"
+        },
+        {
+          "base": "まま",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ママ",
+          "reading": "",
+          "surface": "まま",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Flash",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Flash",
+          "curPos": "n"
+        },
+        {
+          "base": "僕ら",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボクラ",
+          "reading": "ぼくら",
+          "surface": "僕ら",
+          "curPos": "/"
+        },
+        {
+          "base": "輝く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カガヤイ",
+          "reading": "かがやいて",
+          "surface": "輝いて",
+          "curPos": "v"
+        },
+        {
+          "base": "夏",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ナツ",
+          "reading": "なつ",
+          "surface": "夏",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "合図",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "アイズ",
+          "reading": "あいず",
+          "surface": "合図",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "トキメク",
+          "curPos": "n"
+        },
+        {
+          "base": "心",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "シン",
+          "reading": "しん",
+          "surface": "心",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "踊る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "オドル",
+          "reading": "おどる",
+          "surface": "踊る",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "surface": "With you　夕焼けに染まった　キミの姿に恋だと気付いた",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "With",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "you",
+          "curPos": "n"
+        },
+        {
+          "base": "夕焼け",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユーヤケ",
+          "reading": "ゆうやけ",
+          "surface": "夕焼け",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "染まる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ソマッ",
+          "reading": "そまった",
+          "surface": "染まった",
+          "curPos": "v"
+        },
+        {
+          "base": "キミ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "",
+          "surface": "キミ",
+          "curPos": "/"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "姿",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "スガタ",
+          "reading": "すがた",
+          "surface": "姿",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "恋",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "コイ",
+          "reading": "こい",
+          "surface": "恋",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,格助詞,引用,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "気付く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "キズイ",
+          "reading": "きづいた",
+          "surface": "気付いた",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 17,
+      "surface": "The beginning of Summer",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "The",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "beginning",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "of",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Summer",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "surface": "もう誰にも止められやしない",
+      "words": [
+        {
+          "base": "もう",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "モー",
+          "reading": "",
+          "surface": "もう",
+          "curPos": "adv"
+        },
+        {
+          "base": "誰",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ダレ",
+          "reading": "だれ",
+          "surface": "誰",
+          "curPos": "/"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "止める",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "トメ",
+          "reading": "とめ",
+          "surface": "止め",
+          "curPos": "v"
+        },
+        {
+          "base": "られる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "ラレ",
+          "reading": "",
+          "surface": "られやしない",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 20,
+      "surface": "The beginning of Summer",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "The",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "beginning",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "of",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Summer",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 22,
+      "surface": "“kangaeru yori ugokidase” mou sonna ki ni saseru kurai ",
+      "words": [
+        {
+          "base": "“",
+          "pos": "記号,括弧開,*,*",
+          "pronunciation": "“",
+          "reading": "",
+          "surface": "“",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kangaeru",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "yori",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ugokidase",
+          "curPos": "n"
+        },
+        {
+          "base": "”",
+          "pos": "記号,括弧閉,*,*",
+          "pronunciation": "”",
+          "reading": "",
+          "surface": "”",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mou",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "sonna",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ki",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "saseru",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kurai",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "surface": "Nante subarashii sekai nan da are mo kore mo kimi mo",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Nante",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "subarashii",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "sekai",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "nan",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "da",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "are",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kore",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kimi",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mo",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 25,
+      "surface": "teritsukeru hizashi ni asebamu kokoro kitai to fuan ga nijinde natsu ni tokeru ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "teritsukeru",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "hizashi",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "asebamu",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kokoro",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kitai",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "to",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "fuan",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ga",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "nijinde",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "natsu",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "tokeru",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "surface": "Wasurerarenai toki wo kizamu you ni bokura no sekai ga ugokihajimeru Yeah",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Wasurerarenai",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "toki",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "wo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kizamu",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "you",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "bokura",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "no",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "sekai",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ga",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ugokihajimeru",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Yeah",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 28,
+      "surface": "kono mama Flash Flash bokura kagayaite natsu no aizu ni tokimeku kokoro odoru ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kono",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mama",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Flash",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Flash",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "bokura",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kagayaite",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "natsu",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "no",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "aizu",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "tokimeku",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kokoro",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "odoru",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "surface": "With you yuuyake ni somatta kimi no sugata ni koi da to kizuita",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "With",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "you",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "yuuyake",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "somatta",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kimi",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "no",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "sugata",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "koi",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "da",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "to",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kizuita",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 31,
+      "surface": "The beginning of Summer ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "The",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "beginning",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "of",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Summer",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "surface": "Mou dare ni mo tomerare ya shinai",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Mou",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "dare",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "tomerare",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ya",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "shinai",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 34,
+      "surface": "kono mama Flash Flash bokura kagayaite natsu no aizu ni tokimeku kokoro odoru ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kono",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mama",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Flash",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Flash",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "bokura",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kagayaite",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "natsu",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "no",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "aizu",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "tokimeku",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kokoro",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "odoru",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "surface": "With you yuuyake ni somatta kimi no sugata ni koi da to kizuita",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "With",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "you",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "yuuyake",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "somatta",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kimi",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "no",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "sugata",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "koi",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "da",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "to",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kizuita",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 37,
+      "surface": "The beginning of Summer ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "The",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "beginning",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "of",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Summer",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "surface": "Mou dare ni mo tomerare ya shinai",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Mou",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "dare",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "tomerare",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ya",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "shinai",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "surface": "",
+      "words": []
+    }
+  ],
+  "pureLrc": [
+    "The beginning of Summer",
+    "",
+    "「考えるより動き出せ」　もうそんな気にさせるくらい",
+    "なんて素晴らしい世界なんだ　あれもこれもキミも",
+    "",
+    "照りつける陽射(ひざ)しに汗ばむ心　期待と不安が滲(にじ)んで夏に溶ける",
+    "忘れられない時間(とき)を刻むように　僕らの世界が動き始める　Yeah",
+    "",
+    "このまま Flash Flash　僕ら輝いて　夏の合図にトキメク心踊る",
+    "With you　夕焼けに染まった　キミの姿に恋だと気付いた",
+    "",
+    "The beginning of Summer",
+    "もう誰にも止められやしない",
+    "",
+    "このまま Flash Flash　僕ら輝いて　夏の合図にトキメク心踊る",
+    "With you　夕焼けに染まった　キミの姿に恋だと気付いた",
+    "",
+    "The beginning of Summer",
+    "もう誰にも止められやしない",
+    "",
+    "The beginning of Summer",
+    "",
+    "“kangaeru yori ugokidase” mou sonna ki ni saseru kurai ",
+    "Nante subarashii sekai nan da are mo kore mo kimi mo",
+    "",
+    "teritsukeru hizashi ni asebamu kokoro kitai to fuan ga nijinde natsu ni tokeru ",
+    "Wasurerarenai toki wo kizamu you ni bokura no sekai ga ugokihajimeru Yeah",
+    "",
+    "kono mama Flash Flash bokura kagayaite natsu no aizu ni tokimeku kokoro odoru ",
+    "With you yuuyake ni somatta kimi no sugata ni koi da to kizuita",
+    "",
+    "The beginning of Summer ",
+    "Mou dare ni mo tomerare ya shinai",
+    "",
+    "kono mama Flash Flash bokura kagayaite natsu no aizu ni tokimeku kokoro odoru ",
+    "With you yuuyake ni somatta kimi no sugata ni koi da to kizuita",
+    "",
+    "The beginning of Summer ",
+    "Mou dare ni mo tomerare ya shinai",
+    ""
+  ]
+}

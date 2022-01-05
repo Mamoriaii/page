@@ -1,0 +1,2277 @@
+{
+  "name": "脳内☆Dance",
+  "artist": ["Hey!Say!JUMP"],
+  "producer": [
+    {
+      "label": "作詞",
+      "value": ["森田文人"]
+    },
+    {
+      "label": "作曲",
+      "value": ["清水昭男"]
+    }
+  ],
+  "lrc": [
+    {
+      "id": 0,
+      "surface": "本気？ソノ気？無邪気？",
+      "words": [
+        {
+          "base": "本気",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ホンキ",
+          "reading": "ほんき",
+          "surface": "本気",
+          "curPos": "n"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "ソノ",
+          "pos": "名詞,固有名詞,一般,*",
+          "pronunciation": "ソノ",
+          "reading": "",
+          "surface": "ソノ",
+          "curPos": "n"
+        },
+        {
+          "base": "気",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "キ",
+          "reading": "き",
+          "surface": "気",
+          "curPos": "n"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "無邪気",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ムジャキ",
+          "reading": "むじゃき",
+          "surface": "無邪気",
+          "curPos": "n"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "surface": "ハマっちゃヤバそうだ",
+      "words": [
+        {
+          "base": "ハマる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハマッ",
+          "reading": "はまっ",
+          "surface": "ハマっ",
+          "curPos": "v"
+        },
+        {
+          "base": "ちゃ",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "チャ",
+          "reading": "",
+          "surface": "ちゃ",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,一般,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ヤバ",
+          "curPos": "n"
+        },
+        {
+          "base": "そう",
+          "pos": "名詞,接尾,助動詞語幹,*",
+          "pronunciation": "ソー",
+          "reading": "",
+          "surface": "そう",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "surface": "刺激？過激？ステキ？",
+      "words": [
+        {
+          "base": "刺激",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "シゲキ",
+          "reading": "しげき",
+          "surface": "刺激",
+          "curPos": "n"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "過激",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カゲキ",
+          "reading": "かげき",
+          "surface": "過激",
+          "curPos": "n"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "ステキ",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ステキ",
+          "reading": "",
+          "surface": "ステキ",
+          "curPos": "n"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "surface": "思わせぶりなキミ",
+      "words": [
+        {
+          "base": "思わせぶり",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "オモワセブリ",
+          "reading": "おもわせぶりな",
+          "surface": "思わせぶりな",
+          "curPos": "a"
+        },
+        {
+          "base": "キミ",
+          "pos": "名詞,固有名詞,人名,名",
+          "pronunciation": "キミ",
+          "reading": "",
+          "surface": "キミ",
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 5,
+      "surface": "ビリビリしびれて",
+      "words": [
+        {
+          "base": "ビリビリ",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ビリビリ",
+          "reading": "",
+          "surface": "ビリビリ",
+          "curPos": "adv"
+        },
+        {
+          "base": "しびれる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シビレ",
+          "reading": "",
+          "surface": "しびれて",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "surface": "ヒリヒリするよな",
+      "words": [
+        {
+          "base": "ヒリヒリ",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "ヒリヒリ",
+          "reading": "",
+          "surface": "ヒリヒリ",
+          "curPos": "adv"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "スル",
+          "reading": "",
+          "surface": "する",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        },
+        {
+          "base": "な",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "surface": "小悪魔全開 Smile",
+      "words": [
+        {
+          "base": "小",
+          "pos": "接頭詞,名詞接続,*,*",
+          "pronunciation": "ショー",
+          "reading": "しょう",
+          "surface": "小",
+          "curPos": "/"
+        },
+        {
+          "base": "悪魔",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アクマ",
+          "reading": "あくま",
+          "surface": "悪魔",
+          "curPos": "n"
+        },
+        {
+          "base": "全開",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ゼンカイ",
+          "reading": "ぜんかい",
+          "surface": "全開",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Smile",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "surface": "ギリギリセーフで",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ギリギリセーフ",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "surface": "バリバリアウトな",
+      "words": [
+        {
+          "base": "バリバリ",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "バリバリ",
+          "reading": "",
+          "surface": "バリバリ",
+          "curPos": "adv"
+        },
+        {
+          "base": "アウト",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アウト",
+          "reading": "",
+          "surface": "アウト",
+          "curPos": "n"
+        },
+        {
+          "base": "な",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "surface": "感じも漂う But",
+      "words": [
+        {
+          "base": "感じ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カンジ",
+          "reading": "かんじ",
+          "surface": "感じ",
+          "curPos": "n"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "漂う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "タダヨウ",
+          "reading": "ただよう",
+          "surface": "漂う",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "But",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 12,
+      "surface": "動悸？正気？平気？",
+      "words": [
+        {
+          "base": "動悸",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ドーキ",
+          "reading": "どうき",
+          "surface": "動悸",
+          "curPos": "n"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "正気",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ショーキ",
+          "reading": "しょうき",
+          "surface": "正気",
+          "curPos": "n"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "平気",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヘイキ",
+          "reading": "へいき",
+          "surface": "平気",
+          "curPos": "n"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "surface": "ヘタレを隠してる",
+      "words": [
+        {
+          "base": "ヘタ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヘタ",
+          "reading": "",
+          "surface": "ヘタ",
+          "curPos": "n"
+        },
+        {
+          "base": "レ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "レ",
+          "reading": "",
+          "surface": "レ",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "隠す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カクシ",
+          "reading": "かくし",
+          "surface": "隠し",
+          "curPos": "v"
+        },
+        {
+          "base": "てる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "テル",
+          "reading": "",
+          "surface": "てる",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "surface": "Funky？Monky？意識？",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Funky",
+          "curPos": "n"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Monky",
+          "curPos": "n"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "意識",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "イシキ",
+          "reading": "いしき",
+          "surface": "意識",
+          "curPos": "n"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "surface": "ヘイセイ装って",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ヘイセイ",
+          "curPos": "n"
+        },
+        {
+          "base": "装う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヨソオッ",
+          "reading": "よそおって",
+          "surface": "装って",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 17,
+      "surface": "想像山田とビシビシ",
+      "words": [
+        {
+          "base": "想像",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ソーゾー",
+          "reading": "そうぞう",
+          "surface": "想像",
+          "curPos": "n"
+        },
+        {
+          "base": "山田",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヤマダ",
+          "reading": "やまだ",
+          "surface": "山田",
+          "curPos": "n"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "ビシビシ",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "ビシビシ",
+          "reading": "",
+          "surface": "ビシビシ",
+          "curPos": "adv"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "surface": "推理を戦わせている",
+      "words": [
+        {
+          "base": "推理",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "スイリ",
+          "reading": "すいり",
+          "surface": "推理",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "戦う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "タタカワ",
+          "reading": "たたかわ",
+          "surface": "戦わ",
+          "curPos": "v"
+        },
+        {
+          "base": "せる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "セ",
+          "reading": "",
+          "surface": "せて",
+          "curPos": "v"
+        },
+        {
+          "base": "いる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イル",
+          "reading": "",
+          "surface": "いる",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "surface": "Heart ジリジリ知念と",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Heart",
+          "curPos": "n"
+        },
+        {
+          "base": "ジリジリ",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "ジリジリ",
+          "reading": "",
+          "surface": "ジリジリ",
+          "curPos": "adv"
+        },
+        {
+          "base": "知念",
+          "pos": "名詞,固有名詞,人名,姓",
+          "pronunciation": "チネン",
+          "reading": "ちねん",
+          "surface": "知念",
+          "curPos": "/"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,並立助詞,*,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "surface": "中島焦っちゃダメだと",
+      "words": [
+        {
+          "base": "中島",
+          "pos": "名詞,固有名詞,人名,姓",
+          "pronunciation": "ナカジマ",
+          "reading": "なかじま",
+          "surface": "中島",
+          "curPos": "/"
+        },
+        {
+          "base": "焦る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "アセッ",
+          "reading": "あせっ",
+          "surface": "焦っ",
+          "curPos": "v"
+        },
+        {
+          "base": "ちゃ",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "チャ",
+          "reading": "",
+          "surface": "ちゃ",
+          "curPos": "av"
+        },
+        {
+          "base": "ダメ",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ダメ",
+          "reading": "",
+          "surface": "ダメ",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "surface": "つぶやく Voice",
+      "words": [
+        {
+          "base": "つぶやく",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ツブヤク",
+          "reading": "",
+          "surface": "つぶやく",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Voice",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "surface": "？？？(ハテナ)",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "？？？(",
+          "curPos": "n"
+        },
+        {
+          "base": "ハテナ",
+          "pos": "名詞,固有名詞,人名,一般",
+          "pronunciation": "ハテナ",
+          "reading": "",
+          "surface": "ハテナ",
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")",
+          "curPos": "/",
+          "left": true
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "surface": "と並んで岡本 森本",
+      "words": [
+        {
+          "base": "と",
+          "pos": "助詞,格助詞,引用,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "並ぶ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナラン",
+          "reading": "ならん",
+          "surface": "並ん",
+          "curPos": "v"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "岡本",
+          "pos": "名詞,固有名詞,地域,一般",
+          "pronunciation": "オカモト",
+          "reading": "おかもと",
+          "surface": "岡本",
+          "curPos": "n"
+        },
+        {
+          "base": "森本",
+          "pos": "名詞,固有名詞,人名,姓",
+          "pronunciation": "モリモト",
+          "reading": "もりもと",
+          "surface": "森本",
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "surface": "アイスを食べてるwhy？",
+      "words": [
+        {
+          "base": "アイス",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アイス",
+          "reading": "",
+          "surface": "アイス",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "食べる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "タベ",
+          "reading": "たべ",
+          "surface": "食べ",
+          "curPos": "v"
+        },
+        {
+          "base": "てる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "テル",
+          "reading": "",
+          "surface": "てる",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "why",
+          "curPos": "n"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "surface": "宇宙をさまよう前頭葉",
+      "words": [
+        {
+          "base": "宇宙",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ウチュー",
+          "reading": "うちゅう",
+          "surface": "宇宙",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "さまよう",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "サマヨウ",
+          "reading": "",
+          "surface": "さまよう",
+          "curPos": "v"
+        },
+        {
+          "base": "前頭葉",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ゼントーヨー",
+          "reading": "ぜんとうよう",
+          "surface": "前頭葉",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "surface": "You!You!You!",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "You",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "You",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "You",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 28,
+      "surface": "脳内☆Dance",
+      "words": [
+        {
+          "base": "脳",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ノー",
+          "reading": "のう",
+          "surface": "脳",
+          "curPos": "n"
+        },
+        {
+          "base": "内",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "ナイ",
+          "reading": "ない",
+          "surface": "内",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "☆",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "☆",
+          "reading": "",
+          "surface": "☆",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Dance",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "surface": "どっちなんだこれは？",
+      "words": [
+        {
+          "base": "どっち",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ドッチ",
+          "reading": "",
+          "surface": "どっち",
+          "curPos": "/"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        },
+        {
+          "base": "ん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ン",
+          "reading": "",
+          "surface": "ん",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        },
+        {
+          "base": "これ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "コレ",
+          "reading": "",
+          "surface": "これ",
+          "curPos": "/"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "surface": "脳内☆Dance",
+      "words": [
+        {
+          "base": "脳",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ノー",
+          "reading": "のう",
+          "surface": "脳",
+          "curPos": "n"
+        },
+        {
+          "base": "内",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "ナイ",
+          "reading": "ない",
+          "surface": "内",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "☆",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "☆",
+          "reading": "",
+          "surface": "☆",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Dance",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "surface": "タイプなんだでも",
+      "words": [
+        {
+          "base": "タイプ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "タイプ",
+          "reading": "",
+          "surface": "タイプ",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        },
+        {
+          "base": "ん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ン",
+          "reading": "",
+          "surface": "ん",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "surface": "勘違ぃシテル？",
+      "words": [
+        {
+          "base": "勘",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カン",
+          "reading": "かん",
+          "surface": "勘",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "違",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ぃ",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "シテル",
+          "curPos": "n"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "surface": "シテナイ？どッちさ？",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "シテナイ",
+          "curPos": "n"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "ど",
+          "pos": "接頭詞,名詞接続,*,*",
+          "pronunciation": "ド",
+          "reading": "",
+          "surface": "ど",
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ッ",
+          "curPos": "n"
+        },
+        {
+          "base": "ちさ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "チサ",
+          "reading": "",
+          "surface": "ちさ",
+          "curPos": "n"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "surface": "脳内☆Dance",
+      "words": [
+        {
+          "base": "脳",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ノー",
+          "reading": "のう",
+          "surface": "脳",
+          "curPos": "n"
+        },
+        {
+          "base": "内",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "ナイ",
+          "reading": "ない",
+          "surface": "内",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "☆",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "☆",
+          "reading": "",
+          "surface": "☆",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Dance",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "surface": "君に右往左往",
+      "words": [
+        {
+          "base": "君",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "きみ",
+          "surface": "君",
+          "curPos": "/"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "右往左往",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ウオーサオー",
+          "reading": "うおうさおう",
+          "surface": "右往左往",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "surface": "脳内☆Dance",
+      "words": [
+        {
+          "base": "脳",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ノー",
+          "reading": "のう",
+          "surface": "脳",
+          "curPos": "n"
+        },
+        {
+          "base": "内",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "ナイ",
+          "reading": "ない",
+          "surface": "内",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "☆",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "☆",
+          "reading": "",
+          "surface": "☆",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Dance",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "surface": "右脳と左脳誘っても",
+      "words": [
+        {
+          "base": "右脳",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ウノー",
+          "reading": "うのう",
+          "surface": "右脳",
+          "curPos": "n"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,並立助詞,*,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "左脳",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "サノー",
+          "reading": "さのう",
+          "surface": "左脳",
+          "curPos": "n"
+        },
+        {
+          "base": "誘う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "サソッ",
+          "reading": "さそって",
+          "surface": "誘って",
+          "curPos": "v"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "surface": "いいの？悪いの？",
+      "words": [
+        {
+          "base": "いい",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "イイ",
+          "reading": "",
+          "surface": "いい",
+          "curPos": "a"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "悪い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ワルイ",
+          "reading": "わるい",
+          "surface": "悪い",
+          "curPos": "a"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "surface": "どっちなのさ？",
+      "words": [
+        {
+          "base": "どっち",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ドッチ",
+          "reading": "",
+          "surface": "どっち",
+          "curPos": "/"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        },
+        {
+          "base": "の",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "n"
+        },
+        {
+          "base": "さ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "サ",
+          "reading": "",
+          "surface": "さ",
+          "curPos": "av"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "surface": "wow 脳内☆Dance",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "wow",
+          "curPos": "n"
+        },
+        {
+          "base": "脳",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ノー",
+          "reading": "のう",
+          "surface": "脳",
+          "curPos": "n"
+        },
+        {
+          "base": "内",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "ナイ",
+          "reading": "ない",
+          "surface": "内",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "☆",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "☆",
+          "reading": "",
+          "surface": "☆",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Dance",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 42,
+      "surface": "脳内☆Dance",
+      "words": [
+        {
+          "base": "脳",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ノー",
+          "reading": "のう",
+          "surface": "脳",
+          "curPos": "n"
+        },
+        {
+          "base": "内",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "ナイ",
+          "reading": "ない",
+          "surface": "内",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "☆",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "☆",
+          "reading": "",
+          "surface": "☆",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Dance",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "surface": "どっちなんだこれは？",
+      "words": [
+        {
+          "base": "どっち",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ドッチ",
+          "reading": "",
+          "surface": "どっち",
+          "curPos": "/"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        },
+        {
+          "base": "ん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ン",
+          "reading": "",
+          "surface": "ん",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        },
+        {
+          "base": "これ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "コレ",
+          "reading": "",
+          "surface": "これ",
+          "curPos": "/"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "surface": "脳内☆Dance",
+      "words": [
+        {
+          "base": "脳",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ノー",
+          "reading": "のう",
+          "surface": "脳",
+          "curPos": "n"
+        },
+        {
+          "base": "内",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "ナイ",
+          "reading": "ない",
+          "surface": "内",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "☆",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "☆",
+          "reading": "",
+          "surface": "☆",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Dance",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "surface": "タイプなんだでも",
+      "words": [
+        {
+          "base": "タイプ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "タイプ",
+          "reading": "",
+          "surface": "タイプ",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        },
+        {
+          "base": "ん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ン",
+          "reading": "",
+          "surface": "ん",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "surface": "勘違いシテル？",
+      "words": [
+        {
+          "base": "勘違い",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "カンチガイ",
+          "reading": "かんちがい",
+          "surface": "勘違い",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "シテル",
+          "curPos": "n"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "surface": "シテナイ？どっちさ？",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "シテナイ",
+          "curPos": "n"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "どっち",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ドッチ",
+          "reading": "",
+          "surface": "どっち",
+          "curPos": "/"
+        },
+        {
+          "base": "さ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "サ",
+          "reading": "",
+          "surface": "さ",
+          "curPos": "av"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "surface": "脳内☆Dance",
+      "words": [
+        {
+          "base": "脳",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ノー",
+          "reading": "のう",
+          "surface": "脳",
+          "curPos": "n"
+        },
+        {
+          "base": "内",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "ナイ",
+          "reading": "ない",
+          "surface": "内",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "☆",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "☆",
+          "reading": "",
+          "surface": "☆",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Dance",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "surface": "君に右往左往",
+      "words": [
+        {
+          "base": "君",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "きみ",
+          "surface": "君",
+          "curPos": "/"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "右往左往",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ウオーサオー",
+          "reading": "うおうさおう",
+          "surface": "右往左往",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "surface": "脳内☆Dance",
+      "words": [
+        {
+          "base": "脳",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ノー",
+          "reading": "のう",
+          "surface": "脳",
+          "curPos": "n"
+        },
+        {
+          "base": "内",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "ナイ",
+          "reading": "ない",
+          "surface": "内",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "☆",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "☆",
+          "reading": "",
+          "surface": "☆",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Dance",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "surface": "右脳と左脳誘っても",
+      "words": [
+        {
+          "base": "右脳",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ウノー",
+          "reading": "うのう",
+          "surface": "右脳",
+          "curPos": "n"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,並立助詞,*,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "左脳",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "サノー",
+          "reading": "さのう",
+          "surface": "左脳",
+          "curPos": "n"
+        },
+        {
+          "base": "誘う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "サソッ",
+          "reading": "さそって",
+          "surface": "誘って",
+          "curPos": "v"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "surface": "いいの？悪いの？",
+      "words": [
+        {
+          "base": "いい",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "イイ",
+          "reading": "",
+          "surface": "いい",
+          "curPos": "a"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "悪い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ワルイ",
+          "reading": "わるい",
+          "surface": "悪い",
+          "curPos": "a"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "surface": "どっちなのさ？",
+      "words": [
+        {
+          "base": "どっち",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ドッチ",
+          "reading": "",
+          "surface": "どっち",
+          "curPos": "/"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        },
+        {
+          "base": "の",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "n"
+        },
+        {
+          "base": "さ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "サ",
+          "reading": "",
+          "surface": "さ",
+          "curPos": "av"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "surface": "wow 脳内☆Dance",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "wow",
+          "curPos": "n"
+        },
+        {
+          "base": "脳",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ノー",
+          "reading": "のう",
+          "surface": "脳",
+          "curPos": "n"
+        },
+        {
+          "base": "内",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "ナイ",
+          "reading": "ない",
+          "surface": "内",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "☆",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "☆",
+          "reading": "",
+          "surface": "☆",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Dance",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "surface": "",
+      "words": []
+    }
+  ],
+  "pureLrc": [
+    "本気？ソノ気？無邪気？",
+    "ハマっちゃヤバそうだ",
+    "刺激？過激？ステキ？",
+    "思わせぶりなキミ",
+    "",
+    "ビリビリしびれて",
+    "ヒリヒリするよな",
+    "小悪魔全開 Smile",
+    "ギリギリセーフで",
+    "バリバリアウトな",
+    "感じも漂う But",
+    "",
+    "動悸？正気？平気？",
+    "ヘタレを隠してる",
+    "Funky？Monky？意識？",
+    "ヘイセイ装って",
+    "",
+    "想像山田とビシビシ",
+    "推理を戦わせている",
+    "Heart ジリジリ知念と",
+    "中島焦っちゃダメだと",
+    "つぶやく Voice",
+    "？？？(ハテナ)",
+    "と並んで岡本 森本",
+    "アイスを食べてるwhy？",
+    "宇宙をさまよう前頭葉",
+    "You!You!You!",
+    "",
+    "脳内☆Dance",
+    "どっちなんだこれは？",
+    "脳内☆Dance",
+    "タイプなんだでも",
+    "勘違ぃシテル？",
+    "シテナイ？どッちさ？",
+    "脳内☆Dance",
+    "君に右往左往",
+    "脳内☆Dance",
+    "右脳と左脳誘っても",
+    "いいの？悪いの？",
+    "どっちなのさ？",
+    "wow 脳内☆Dance",
+    "",
+    "脳内☆Dance",
+    "どっちなんだこれは？",
+    "脳内☆Dance",
+    "タイプなんだでも",
+    "勘違いシテル？",
+    "シテナイ？どっちさ？",
+    "脳内☆Dance",
+    "君に右往左往",
+    "脳内☆Dance",
+    "右脳と左脳誘っても",
+    "いいの？悪いの？",
+    "どっちなのさ？",
+    "wow 脳内☆Dance",
+    ""
+  ]
+}

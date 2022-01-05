@@ -1,0 +1,18 @@
+@bgcardList: n, a, v, adv, av, mv, info;
+@colorList: #fef569, #f1c9e1, #b8df86, #d096ea, #93d7df, #aaaaaa, #9b9b9b,
+  transparent;
+.backgroundcard(@className,@color) {
+  .colormap-@{className} {
+    background: @color;
+    padding: 4px 6px;
+  }
+  .word-@{className}::after {
+    background: @color;
+  }
+}
+
+.loop(@i) when (@i < length(@bgcardList)+1) {
+  .backgroundcard(extract(@bgcardList, @i), extract(@colorList, @i));
+  .loop(@i+1);
+}
+.loop(1);

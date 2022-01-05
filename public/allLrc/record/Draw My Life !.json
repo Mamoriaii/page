@@ -1,0 +1,5289 @@
+{
+  "name": "Draw My Life!",
+  "info": [
+    {
+      "label": "歌手",
+      "value": "Hey! Say! JUMP"
+    },
+    {
+      "label": "作詞",
+      "value": ["城戸紘志"]
+    },
+    {
+      "label": "作曲",
+      "value": ["城戸紘志"]
+    }
+  ],
+  "lrc": [
+    {
+      "id": 0,
+      "surface": "Draw my life !　思いのままに",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Draw",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "my",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "life",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!　",
+          "curPos": "n"
+        },
+        {
+          "base": "思い",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "オモイ",
+          "reading": "おもい",
+          "surface": "思い",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "まま",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ママ",
+          "reading": "",
+          "surface": "まま",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "surface": "Draw my life !　変えてゆける",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Draw",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "my",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "life",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!　",
+          "curPos": "n"
+        },
+        {
+          "base": "変える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カエ",
+          "reading": "かえて",
+          "surface": "変えて",
+          "curPos": "v"
+        },
+        {
+          "base": "ゆける",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユケル",
+          "reading": "",
+          "surface": "ゆける",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "surface": "　",
+      "words": []
+    },
+    {
+      "id": 3,
+      "surface": "あの日描いたスケッチブックの中に　今の自分が居たんだ",
+      "words": [
+        {
+          "base": "あの",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "アノ",
+          "reading": "",
+          "surface": "あの",
+          "curPos": "/"
+        },
+        {
+          "base": "日",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ヒ",
+          "reading": "ひ",
+          "surface": "日",
+          "curPos": "n"
+        },
+        {
+          "base": "描く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "エガイ",
+          "reading": "えがいた",
+          "surface": "描いた",
+          "curPos": "v"
+        },
+        {
+          "base": "スケッチブック",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "スケッチブック",
+          "reading": "",
+          "surface": "スケッチブック",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "中",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ナカ",
+          "reading": "なか",
+          "surface": "中",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "今",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "イマ",
+          "reading": "いま",
+          "surface": "今",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "自分",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ジブン",
+          "reading": "じぶん",
+          "surface": "自分",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "居る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イ",
+          "reading": "いた",
+          "surface": "居た",
+          "curPos": "v"
+        },
+        {
+          "base": "ん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ン",
+          "reading": "",
+          "surface": "ん",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "surface": "夢は叶うと　言われた気がした",
+      "words": [
+        {
+          "base": "夢",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユメ",
+          "reading": "ゆめ",
+          "surface": "夢",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "叶う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カナウ",
+          "reading": "かなう",
+          "surface": "叶う",
+          "curPos": "v"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "言う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イワ",
+          "reading": "いわ",
+          "surface": "言わ",
+          "curPos": "v"
+        },
+        {
+          "base": "れる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "レ",
+          "reading": "",
+          "surface": "れた",
+          "curPos": "v"
+        },
+        {
+          "base": "気",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "キ",
+          "reading": "き",
+          "surface": "気",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シ",
+          "reading": "",
+          "surface": "した",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "surface": "　",
+      "words": []
+    },
+    {
+      "id": 6,
+      "surface": "人生はラビリンス　迷い続けて",
+      "words": [
+        {
+          "base": "人生",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ジンセイ",
+          "reading": "じんせい",
+          "surface": "人生",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "ラビリンス",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ラビリンス",
+          "reading": "",
+          "surface": "ラビリンス",
+          "curPos": "n"
+        },
+        {
+          "base": "迷う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "マヨイ",
+          "reading": "まよい",
+          "surface": "迷い",
+          "curPos": "v"
+        },
+        {
+          "base": "続ける",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ツズケ",
+          "reading": "つづけて",
+          "surface": "続けて",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "surface": "いくつもの光に出会ってゆく",
+      "words": [
+        {
+          "base": "いくつ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "イクツ",
+          "reading": "",
+          "surface": "いくつ",
+          "curPos": "/"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "光",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヒカリ",
+          "reading": "ひかり",
+          "surface": "光",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "出会う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "デアッ",
+          "reading": "であって",
+          "surface": "出会って",
+          "curPos": "v"
+        },
+        {
+          "base": "ゆく",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ユク",
+          "reading": "",
+          "surface": "ゆく",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "surface": "　",
+      "words": []
+    },
+    {
+      "id": 9,
+      "surface": "間違えても(間違えても)　進めば進んだ分だけ",
+      "words": [
+        {
+          "base": "間違える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "マチガエ",
+          "reading": "まちがえて",
+          "surface": "間違えて",
+          "curPos": "v"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "間違える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "マチガエ",
+          "reading": "まちがえて",
+          "surface": "間違えて",
+          "curPos": "v"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")　",
+          "curPos": "n"
+        },
+        {
+          "base": "進む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ススメ",
+          "reading": "すすめ",
+          "surface": "進め",
+          "curPos": "v"
+        },
+        {
+          "base": "ば",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "バ",
+          "reading": "",
+          "surface": "ば",
+          "curPos": "av"
+        },
+        {
+          "base": "進む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ススン",
+          "reading": "すすんだ",
+          "surface": "進んだ",
+          "curPos": "v"
+        },
+        {
+          "base": "分",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "ブン",
+          "reading": "ぶん",
+          "surface": "分",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "だけ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ダケ",
+          "reading": "",
+          "surface": "だけ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "surface": "勝てなくても(勝てなくても)　挑めば挑んだ分だけ",
+      "words": [
+        {
+          "base": "勝てる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カテ",
+          "reading": "かてなくて",
+          "surface": "勝てなくて",
+          "curPos": "v"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "勝てる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カテ",
+          "reading": "かてなくて",
+          "surface": "勝てなくて",
+          "curPos": "v"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")　",
+          "curPos": "n"
+        },
+        {
+          "base": "挑む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イドメ",
+          "reading": "いどめ",
+          "surface": "挑め",
+          "curPos": "v"
+        },
+        {
+          "base": "ば",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "バ",
+          "reading": "",
+          "surface": "ば",
+          "curPos": "av"
+        },
+        {
+          "base": "挑む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イドン",
+          "reading": "いどんだ",
+          "surface": "挑んだ",
+          "curPos": "v"
+        },
+        {
+          "base": "分",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "ブン",
+          "reading": "ぶん",
+          "surface": "分",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "だけ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ダケ",
+          "reading": "",
+          "surface": "だけ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "surface": "重なってく(グラデーションが)　作りあげる",
+      "words": [
+        {
+          "base": "重なる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カサナッ",
+          "reading": "かさなって",
+          "surface": "重なって",
+          "curPos": "v"
+        },
+        {
+          "base": "く",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ク",
+          "reading": "",
+          "surface": "く",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "グラデーション",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "グラデーション",
+          "reading": "",
+          "surface": "グラデーション",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")　",
+          "curPos": "n"
+        },
+        {
+          "base": "作りあげる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ツクリアゲル",
+          "reading": "つくりあげる",
+          "surface": "作りあげる",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "surface": "僕らだけのストーリー",
+      "words": [
+        {
+          "base": "僕ら",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボクラ",
+          "reading": "ぼくら",
+          "surface": "僕ら",
+          "curPos": "/"
+        },
+        {
+          "base": "だけ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ダケ",
+          "reading": "",
+          "surface": "だけ",
+          "curPos": "av"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "ストーリー",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ストーリー",
+          "reading": "",
+          "surface": "ストーリー",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "surface": "　",
+      "words": []
+    },
+    {
+      "id": 14,
+      "surface": "鮮やかにDrawing my life",
+      "words": [
+        {
+          "base": "鮮やか",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "アザヤカ",
+          "reading": "あざやか",
+          "surface": "鮮やか",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,副詞化,*,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Drawing",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "my",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "life",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "surface": "さあ　未来塗り替えてゆこう",
+      "words": [
+        {
+          "base": "さあ",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "サー",
+          "reading": "",
+          "surface": "さあ",
+          "curPos": "/"
+        },
+        {
+          "base": "未来",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミライ",
+          "reading": "みらい",
+          "surface": "未来",
+          "curPos": "n"
+        },
+        {
+          "base": "塗り替える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヌリカエ",
+          "reading": "ぬりかえて",
+          "surface": "塗り替えて",
+          "curPos": "v"
+        },
+        {
+          "base": "ゆく",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ユコ",
+          "reading": "",
+          "surface": "ゆこう",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "surface": "心の奥が曇り空でも　青空に変えてゆける",
+      "words": [
+        {
+          "base": "心",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ココロ",
+          "reading": "こころ",
+          "surface": "心",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "奥",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "オク",
+          "reading": "おく",
+          "surface": "奥",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "曇り空",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "クモリゾラ",
+          "reading": "くもりぞら",
+          "surface": "曇り空",
+          "curPos": "n"
+        },
+        {
+          "base": "でも",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "デモ",
+          "reading": "",
+          "surface": "でも",
+          "curPos": "av"
+        },
+        {
+          "base": "青空",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アオゾラ",
+          "reading": "あおぞら",
+          "surface": "青空",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "変える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カエ",
+          "reading": "かえて",
+          "surface": "変えて",
+          "curPos": "v"
+        },
+        {
+          "base": "ゆける",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユケル",
+          "reading": "",
+          "surface": "ゆける",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "surface": "　",
+      "words": []
+    },
+    {
+      "id": 18,
+      "surface": "凹んでる暇なんてない",
+      "words": [
+        {
+          "base": "凹む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヘコン",
+          "reading": "へこん",
+          "surface": "凹ん",
+          "curPos": "v"
+        },
+        {
+          "base": "でる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "デル",
+          "reading": "",
+          "surface": "でる",
+          "curPos": "v"
+        },
+        {
+          "base": "暇",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヒマ",
+          "reading": "ひま",
+          "surface": "暇",
+          "curPos": "n"
+        },
+        {
+          "base": "なんて",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ナンテ",
+          "reading": "",
+          "surface": "なんて",
+          "curPos": "av"
+        },
+        {
+          "base": "ない",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ナイ",
+          "reading": "",
+          "surface": "ない",
+          "curPos": "a"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "surface": "ほら　新しいページめくって",
+      "words": [
+        {
+          "base": "ほら",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "ホラ",
+          "reading": "",
+          "surface": "ほら",
+          "curPos": "/"
+        },
+        {
+          "base": "新しい",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "アタラシイ",
+          "reading": "あたらしい",
+          "surface": "新しい",
+          "curPos": "a"
+        },
+        {
+          "base": "ページ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ページ",
+          "reading": "",
+          "surface": "ページ",
+          "curPos": "n"
+        },
+        {
+          "base": "めくる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "メクッ",
+          "reading": "",
+          "surface": "めくって",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "surface": "カラフルに彩り続けよう　見返すその日まで",
+      "words": [
+        {
+          "base": "カラフル",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カラフル",
+          "reading": "",
+          "surface": "カラフル",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "彩る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イロドリ",
+          "reading": "いろどり",
+          "surface": "彩り",
+          "curPos": "v"
+        },
+        {
+          "base": "続ける",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ツズケヨ",
+          "reading": "つづけよう",
+          "surface": "続けよう",
+          "curPos": "v"
+        },
+        {
+          "base": "見返す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミカエス",
+          "reading": "みかえす",
+          "surface": "見返す",
+          "curPos": "v"
+        },
+        {
+          "base": "その",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "ソノ",
+          "reading": "",
+          "surface": "その",
+          "curPos": "/"
+        },
+        {
+          "base": "日",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ヒ",
+          "reading": "ひ",
+          "surface": "日",
+          "curPos": "n"
+        },
+        {
+          "base": "まで",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "マデ",
+          "reading": "",
+          "surface": "まで",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "surface": "　",
+      "words": []
+    },
+    {
+      "id": 22,
+      "surface": "子供の頃は　自由に描けたのに",
+      "words": [
+        {
+          "base": "子供",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "コドモ",
+          "reading": "こども",
+          "surface": "子供",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "頃",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "コロ",
+          "reading": "ころ",
+          "surface": "頃",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "自由",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ジユー",
+          "reading": "じゆう",
+          "surface": "自由",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,副詞化,*,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "描ける",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "エガケ",
+          "reading": "えがけた",
+          "surface": "描けた",
+          "curPos": "v"
+        },
+        {
+          "base": "のに",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "ノニ",
+          "reading": "",
+          "surface": "のに",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "surface": "キャンバスは　いつからか白いまま",
+      "words": [
+        {
+          "base": "キャンバス",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "キャンバス",
+          "reading": "",
+          "surface": "キャンバス",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "いつか",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "イツカ",
+          "reading": "",
+          "surface": "いつか",
+          "curPos": "n"
+        },
+        {
+          "base": "ら",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "ラ",
+          "reading": "",
+          "surface": "ら",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "か",
+          "pos": "助詞,副助詞／並立助詞／終助詞,*,*",
+          "pronunciation": "カ",
+          "reading": "",
+          "surface": "か",
+          "curPos": "av"
+        },
+        {
+          "base": "白い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "シロイ",
+          "reading": "しろい",
+          "surface": "白い",
+          "curPos": "a"
+        },
+        {
+          "base": "まま",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ママ",
+          "reading": "",
+          "surface": "まま",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "surface": "　",
+      "words": []
+    },
+    {
+      "id": 25,
+      "surface": "悩んでても(悩んでても)　何も始まらないから",
+      "words": [
+        {
+          "base": "悩む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナヤン",
+          "reading": "なやん",
+          "surface": "悩ん",
+          "curPos": "v"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "て",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "テ",
+          "reading": "",
+          "surface": "て",
+          "curPos": "av"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "悩む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナヤン",
+          "reading": "なやん",
+          "surface": "悩ん",
+          "curPos": "v"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "て",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "テ",
+          "reading": "",
+          "surface": "て",
+          "curPos": "av"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")　",
+          "curPos": "n"
+        },
+        {
+          "base": "何",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ナニ",
+          "reading": "なに",
+          "surface": "何",
+          "curPos": "/"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "始まる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハジマラ",
+          "reading": "はじまらない",
+          "surface": "始まらない",
+          "curPos": "v"
+        },
+        {
+          "base": "から",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "カラ",
+          "reading": "",
+          "surface": "から",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "surface": "動かなくちゃ(動かなくちゃ)　前には進めないから",
+      "words": [
+        {
+          "base": "動く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ウゴカ",
+          "reading": "うごかなく",
+          "surface": "動かなく",
+          "curPos": "v"
+        },
+        {
+          "base": "ちゃ",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "チャ",
+          "reading": "",
+          "surface": "ちゃ",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "動く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ウゴカ",
+          "reading": "うごかなく",
+          "surface": "動かなく",
+          "curPos": "v"
+        },
+        {
+          "base": "ちゃ",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "チャ",
+          "reading": "",
+          "surface": "ちゃ",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")　",
+          "curPos": "n"
+        },
+        {
+          "base": "前",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "マエ",
+          "reading": "まえ",
+          "surface": "前",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "進める",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ススメ",
+          "reading": "すすめない",
+          "surface": "進めない",
+          "curPos": "v"
+        },
+        {
+          "base": "から",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "カラ",
+          "reading": "",
+          "surface": "から",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "surface": "重なってく(グラデーションが)　作りあげる",
+      "words": [
+        {
+          "base": "重なる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カサナッ",
+          "reading": "かさなって",
+          "surface": "重なって",
+          "curPos": "v"
+        },
+        {
+          "base": "く",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ク",
+          "reading": "",
+          "surface": "く",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "グラデーション",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "グラデーション",
+          "reading": "",
+          "surface": "グラデーション",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")　",
+          "curPos": "n"
+        },
+        {
+          "base": "作りあげる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ツクリアゲル",
+          "reading": "つくりあげる",
+          "surface": "作りあげる",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "surface": "僕らなりのグローリー",
+      "words": [
+        {
+          "base": "僕ら",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボクラ",
+          "reading": "ぼくら",
+          "surface": "僕ら",
+          "curPos": "/"
+        },
+        {
+          "base": "なり",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ナリ",
+          "reading": "",
+          "surface": "なり",
+          "curPos": "av"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "グローリー",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "surface": "　",
+      "words": []
+    },
+    {
+      "id": 30,
+      "surface": "鮮やかにDrawing my life",
+      "words": [
+        {
+          "base": "鮮やか",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "アザヤカ",
+          "reading": "あざやか",
+          "surface": "鮮やか",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,副詞化,*,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Drawing",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "my",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "life",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "surface": "今　枠を飛び越えてゆこう",
+      "words": [
+        {
+          "base": "今",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "イマ",
+          "reading": "いま",
+          "surface": "今",
+          "curPos": "n"
+        },
+        {
+          "base": "枠",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ワク",
+          "reading": "わく",
+          "surface": "枠",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "飛び越える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "トビコエ",
+          "reading": "とびこえて",
+          "surface": "飛び越えて",
+          "curPos": "v"
+        },
+        {
+          "base": "ゆく",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ユコ",
+          "reading": "",
+          "surface": "ゆこう",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "surface": "涙で絵の具滲んでいても　星空に変えてゆける",
+      "words": [
+        {
+          "base": "涙",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ナミダ",
+          "reading": "なみだ",
+          "surface": "涙",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "絵の具",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "エノグ",
+          "reading": "えのぐ",
+          "surface": "絵の具",
+          "curPos": "n"
+        },
+        {
+          "base": "滲む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ニジン",
+          "reading": "にじん",
+          "surface": "滲ん",
+          "curPos": "v"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "いる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イ",
+          "reading": "",
+          "surface": "いて",
+          "curPos": "v"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "星空",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ホシゾラ",
+          "reading": "ほしぞら",
+          "surface": "星空",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "変える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カエ",
+          "reading": "かえて",
+          "surface": "変えて",
+          "curPos": "v"
+        },
+        {
+          "base": "ゆける",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユケル",
+          "reading": "",
+          "surface": "ゆける",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "surface": "　",
+      "words": []
+    },
+    {
+      "id": 34,
+      "surface": "凹んでる暇なんてない",
+      "words": [
+        {
+          "base": "凹む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヘコン",
+          "reading": "へこん",
+          "surface": "凹ん",
+          "curPos": "v"
+        },
+        {
+          "base": "でる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "デル",
+          "reading": "",
+          "surface": "でる",
+          "curPos": "v"
+        },
+        {
+          "base": "暇",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヒマ",
+          "reading": "ひま",
+          "surface": "暇",
+          "curPos": "n"
+        },
+        {
+          "base": "なんて",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ナンテ",
+          "reading": "",
+          "surface": "なんて",
+          "curPos": "av"
+        },
+        {
+          "base": "ない",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ナイ",
+          "reading": "",
+          "surface": "ない",
+          "curPos": "a"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "surface": "ほら　新しいページめくって",
+      "words": [
+        {
+          "base": "ほら",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "ホラ",
+          "reading": "",
+          "surface": "ほら",
+          "curPos": "/"
+        },
+        {
+          "base": "新しい",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "アタラシイ",
+          "reading": "あたらしい",
+          "surface": "新しい",
+          "curPos": "a"
+        },
+        {
+          "base": "ページ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ページ",
+          "reading": "",
+          "surface": "ページ",
+          "curPos": "n"
+        },
+        {
+          "base": "めくる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "メクッ",
+          "reading": "",
+          "surface": "めくって",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "surface": "カラフルに彩り続けよう　瞳閉じる日まで",
+      "words": [
+        {
+          "base": "カラフル",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カラフル",
+          "reading": "",
+          "surface": "カラフル",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "彩る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イロドリ",
+          "reading": "いろどり",
+          "surface": "彩り",
+          "curPos": "v"
+        },
+        {
+          "base": "続ける",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ツズケヨ",
+          "reading": "つづけよう",
+          "surface": "続けよう",
+          "curPos": "v"
+        },
+        {
+          "base": "瞳",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヒトミ",
+          "reading": "ひとみ",
+          "surface": "瞳",
+          "curPos": "n"
+        },
+        {
+          "base": "閉じる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "トジル",
+          "reading": "とじる",
+          "surface": "閉じる",
+          "curPos": "v"
+        },
+        {
+          "base": "日",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ヒ",
+          "reading": "ひ",
+          "surface": "日",
+          "curPos": "n"
+        },
+        {
+          "base": "まで",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "マデ",
+          "reading": "",
+          "surface": "まで",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "surface": "　",
+      "words": []
+    },
+    {
+      "id": 38,
+      "surface": "シナリオ通りにいかない　きっとそんなもんかな",
+      "words": [
+        {
+          "base": "シナリオ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "シナリオ",
+          "reading": "",
+          "surface": "シナリオ",
+          "curPos": "n"
+        },
+        {
+          "base": "通り",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "ドーリ",
+          "reading": "どおり",
+          "surface": "通り",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "いく",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イカ",
+          "reading": "",
+          "surface": "いかない",
+          "curPos": "v"
+        },
+        {
+          "base": "きっと",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "キット",
+          "reading": "",
+          "surface": "きっと",
+          "curPos": "adv"
+        },
+        {
+          "base": "そんな",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "ソンナ",
+          "reading": "",
+          "surface": "そんな",
+          "curPos": "/"
+        },
+        {
+          "base": "もん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "モン",
+          "reading": "",
+          "surface": "もん",
+          "curPos": "n"
+        },
+        {
+          "base": "か",
+          "pos": "助詞,副助詞／並立助詞／終助詞,*,*",
+          "pronunciation": "カ",
+          "reading": "",
+          "surface": "か",
+          "curPos": "av"
+        },
+        {
+          "base": "な",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "surface": "運命なんて　消しゴムでそっと消してしまおう",
+      "words": [
+        {
+          "base": "運命",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ウンメイ",
+          "reading": "うんめい",
+          "surface": "運命",
+          "curPos": "n"
+        },
+        {
+          "base": "なんて",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ナンテ",
+          "reading": "",
+          "surface": "なんて",
+          "curPos": "av"
+        },
+        {
+          "base": "消しゴム",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ケシゴム",
+          "reading": "けしごむ",
+          "surface": "消しゴム",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "そっと",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ソット",
+          "reading": "",
+          "surface": "そっと",
+          "curPos": "adv"
+        },
+        {
+          "base": "消す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ケシ",
+          "reading": "けして",
+          "surface": "消して",
+          "curPos": "v"
+        },
+        {
+          "base": "しまう",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "シマオ",
+          "reading": "",
+          "surface": "しまおう",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "surface": "　",
+      "words": []
+    },
+    {
+      "id": 41,
+      "surface": "あきらめないよ　行き止まりにぶつかったとしても",
+      "words": [
+        {
+          "base": "あきらめる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "アキラメ",
+          "reading": "",
+          "surface": "あきらめない",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        },
+        {
+          "base": "行き止まり",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユキドマリ",
+          "reading": "ゆきどまり",
+          "surface": "行き止まり",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "ぶつかる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ブツカッ",
+          "reading": "",
+          "surface": "ぶつかった",
+          "curPos": "v"
+        },
+        {
+          "base": "として",
+          "pos": "助詞,格助詞,連語,*",
+          "pronunciation": "トシテ",
+          "reading": "",
+          "surface": "として",
+          "curPos": "av"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "surface": "虹の架け橋描いて　ただゴールを目指す",
+      "words": [
+        {
+          "base": "虹",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ニジ",
+          "reading": "にじ",
+          "surface": "虹",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "架け橋",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カケハシ",
+          "reading": "かけはし",
+          "surface": "架け橋",
+          "curPos": "n"
+        },
+        {
+          "base": "描く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "エガイ",
+          "reading": "えがいて",
+          "surface": "描いて",
+          "curPos": "v"
+        },
+        {
+          "base": "ただ",
+          "pos": "接続詞,*,*,*",
+          "pronunciation": "タダ",
+          "reading": "",
+          "surface": "ただ",
+          "curPos": "/"
+        },
+        {
+          "base": "ゴール",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ゴール",
+          "reading": "",
+          "surface": "ゴール",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "目指す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "メザス",
+          "reading": "めざす",
+          "surface": "目指す",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "surface": "　",
+      "words": []
+    },
+    {
+      "id": 44,
+      "surface": "鮮やかにDrawing my life",
+      "words": [
+        {
+          "base": "鮮やか",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "アザヤカ",
+          "reading": "あざやか",
+          "surface": "鮮やか",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,副詞化,*,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Drawing",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "my",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "life",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "surface": "さあ　未来塗り替えてゆこう",
+      "words": [
+        {
+          "base": "さあ",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "サー",
+          "reading": "",
+          "surface": "さあ",
+          "curPos": "/"
+        },
+        {
+          "base": "未来",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミライ",
+          "reading": "みらい",
+          "surface": "未来",
+          "curPos": "n"
+        },
+        {
+          "base": "塗り替える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヌリカエ",
+          "reading": "ぬりかえて",
+          "surface": "塗り替えて",
+          "curPos": "v"
+        },
+        {
+          "base": "ゆく",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ユコ",
+          "reading": "",
+          "surface": "ゆこう",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "surface": "心の奥が曇り空でも　青空に変えてゆける",
+      "words": [
+        {
+          "base": "心",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ココロ",
+          "reading": "こころ",
+          "surface": "心",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "奥",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "オク",
+          "reading": "おく",
+          "surface": "奥",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "曇り空",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "クモリゾラ",
+          "reading": "くもりぞら",
+          "surface": "曇り空",
+          "curPos": "n"
+        },
+        {
+          "base": "でも",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "デモ",
+          "reading": "",
+          "surface": "でも",
+          "curPos": "av"
+        },
+        {
+          "base": "青空",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アオゾラ",
+          "reading": "あおぞら",
+          "surface": "青空",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "変える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カエ",
+          "reading": "かえて",
+          "surface": "変えて",
+          "curPos": "v"
+        },
+        {
+          "base": "ゆける",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユケル",
+          "reading": "",
+          "surface": "ゆける",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "surface": "　",
+      "words": []
+    },
+    {
+      "id": 48,
+      "surface": "凹んでる暇なんてない",
+      "words": [
+        {
+          "base": "凹む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヘコン",
+          "reading": "へこん",
+          "surface": "凹ん",
+          "curPos": "v"
+        },
+        {
+          "base": "でる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "デル",
+          "reading": "",
+          "surface": "でる",
+          "curPos": "v"
+        },
+        {
+          "base": "暇",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヒマ",
+          "reading": "ひま",
+          "surface": "暇",
+          "curPos": "n"
+        },
+        {
+          "base": "なんて",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ナンテ",
+          "reading": "",
+          "surface": "なんて",
+          "curPos": "av"
+        },
+        {
+          "base": "ない",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ナイ",
+          "reading": "",
+          "surface": "ない",
+          "curPos": "a"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "surface": "ほら　新しいページめくって",
+      "words": [
+        {
+          "base": "ほら",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "ホラ",
+          "reading": "",
+          "surface": "ほら",
+          "curPos": "/"
+        },
+        {
+          "base": "新しい",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "アタラシイ",
+          "reading": "あたらしい",
+          "surface": "新しい",
+          "curPos": "a"
+        },
+        {
+          "base": "ページ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ページ",
+          "reading": "",
+          "surface": "ページ",
+          "curPos": "n"
+        },
+        {
+          "base": "めくる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "メクッ",
+          "reading": "",
+          "surface": "めくって",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "surface": "カラフルに彩り続けよう　見返すその日まで",
+      "words": [
+        {
+          "base": "カラフル",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カラフル",
+          "reading": "",
+          "surface": "カラフル",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "彩る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イロドリ",
+          "reading": "いろどり",
+          "surface": "彩り",
+          "curPos": "v"
+        },
+        {
+          "base": "続ける",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ツズケヨ",
+          "reading": "つづけよう",
+          "surface": "続けよう",
+          "curPos": "v"
+        },
+        {
+          "base": "見返す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミカエス",
+          "reading": "みかえす",
+          "surface": "見返す",
+          "curPos": "v"
+        },
+        {
+          "base": "その",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "ソノ",
+          "reading": "",
+          "surface": "その",
+          "curPos": "/"
+        },
+        {
+          "base": "日",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ヒ",
+          "reading": "ひ",
+          "surface": "日",
+          "curPos": "n"
+        },
+        {
+          "base": "まで",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "マデ",
+          "reading": "",
+          "surface": "まで",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "surface": "　",
+      "words": []
+    },
+    {
+      "id": 52,
+      "surface": "Draw my life !　思いのままに",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Draw",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "my",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "life",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!　",
+          "curPos": "n"
+        },
+        {
+          "base": "思い",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "オモイ",
+          "reading": "おもい",
+          "surface": "思い",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "まま",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ママ",
+          "reading": "",
+          "surface": "まま",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "surface": "Draw my life !　変えてゆける",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Draw",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "my",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "life",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!　",
+          "curPos": "n"
+        },
+        {
+          "base": "変える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カエ",
+          "reading": "かえて",
+          "surface": "変えて",
+          "curPos": "v"
+        },
+        {
+          "base": "ゆける",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユケル",
+          "reading": "",
+          "surface": "ゆける",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "surface": "　",
+      "words": []
+    },
+    {
+      "id": 55,
+      "surface": "Draw my life !",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Draw",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "my",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "life",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 57,
+      "surface": "Draw my life! omoi no mama ni ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Draw",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "my",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "life",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "omoi",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "no",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mama",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "surface": "Draw my life! kaete yukeru",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Draw",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "my",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "life",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kaete",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "yukeru",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 60,
+      "surface": "ano hi egaita sukecchibukku no naka ni ima no jibun ga itan da ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ano",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "hi",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "egaita",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "sukecchibukku",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "no",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "naka",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ima",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "no",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "jibun",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ga",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "itan",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "da",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "surface": "Yume wa kanau to iwareta ki ga shita",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Yume",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "wa",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kanau",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "to",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "iwareta",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ki",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ga",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "shita",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 63,
+      "surface": "jinsei wa rabirinsu mayoi tsuzukete ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "jinsei",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "wa",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "rabirinsu",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mayoi",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "tsuzukete",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "surface": "Ikutsu mono hikari ni deatte yuku",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Ikutsu",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mono",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "hikari",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "deatte",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "yuku",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 66,
+      "surface": "machigaetemo (machigaetemo) susumeba susunda bun dake ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "machigaetemo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "machigaetemo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "susumeba",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "susunda",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "bun",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "dake",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "surface": "Katenakutemo (katenakutemo) idomeba idonda bun dake ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Katenakutemo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "katenakutemo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "idomeba",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "idonda",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "bun",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "dake",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "surface": "Kasanatteku (guradeeshon ga) tsukuriageru ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Kasanatteku",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "guradeeshon",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ga",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "tsukuriageru",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "surface": "Bokura dake no sutoorii",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Bokura",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "dake",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "no",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "sutoorii",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 71,
+      "surface": "azayaka ni Drawing my life ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "azayaka",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Drawing",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "my",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "life",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "surface": "Saa mirai nurikaete yukou ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Saa",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mirai",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "nurikaete",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "yukou",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "surface": "Kokoro no oku ga kumorizora demo aozora ni kaete yukeru",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Kokoro",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "no",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "oku",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ga",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kumorizora",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "demo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "aozora",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kaete",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "yukeru",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 75,
+      "surface": "hekonderu hima nante nai ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "hekonderu",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "hima",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "nante",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "nai",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "surface": "Hora atarashii peeji mekutte ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Hora",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "atarashii",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "peeji",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mekutte",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "surface": "Karafuru ni irodori tsuzukeyou mikaesu sono hi made",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Karafuru",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "irodori",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "tsuzukeyou",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mikaesu",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "sono",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "hi",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "made",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 79,
+      "surface": "kodomo no koro wa jiyuu ni egaketa no ni ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kodomo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "no",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "koro",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "wa",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "jiyuu",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "egaketa",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "no",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "surface": "Kyanbasu wa itsu kara ka shiroi mama",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Kyanbasu",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "wa",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "itsu",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kara",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ka",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "shiroi",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mama",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 82,
+      "surface": "nayandetemo (nayandetemo) nanimo hajimaranai kara ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "nayandetemo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "nayandetemo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "nanimo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "hajimaranai",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kara",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "surface": "Ugokanakucha (ugokanakucha) mae ni wa susumenai kara ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Ugokanakucha",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ugokanakucha",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mae",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "wa",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "susumenai",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kara",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "surface": "Kasanatteku (guradeeshon ga) tsukuriageru ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Kasanatteku",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "guradeeshon",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ga",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "tsukuriageru",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "surface": "Bokura nari no guroorii",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Bokura",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "nari",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "no",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "guroorii",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 87,
+      "surface": "azayaka ni Drawing my life ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "azayaka",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Drawing",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "my",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "life",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "surface": "Ima waku wo tobikoete yukou ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Ima",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "waku",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "wo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "tobikoete",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "yukou",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "surface": "Namida de enogu nijindeitemo hoshizora ni kaete yukeru",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Namida",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "de",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "enogu",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "nijindeitemo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "hoshizora",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kaete",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "yukeru",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 91,
+      "surface": "hekonderu hima nante nai ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "hekonderu",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "hima",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "nante",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "nai",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "surface": "Hora atarashii peeji mekutte ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Hora",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "atarashii",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "peeji",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mekutte",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "surface": "Karafuru ni irodori tsuzukeyou hitomi tojiru hi made",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Karafuru",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "irodori",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "tsuzukeyou",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "hitomi",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "tojiru",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "hi",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "made",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 95,
+      "surface": "shinario toori ni ikanai kitto sonna mon ka na ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "shinario",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "toori",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ikanai",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kitto",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "sonna",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mon",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ka",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "na",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "surface": "Unmei nante keshigomu de sotto keshite shimaou",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Unmei",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "nante",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "keshigomu",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "de",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "sotto",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "keshite",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "shimaou",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 98,
+      "surface": "akiramenai yo ikidomari ni butsukatta to shite mo ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "akiramenai",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "yo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ikidomari",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "butsukatta",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "to",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "shite",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mo",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "surface": "Niji no kakehashi egaite tada gooru wo mezasu",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Niji",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "no",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kakehashi",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "egaite",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "tada",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "gooru",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "wo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mezasu",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 101,
+      "surface": "azayaka ni Drawing my life ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "azayaka",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Drawing",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "my",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "life",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "surface": "Saa mirai nurikaete yukou ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Saa",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mirai",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "nurikaete",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "yukou",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "surface": "Kokoro no oku ga kumorizora demo aozora ni kaete yukeru",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Kokoro",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "no",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "oku",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ga",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kumorizora",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "demo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "aozora",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kaete",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "yukeru",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 105,
+      "surface": "hekonderu hima nante nai ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "hekonderu",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "hima",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "nante",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "nai",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "surface": "Hora atarashii peeji mekutte ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Hora",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "atarashii",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "peeji",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mekutte",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "surface": "Karafuru ni irodori tsuzukeyou mikaesu sono hi made",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Karafuru",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "irodori",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "tsuzukeyou",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mikaesu",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "sono",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "hi",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "made",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 109,
+      "surface": "Draw my life! omoi no mama ni ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Draw",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "my",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "life",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "omoi",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "no",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "mama",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ni",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "surface": "Draw my life! kaete yukeru",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Draw",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "my",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "life",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "kaete",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "yukeru",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 112,
+      "surface": "Draw my life!",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Draw",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "my",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "life",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "surface": "",
+      "words": []
+    }
+  ],
+  "pureLrc": [
+    "Draw my life !　思いのままに",
+    "Draw my life !　変えてゆける",
+    "　",
+    "あの日描いたスケッチブックの中に　今の自分が居たんだ",
+    "夢は叶うと　言われた気がした",
+    "　",
+    "人生はラビリンス　迷い続けて",
+    "いくつもの光に出会ってゆく",
+    "　",
+    "間違えても(間違えても)　進めば進んだ分だけ",
+    "勝てなくても(勝てなくても)　挑めば挑んだ分だけ",
+    "重なってく(グラデーションが)　作りあげる",
+    "僕らだけのストーリー",
+    "　",
+    "鮮やかにDrawing my life",
+    "さあ　未来塗り替えてゆこう",
+    "心の奥が曇り空でも　青空に変えてゆける",
+    "　",
+    "凹んでる暇なんてない",
+    "ほら　新しいページめくって",
+    "カラフルに彩り続けよう　見返すその日まで",
+    "　",
+    "子供の頃は　自由に描けたのに",
+    "キャンバスは　いつからか白いまま",
+    "　",
+    "悩んでても(悩んでても)　何も始まらないから",
+    "動かなくちゃ(動かなくちゃ)　前には進めないから",
+    "重なってく(グラデーションが)　作りあげる",
+    "僕らなりのグローリー",
+    "　",
+    "鮮やかにDrawing my life",
+    "今　枠を飛び越えてゆこう",
+    "涙で絵の具滲んでいても　星空に変えてゆける",
+    "　",
+    "凹んでる暇なんてない",
+    "ほら　新しいページめくって",
+    "カラフルに彩り続けよう　瞳閉じる日まで",
+    "　",
+    "シナリオ通りにいかない　きっとそんなもんかな",
+    "運命なんて　消しゴムでそっと消してしまおう",
+    "　",
+    "あきらめないよ　行き止まりにぶつかったとしても",
+    "虹の架け橋描いて　ただゴールを目指す",
+    "　",
+    "鮮やかにDrawing my life",
+    "さあ　未来塗り替えてゆこう",
+    "心の奥が曇り空でも　青空に変えてゆける",
+    "　",
+    "凹んでる暇なんてない",
+    "ほら　新しいページめくって",
+    "カラフルに彩り続けよう　見返すその日まで",
+    "　",
+    "Draw my life !　思いのままに",
+    "Draw my life !　変えてゆける",
+    "　",
+    "Draw my life !",
+    "",
+    "Draw my life! omoi no mama ni ",
+    "Draw my life! kaete yukeru",
+    "",
+    "ano hi egaita sukecchibukku no naka ni ima no jibun ga itan da ",
+    "Yume wa kanau to iwareta ki ga shita",
+    "",
+    "jinsei wa rabirinsu mayoi tsuzukete ",
+    "Ikutsu mono hikari ni deatte yuku",
+    "",
+    "machigaetemo (machigaetemo) susumeba susunda bun dake ",
+    "Katenakutemo (katenakutemo) idomeba idonda bun dake ",
+    "Kasanatteku (guradeeshon ga) tsukuriageru ",
+    "Bokura dake no sutoorii",
+    "",
+    "azayaka ni Drawing my life ",
+    "Saa mirai nurikaete yukou ",
+    "Kokoro no oku ga kumorizora demo aozora ni kaete yukeru",
+    "",
+    "hekonderu hima nante nai ",
+    "Hora atarashii peeji mekutte ",
+    "Karafuru ni irodori tsuzukeyou mikaesu sono hi made",
+    "",
+    "kodomo no koro wa jiyuu ni egaketa no ni ",
+    "Kyanbasu wa itsu kara ka shiroi mama",
+    "",
+    "nayandetemo (nayandetemo) nanimo hajimaranai kara ",
+    "Ugokanakucha (ugokanakucha) mae ni wa susumenai kara ",
+    "Kasanatteku (guradeeshon ga) tsukuriageru ",
+    "Bokura nari no guroorii",
+    "",
+    "azayaka ni Drawing my life ",
+    "Ima waku wo tobikoete yukou ",
+    "Namida de enogu nijindeitemo hoshizora ni kaete yukeru",
+    "",
+    "hekonderu hima nante nai ",
+    "Hora atarashii peeji mekutte ",
+    "Karafuru ni irodori tsuzukeyou hitomi tojiru hi made",
+    "",
+    "shinario toori ni ikanai kitto sonna mon ka na ",
+    "Unmei nante keshigomu de sotto keshite shimaou",
+    "",
+    "akiramenai yo ikidomari ni butsukatta to shite mo ",
+    "Niji no kakehashi egaite tada gooru wo mezasu",
+    "",
+    "azayaka ni Drawing my life ",
+    "Saa mirai nurikaete yukou ",
+    "Kokoro no oku ga kumorizora demo aozora ni kaete yukeru",
+    "",
+    "hekonderu hima nante nai ",
+    "Hora atarashii peeji mekutte ",
+    "Karafuru ni irodori tsuzukeyou mikaesu sono hi made",
+    "",
+    "Draw my life! omoi no mama ni ",
+    "Draw my life! kaete yukeru",
+    "",
+    "Draw my life!",
+    ""
+  ]
+}

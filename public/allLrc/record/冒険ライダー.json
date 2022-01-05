@@ -1,0 +1,1835 @@
+{
+  "name": "冒険ライダー",
+  "artist": ["Hey!Say!JUMP"],
+  "producer": [
+    { "label": "作詞", "value": ["中原明彦"] },
+    { "label": "作曲", "value": ["TSUKASA"] }
+  ],
+  "lrc": [
+    {
+      "id": 0,
+      "surface": "遥かな青空の向こうはどうなっているの?",
+      "words": [
+        {
+          "base": "遥か",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ハルカ",
+          "reading": "はるかな",
+          "surface": "遥かな",
+          "curPos": "a"
+        },
+        {
+          "base": "青空",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アオゾラ",
+          "reading": "あおぞら",
+          "surface": "青空",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "向こう",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ムコー",
+          "reading": "むこう",
+          "surface": "向こう",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "どう",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "ドー",
+          "reading": "",
+          "surface": "どう",
+          "curPos": "adv"
+        },
+        {
+          "base": "なる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナッ",
+          "reading": "",
+          "surface": "なって",
+          "curPos": "v"
+        },
+        {
+          "base": "いる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イル",
+          "reading": "",
+          "surface": "いる",
+          "curPos": "v"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "?",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "surface": "誰かの答えじゃなく カラダで感じたい",
+      "words": [
+        {
+          "base": "誰",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ダレ",
+          "reading": "だれ",
+          "surface": "誰",
+          "curPos": "/"
+        },
+        {
+          "base": "か",
+          "pos": "助詞,副助詞／並立助詞／終助詞,*,*",
+          "pronunciation": "カ",
+          "reading": "",
+          "surface": "か",
+          "curPos": "av"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "答え",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "コタエ",
+          "reading": "こたえ",
+          "surface": "答え",
+          "curPos": "n"
+        },
+        {
+          "base": "じゃ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ジャ",
+          "reading": "",
+          "surface": "じゃ",
+          "curPos": "av"
+        },
+        {
+          "base": "ない",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナク",
+          "reading": "",
+          "surface": "なく",
+          "curPos": "mv"
+        },
+        {
+          "base": "カラダ",
+          "pos": "名詞,固有名詞,人名,一般",
+          "pronunciation": "カラダ",
+          "reading": "",
+          "surface": "カラダ",
+          "curPos": "/"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "感じる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カンジ",
+          "reading": "かんじたい",
+          "surface": "感じたい",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "surface": "何か始めること 恐れないでいいんだよ",
+      "words": [
+        {
+          "base": "何",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ナニ",
+          "reading": "なに",
+          "surface": "何",
+          "curPos": "/"
+        },
+        {
+          "base": "か",
+          "pos": "助詞,副助詞／並立助詞／終助詞,*,*",
+          "pronunciation": "カ",
+          "reading": "",
+          "surface": "か",
+          "curPos": "av"
+        },
+        {
+          "base": "始める",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハジメル",
+          "reading": "はじめる",
+          "surface": "始める",
+          "curPos": "v"
+        },
+        {
+          "base": "こと",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "コト",
+          "reading": "",
+          "surface": "こと",
+          "curPos": "n"
+        },
+        {
+          "base": "恐れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "オソレ",
+          "reading": "おそれない",
+          "surface": "恐れない",
+          "curPos": "v"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "いい",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "イイ",
+          "reading": "",
+          "surface": "いい",
+          "curPos": "a"
+        },
+        {
+          "base": "ん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ン",
+          "reading": "",
+          "surface": "ん",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "surface": "アクセル踏めば 銀河さえも飛び越えて",
+      "words": [
+        {
+          "base": "アクセル",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アクセル",
+          "reading": "",
+          "surface": "アクセル",
+          "curPos": "n"
+        },
+        {
+          "base": "踏む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "フメ",
+          "reading": "ふめ",
+          "surface": "踏め",
+          "curPos": "v"
+        },
+        {
+          "base": "ば",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "バ",
+          "reading": "",
+          "surface": "ば",
+          "curPos": "av"
+        },
+        {
+          "base": "銀河",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ギンガ",
+          "reading": "ぎんが",
+          "surface": "銀河",
+          "curPos": "n"
+        },
+        {
+          "base": "さえ",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "サエ",
+          "reading": "",
+          "surface": "さえ",
+          "curPos": "av"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "飛び越える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "トビコエ",
+          "reading": "とびこえて",
+          "surface": "飛び越えて",
+          "curPos": "v"
+        }
+      ]
+    },
+    { "id": 4, "surface": "", "words": [] },
+    {
+      "id": 5,
+      "surface": "冒険ライダー さあ未来だ!",
+      "words": [
+        {
+          "base": "冒険",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ボーケン",
+          "reading": "ぼうけん",
+          "surface": "冒険",
+          "curPos": "n"
+        },
+        {
+          "base": "ライダー",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ライダー",
+          "reading": "",
+          "surface": "ライダー",
+          "curPos": "n"
+        },
+        {
+          "base": "さあ",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "サー",
+          "reading": "",
+          "surface": "さあ",
+          "curPos": "/"
+        },
+        {
+          "base": "未来",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミライ",
+          "reading": "みらい",
+          "surface": "未来",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "surface": "ハダカの僕らの道は",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ハダカ",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "僕ら",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボクラ",
+          "reading": "ぼくら",
+          "surface": "僕ら",
+          "curPos": "/"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "道",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミチ",
+          "reading": "みち",
+          "surface": "道",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "surface": "宇宙まで つながっているから",
+      "words": [
+        {
+          "base": "宇宙",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ウチュー",
+          "reading": "うちゅう",
+          "surface": "宇宙",
+          "curPos": "n"
+        },
+        {
+          "base": "まで",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "マデ",
+          "reading": "",
+          "surface": "まで",
+          "curPos": "av"
+        },
+        {
+          "base": "つながる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ツナガッ",
+          "reading": "",
+          "surface": "つながって",
+          "curPos": "v"
+        },
+        {
+          "base": "いる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イル",
+          "reading": "",
+          "surface": "いる",
+          "curPos": "v"
+        },
+        {
+          "base": "から",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "カラ",
+          "reading": "",
+          "surface": "から",
+          "curPos": "av"
+        }
+      ]
+    },
+    { "id": 8, "surface": "", "words": [] },
+    {
+      "id": 9,
+      "surface": "冒険ライダー さすらいだ",
+      "words": [
+        {
+          "base": "冒険",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ボーケン",
+          "reading": "ぼうけん",
+          "surface": "冒険",
+          "curPos": "n"
+        },
+        {
+          "base": "ライダー",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ライダー",
+          "reading": "",
+          "surface": "ライダー",
+          "curPos": "n"
+        },
+        {
+          "base": "さすらい",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "サスライ",
+          "reading": "",
+          "surface": "さすらい",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "surface": "虹を飛び越えて行くよ",
+      "words": [
+        {
+          "base": "虹",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ニジ",
+          "reading": "にじ",
+          "surface": "虹",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "飛び越える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "トビコエ",
+          "reading": "とびこえて",
+          "surface": "飛び越えて",
+          "curPos": "v"
+        },
+        {
+          "base": "行く",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イク",
+          "reading": "いく",
+          "surface": "行く",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "surface": "太陽へ Let's fly with the sky rider",
+      "words": [
+        {
+          "base": "太陽",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "タイヨー",
+          "reading": "たいよう",
+          "surface": "太陽",
+          "curPos": "n"
+        },
+        {
+          "base": "へ",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "エ",
+          "reading": "",
+          "surface": "へ",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Let",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "'",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "s",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "fly",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "with",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "the",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "sky",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "rider",
+          "curPos": "n"
+        }
+      ]
+    },
+    { "id": 12, "surface": "", "words": [] },
+    {
+      "id": 13,
+      "surface": "どうせ飛べないなんていったい誰決めた?",
+      "words": [
+        {
+          "base": "どうせ",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ドーセ",
+          "reading": "",
+          "surface": "どうせ",
+          "curPos": "adv"
+        },
+        {
+          "base": "飛べる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "トベ",
+          "reading": "とべない",
+          "surface": "飛べない",
+          "curPos": "v"
+        },
+        {
+          "base": "なんて",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ナンテ",
+          "reading": "",
+          "surface": "なんて",
+          "curPos": "av"
+        },
+        {
+          "base": "いったい",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "イッタイ",
+          "reading": "",
+          "surface": "いったい",
+          "curPos": "adv"
+        },
+        {
+          "base": "誰",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ダレ",
+          "reading": "だれ",
+          "surface": "誰",
+          "curPos": "/"
+        },
+        {
+          "base": "決める",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "キメ",
+          "reading": "きめた",
+          "surface": "決めた",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "?",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "surface": "無限の可能性 イメージ膨らませて",
+      "words": [
+        {
+          "base": "無限",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ムゲン",
+          "reading": "むげん",
+          "surface": "無限",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "可能",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "カノー",
+          "reading": "かのう",
+          "surface": "可能",
+          "curPos": "n"
+        },
+        {
+          "base": "性",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "セイ",
+          "reading": "せい",
+          "surface": "性",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "イメージ",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "イメージ",
+          "reading": "",
+          "surface": "イメージ",
+          "curPos": "n"
+        },
+        {
+          "base": "膨らむ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "フクラマ",
+          "reading": "ふくらま",
+          "surface": "膨らま",
+          "curPos": "v"
+        },
+        {
+          "base": "せる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "セ",
+          "reading": "",
+          "surface": "せて",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "surface": "ワクワクする心 翼になるから",
+      "words": [
+        {
+          "base": "ワクワク",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "ワクワク",
+          "reading": "",
+          "surface": "ワクワク",
+          "curPos": "adv"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "スル",
+          "reading": "",
+          "surface": "する",
+          "curPos": "v"
+        },
+        {
+          "base": "心",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ココロ",
+          "reading": "こころ",
+          "surface": "心",
+          "curPos": "n"
+        },
+        {
+          "base": "翼",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ツバサ",
+          "reading": "つばさ",
+          "surface": "翼",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "なる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナル",
+          "reading": "",
+          "surface": "なる",
+          "curPos": "v"
+        },
+        {
+          "base": "から",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "カラ",
+          "reading": "",
+          "surface": "から",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "surface": "イカロスは昇る 神話なんか吹き飛ばせ",
+      "words": [
+        {
+          "base": "イカ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "イカ",
+          "reading": "",
+          "surface": "イカ",
+          "curPos": "n"
+        },
+        {
+          "base": "ロス",
+          "pos": "名詞,固有名詞,地域,一般",
+          "pronunciation": "ロス",
+          "reading": "",
+          "surface": "ロス",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "昇る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ノボル",
+          "reading": "のぼる",
+          "surface": "昇る",
+          "curPos": "v"
+        },
+        {
+          "base": "神話",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "シンワ",
+          "reading": "しんわ",
+          "surface": "神話",
+          "curPos": "n"
+        },
+        {
+          "base": "なんか",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ナンカ",
+          "reading": "",
+          "surface": "なんか",
+          "curPos": "av"
+        },
+        {
+          "base": "吹き飛ぶ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "フキトバ",
+          "reading": "ふきとば",
+          "surface": "吹き飛ば",
+          "curPos": "v"
+        },
+        {
+          "base": "せる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "セ",
+          "reading": "",
+          "surface": "せ",
+          "curPos": "v"
+        }
+      ]
+    },
+    { "id": 17, "surface": "", "words": [] },
+    {
+      "id": 18,
+      "surface": "冒険ライダー 到来だ!",
+      "words": [
+        {
+          "base": "冒険",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ボーケン",
+          "reading": "ぼうけん",
+          "surface": "冒険",
+          "curPos": "n"
+        },
+        {
+          "base": "ライダー",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ライダー",
+          "reading": "",
+          "surface": "ライダー",
+          "curPos": "n"
+        },
+        {
+          "base": "到来",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "トーライ",
+          "reading": "とうらい",
+          "surface": "到来",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "surface": "奇跡と呼ばせはしない",
+      "words": [
+        {
+          "base": "奇跡",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "キセキ",
+          "reading": "きせき",
+          "surface": "奇跡",
+          "curPos": "n"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,格助詞,引用,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "呼ぶ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヨバ",
+          "reading": "よば",
+          "surface": "呼ば",
+          "curPos": "v"
+        },
+        {
+          "base": "せる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "セ",
+          "reading": "",
+          "surface": "せ",
+          "curPos": "v"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シ",
+          "reading": "",
+          "surface": "しない",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "surface": "ひとつずつ 夢かなえて行くよ",
+      "words": [
+        {
+          "base": "ひとつ",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "ヒトツ",
+          "reading": "",
+          "surface": "ひとつ",
+          "curPos": "n"
+        },
+        {
+          "base": "ずつ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ズツ",
+          "reading": "",
+          "surface": "ずつ",
+          "curPos": "av"
+        },
+        {
+          "base": "夢",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユメ",
+          "reading": "ゆめ",
+          "surface": "夢",
+          "curPos": "n"
+        },
+        {
+          "base": "かなえる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カナエ",
+          "reading": "",
+          "surface": "かなえて",
+          "curPos": "v"
+        },
+        {
+          "base": "行く",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イク",
+          "reading": "いく",
+          "surface": "行く",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    { "id": 21, "surface": "", "words": [] },
+    {
+      "id": 22,
+      "surface": "冒険ライダー 泣かないんだ",
+      "words": [
+        {
+          "base": "冒険",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ボーケン",
+          "reading": "ぼうけん",
+          "surface": "冒険",
+          "curPos": "n"
+        },
+        {
+          "base": "ライダー",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ライダー",
+          "reading": "",
+          "surface": "ライダー",
+          "curPos": "n"
+        },
+        {
+          "base": "泣く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナカ",
+          "reading": "なかない",
+          "surface": "泣かない",
+          "curPos": "v"
+        },
+        {
+          "base": "ん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ン",
+          "reading": "",
+          "surface": "ん",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "surface": "広がる世界を浴びて",
+      "words": [
+        {
+          "base": "広がる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヒロガル",
+          "reading": "ひろがる",
+          "surface": "広がる",
+          "curPos": "v"
+        },
+        {
+          "base": "世界",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "セカイ",
+          "reading": "せかい",
+          "surface": "世界",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "浴びる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "アビ",
+          "reading": "あびて",
+          "surface": "浴びて",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "surface": "僕らずっと 突き進んで行くんだよ",
+      "words": [
+        {
+          "base": "僕ら",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボクラ",
+          "reading": "ぼくら",
+          "surface": "僕ら",
+          "curPos": "/"
+        },
+        {
+          "base": "ずっと",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ズット",
+          "reading": "",
+          "surface": "ずっと",
+          "curPos": "adv"
+        },
+        {
+          "base": "突き進む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ツキススン",
+          "reading": "つきすすん",
+          "surface": "突き進ん",
+          "curPos": "v"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "行く",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イク",
+          "reading": "いく",
+          "surface": "行く",
+          "curPos": "v"
+        },
+        {
+          "base": "ん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ン",
+          "reading": "",
+          "surface": "ん",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    { "id": 25, "surface": "", "words": [] },
+    {
+      "id": 26,
+      "surface": "不安な時は目を閉じて 風の音耳をすまそう そっと",
+      "words": [
+        {
+          "base": "不安",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "フアン",
+          "reading": "ふあんな",
+          "surface": "不安な",
+          "curPos": "a"
+        },
+        {
+          "base": "時",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "トキ",
+          "reading": "とき",
+          "surface": "時",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "目",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "メ",
+          "reading": "め",
+          "surface": "目",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "閉じる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "トジ",
+          "reading": "とじて",
+          "surface": "閉じて",
+          "curPos": "v"
+        },
+        {
+          "base": "風の音",
+          "pos": "名詞,固有名詞,人名,一般",
+          "pronunciation": "カゼノオト",
+          "reading": "かぜのおと",
+          "surface": "風の音",
+          "curPos": "/"
+        },
+        {
+          "base": "耳",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミミ",
+          "reading": "みみ",
+          "surface": "耳",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "すます",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "スマソ",
+          "reading": "",
+          "surface": "すまそう",
+          "curPos": "v"
+        },
+        {
+          "base": "そっと",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ソット",
+          "reading": "",
+          "surface": "そっと",
+          "curPos": "adv"
+        }
+      ]
+    },
+    { "id": 27, "surface": "", "words": [] },
+    {
+      "id": 28,
+      "surface": "冒険ライダー さあ未来だ!",
+      "words": [
+        {
+          "base": "冒険",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ボーケン",
+          "reading": "ぼうけん",
+          "surface": "冒険",
+          "curPos": "n"
+        },
+        {
+          "base": "ライダー",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ライダー",
+          "reading": "",
+          "surface": "ライダー",
+          "curPos": "n"
+        },
+        {
+          "base": "さあ",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "サー",
+          "reading": "",
+          "surface": "さあ",
+          "curPos": "/"
+        },
+        {
+          "base": "未来",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミライ",
+          "reading": "みらい",
+          "surface": "未来",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "surface": "ハダカの僕らの道は",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ハダカ",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "僕ら",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボクラ",
+          "reading": "ぼくら",
+          "surface": "僕ら",
+          "curPos": "/"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "道",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミチ",
+          "reading": "みち",
+          "surface": "道",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "surface": "宇宙まで つながっているから",
+      "words": [
+        {
+          "base": "宇宙",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ウチュー",
+          "reading": "うちゅう",
+          "surface": "宇宙",
+          "curPos": "n"
+        },
+        {
+          "base": "まで",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "マデ",
+          "reading": "",
+          "surface": "まで",
+          "curPos": "av"
+        },
+        {
+          "base": "つながる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ツナガッ",
+          "reading": "",
+          "surface": "つながって",
+          "curPos": "v"
+        },
+        {
+          "base": "いる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イル",
+          "reading": "",
+          "surface": "いる",
+          "curPos": "v"
+        },
+        {
+          "base": "から",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "カラ",
+          "reading": "",
+          "surface": "から",
+          "curPos": "av"
+        }
+      ]
+    },
+    { "id": 31, "surface": "", "words": [] },
+    {
+      "id": 32,
+      "surface": "冒険ライダー 到来だ!",
+      "words": [
+        {
+          "base": "冒険",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ボーケン",
+          "reading": "ぼうけん",
+          "surface": "冒険",
+          "curPos": "n"
+        },
+        {
+          "base": "ライダー",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ライダー",
+          "reading": "",
+          "surface": "ライダー",
+          "curPos": "n"
+        },
+        {
+          "base": "到来",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "トーライ",
+          "reading": "とうらい",
+          "surface": "到来",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "surface": "奇跡と呼ばせはしない",
+      "words": [
+        {
+          "base": "奇跡",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "キセキ",
+          "reading": "きせき",
+          "surface": "奇跡",
+          "curPos": "n"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,格助詞,引用,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "呼ぶ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヨバ",
+          "reading": "よば",
+          "surface": "呼ば",
+          "curPos": "v"
+        },
+        {
+          "base": "せる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "セ",
+          "reading": "",
+          "surface": "せ",
+          "curPos": "v"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シ",
+          "reading": "",
+          "surface": "しない",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "surface": "ひとつずつ 夢かなえて行くよ",
+      "words": [
+        {
+          "base": "ひとつ",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "ヒトツ",
+          "reading": "",
+          "surface": "ひとつ",
+          "curPos": "n"
+        },
+        {
+          "base": "ずつ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ズツ",
+          "reading": "",
+          "surface": "ずつ",
+          "curPos": "av"
+        },
+        {
+          "base": "夢",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユメ",
+          "reading": "ゆめ",
+          "surface": "夢",
+          "curPos": "n"
+        },
+        {
+          "base": "かなえる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カナエ",
+          "reading": "",
+          "surface": "かなえて",
+          "curPos": "v"
+        },
+        {
+          "base": "行く",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イク",
+          "reading": "いく",
+          "surface": "行く",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    { "id": 35, "surface": "", "words": [] },
+    {
+      "id": 36,
+      "surface": "冒険ライダー さすらいだ",
+      "words": [
+        {
+          "base": "冒険",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ボーケン",
+          "reading": "ぼうけん",
+          "surface": "冒険",
+          "curPos": "n"
+        },
+        {
+          "base": "ライダー",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ライダー",
+          "reading": "",
+          "surface": "ライダー",
+          "curPos": "n"
+        },
+        {
+          "base": "さすらい",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "サスライ",
+          "reading": "",
+          "surface": "さすらい",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "surface": "虹を飛び越えて行くよ",
+      "words": [
+        {
+          "base": "虹",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ニジ",
+          "reading": "にじ",
+          "surface": "虹",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "飛び越える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "トビコエ",
+          "reading": "とびこえて",
+          "surface": "飛び越えて",
+          "curPos": "v"
+        },
+        {
+          "base": "行く",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イク",
+          "reading": "いく",
+          "surface": "行く",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "surface": "太陽へ Let's fly with the sky rider",
+      "words": [
+        {
+          "base": "太陽",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "タイヨー",
+          "reading": "たいよう",
+          "surface": "太陽",
+          "curPos": "n"
+        },
+        {
+          "base": "へ",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "エ",
+          "reading": "",
+          "surface": "へ",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Let",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "'",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "s",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "fly",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "with",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "the",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "sky",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "rider",
+          "curPos": "n"
+        }
+      ]
+    },
+    { "id": 39, "surface": "", "words": [] }
+  ],
+  "pureLrc": [
+    "遥かな青空の向こうはどうなっているの?",
+    "誰かの答えじゃなく カラダで感じたい",
+    "何か始めること 恐れないでいいんだよ",
+    "アクセル踏めば 銀河さえも飛び越えて",
+    "",
+    "冒険ライダー さあ未来だ!",
+    "ハダカの僕らの道は",
+    "宇宙まで つながっているから",
+    "",
+    "冒険ライダー さすらいだ",
+    "虹を飛び越えて行くよ",
+    "太陽へ Let's fly with the sky rider",
+    "",
+    "どうせ飛べないなんていったい誰決めた?",
+    "無限の可能性 イメージ膨らませて",
+    "ワクワクする心 翼になるから",
+    "イカロスは昇る 神話なんか吹き飛ばせ",
+    "",
+    "冒険ライダー 到来だ!",
+    "奇跡と呼ばせはしない",
+    "ひとつずつ 夢かなえて行くよ",
+    "",
+    "冒険ライダー 泣かないんだ",
+    "広がる世界を浴びて",
+    "僕らずっと 突き進んで行くんだよ",
+    "",
+    "不安な時は目を閉じて 風の音耳をすまそう そっと",
+    "",
+    "冒険ライダー さあ未来だ!",
+    "ハダカの僕らの道は",
+    "宇宙まで つながっているから",
+    "",
+    "冒険ライダー 到来だ!",
+    "奇跡と呼ばせはしない",
+    "ひとつずつ 夢かなえて行くよ",
+    "",
+    "冒険ライダー さすらいだ",
+    "虹を飛び越えて行くよ",
+    "太陽へ Let's fly with the sky rider",
+    ""
+  ]
+}

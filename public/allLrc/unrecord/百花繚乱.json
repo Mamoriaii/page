@@ -1,0 +1,1036 @@
+{
+  "name": "百花繚乱",
+  "artist": ["Hey!Say!JUMP"],
+  "producer": [
+    {
+      "label": "作詞",
+      "value": ["高瀬 愛虹"]
+    },
+    {
+      "label": "作曲",
+      "value": ["洞澤 徹", "中西 裕之"]
+    }
+  ],
+  "lrc": [
+    {
+      "id": 0,
+      "surface": "春うららかに舞う 桜の花びら",
+      "words": [
+        {
+          "base": "春",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ハル",
+          "reading": "はる",
+          "surface": "春",
+          "curPos": "n"
+        },
+        {
+          "base": "うらら",
+          "pos": "名詞,固有名詞,人名,名",
+          "pronunciation": "ウララ",
+          "reading": "",
+          "surface": "うらら",
+          "curPos": "/"
+        },
+        {
+          "base": "か",
+          "pos": "助詞,副助詞／並立助詞／終助詞,*,*",
+          "pronunciation": "カ",
+          "reading": "",
+          "surface": "か",
+          "curPos": "av"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "舞う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "マウ",
+          "reading": "まう",
+          "surface": "舞う",
+          "curPos": "v"
+        },
+        {
+          "base": "桜",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "サクラ",
+          "reading": "さくら",
+          "surface": "桜",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "花びら",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ハナビラ",
+          "reading": "はなびら",
+          "surface": "花びら",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "surface": "朧に揺れる月 儚く照らされる夢",
+      "words": [
+        {
+          "base": "朧",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "オボロ",
+          "reading": "おぼろ",
+          "surface": "朧",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,副詞化,*,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "揺れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユレル",
+          "reading": "ゆれる",
+          "surface": "揺れる",
+          "curPos": "v"
+        },
+        {
+          "base": "月",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ツキ",
+          "reading": "つき",
+          "surface": "月",
+          "curPos": "n"
+        },
+        {
+          "base": "儚い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ハカナク",
+          "reading": "はかなく",
+          "surface": "儚く",
+          "curPos": "a"
+        },
+        {
+          "base": "照らす",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "テラサ",
+          "reading": "てらさ",
+          "surface": "照らさ",
+          "curPos": "v"
+        },
+        {
+          "base": "れる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "レル",
+          "reading": "",
+          "surface": "れる",
+          "curPos": "v"
+        },
+        {
+          "base": "夢",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユメ",
+          "reading": "ゆめ",
+          "surface": "夢",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 3,
+      "surface": "いつか届くように…",
+      "words": [
+        {
+          "base": "いつか",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "イツカ",
+          "reading": "",
+          "surface": "いつか",
+          "curPos": "n"
+        },
+        {
+          "base": "届く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "トドク",
+          "reading": "とどくよう",
+          "surface": "届くよう",
+          "curPos": "v"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,副詞化,*,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "…",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "…",
+          "reading": "",
+          "surface": "…",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "surface": "幾度も咲きわたる",
+      "words": [
+        {
+          "base": "幾度",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "イクド",
+          "reading": "いくど",
+          "surface": "幾度",
+          "curPos": "n"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "咲き",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "サキ",
+          "reading": "さき",
+          "surface": "咲き",
+          "curPos": "n"
+        },
+        {
+          "base": "わたる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ワタル",
+          "reading": "",
+          "surface": "わたる",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "surface": "ひとつひとつ 込められた願い",
+      "words": [
+        {
+          "base": "ひとつひとつ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヒトツヒトツ",
+          "reading": "",
+          "surface": "ひとつひとつ",
+          "curPos": "n"
+        },
+        {
+          "base": "込める",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "コメ",
+          "reading": "こめ",
+          "surface": "込め",
+          "curPos": "v"
+        },
+        {
+          "base": "られる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "ラレ",
+          "reading": "",
+          "surface": "られた",
+          "curPos": "v"
+        },
+        {
+          "base": "願い",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ネガイ",
+          "reading": "ねがい",
+          "surface": "願い",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "surface": "陽炎 蜃気楼 差し伸ばす指先",
+      "words": [
+        {
+          "base": "陽炎",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カゲロー",
+          "reading": "かげろう",
+          "surface": "陽炎",
+          "curPos": "n"
+        },
+        {
+          "base": "蜃気楼",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "シンキロー",
+          "reading": "しんきろう",
+          "surface": "蜃気楼",
+          "curPos": "n"
+        },
+        {
+          "base": "差し",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "サシ",
+          "reading": "さし",
+          "surface": "差し",
+          "curPos": "n"
+        },
+        {
+          "base": "伸ばす",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ノバス",
+          "reading": "のばす",
+          "surface": "伸ばす",
+          "curPos": "v"
+        },
+        {
+          "base": "指先",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユビサキ",
+          "reading": "ゆびさき",
+          "surface": "指先",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "surface": "季節めぐり やがて 思いは爆ぜる",
+      "words": [
+        {
+          "base": "季節",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "キセツ",
+          "reading": "きせつ",
+          "surface": "季節",
+          "curPos": "n"
+        },
+        {
+          "base": "めぐる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "メグリ",
+          "reading": "",
+          "surface": "めぐり",
+          "curPos": "v"
+        },
+        {
+          "base": "やがて",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ヤガテ",
+          "reading": "",
+          "surface": "やがて",
+          "curPos": "adv"
+        },
+        {
+          "base": "思い",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "オモイ",
+          "reading": "おもい",
+          "surface": "思い",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "爆ぜる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハゼル",
+          "reading": "はぜる",
+          "surface": "爆ぜる",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "surface": "春うららかに舞う 桜の花びら",
+      "words": [
+        {
+          "base": "春",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ハル",
+          "reading": "はる",
+          "surface": "春",
+          "curPos": "n"
+        },
+        {
+          "base": "うらら",
+          "pos": "名詞,固有名詞,人名,名",
+          "pronunciation": "ウララ",
+          "reading": "",
+          "surface": "うらら",
+          "curPos": "/"
+        },
+        {
+          "base": "か",
+          "pos": "助詞,副助詞／並立助詞／終助詞,*,*",
+          "pronunciation": "カ",
+          "reading": "",
+          "surface": "か",
+          "curPos": "av"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "舞う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "マウ",
+          "reading": "まう",
+          "surface": "舞う",
+          "curPos": "v"
+        },
+        {
+          "base": "桜",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "サクラ",
+          "reading": "さくら",
+          "surface": "桜",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "花びら",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ハナビラ",
+          "reading": "はなびら",
+          "surface": "花びら",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "surface": "朧に揺れる月 儚く照らされる夢",
+      "words": [
+        {
+          "base": "朧",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "オボロ",
+          "reading": "おぼろ",
+          "surface": "朧",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,副詞化,*,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "揺れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユレル",
+          "reading": "ゆれる",
+          "surface": "揺れる",
+          "curPos": "v"
+        },
+        {
+          "base": "月",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ツキ",
+          "reading": "つき",
+          "surface": "月",
+          "curPos": "n"
+        },
+        {
+          "base": "儚い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ハカナク",
+          "reading": "はかなく",
+          "surface": "儚く",
+          "curPos": "a"
+        },
+        {
+          "base": "照らす",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "テラサ",
+          "reading": "てらさ",
+          "surface": "照らさ",
+          "curPos": "v"
+        },
+        {
+          "base": "れる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "レル",
+          "reading": "",
+          "surface": "れる",
+          "curPos": "v"
+        },
+        {
+          "base": "夢",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユメ",
+          "reading": "ゆめ",
+          "surface": "夢",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "surface": "尚も激しく舞う 乱れる花びら",
+      "words": [
+        {
+          "base": "尚も",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ナオモ",
+          "reading": "なおも",
+          "surface": "尚も",
+          "curPos": "adv"
+        },
+        {
+          "base": "激しい",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ハゲシク",
+          "reading": "はげしく",
+          "surface": "激しく",
+          "curPos": "a"
+        },
+        {
+          "base": "舞う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "マウ",
+          "reading": "まう",
+          "surface": "舞う",
+          "curPos": "v"
+        },
+        {
+          "base": "乱れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミダレル",
+          "reading": "みだれる",
+          "surface": "乱れる",
+          "curPos": "v"
+        },
+        {
+          "base": "花びら",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ハナビラ",
+          "reading": "はなびら",
+          "surface": "花びら",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "surface": "果てない物語 切なさ掻き立てる唄",
+      "words": [
+        {
+          "base": "果てる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハテ",
+          "reading": "はてない",
+          "surface": "果てない",
+          "curPos": "v"
+        },
+        {
+          "base": "物語",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "モノガタリ",
+          "reading": "ものがたり",
+          "surface": "物語",
+          "curPos": "n"
+        },
+        {
+          "base": "切ない",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "セツナ",
+          "reading": "せつな",
+          "surface": "切な",
+          "curPos": "a"
+        },
+        {
+          "base": "さ",
+          "pos": "名詞,接尾,特殊,*",
+          "pronunciation": "サ",
+          "reading": "",
+          "surface": "さ",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "掻き立てる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カキタテル",
+          "reading": "かきたてる",
+          "surface": "掻き立てる",
+          "curPos": "v"
+        },
+        {
+          "base": "唄",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ウタ",
+          "reading": "うた",
+          "surface": "唄",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 13,
+      "surface": "春うららかに舞う 桜の花びら",
+      "words": [
+        {
+          "base": "春",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ハル",
+          "reading": "はる",
+          "surface": "春",
+          "curPos": "n"
+        },
+        {
+          "base": "うらら",
+          "pos": "名詞,固有名詞,人名,名",
+          "pronunciation": "ウララ",
+          "reading": "",
+          "surface": "うらら",
+          "curPos": "/"
+        },
+        {
+          "base": "か",
+          "pos": "助詞,副助詞／並立助詞／終助詞,*,*",
+          "pronunciation": "カ",
+          "reading": "",
+          "surface": "か",
+          "curPos": "av"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "舞う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "マウ",
+          "reading": "まう",
+          "surface": "舞う",
+          "curPos": "v"
+        },
+        {
+          "base": "桜",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "サクラ",
+          "reading": "さくら",
+          "surface": "桜",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "花びら",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ハナビラ",
+          "reading": "はなびら",
+          "surface": "花びら",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "surface": "朧に揺れる月 儚く照らされる夢",
+      "words": [
+        {
+          "base": "朧",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "オボロ",
+          "reading": "おぼろ",
+          "surface": "朧",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,副詞化,*,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "揺れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユレル",
+          "reading": "ゆれる",
+          "surface": "揺れる",
+          "curPos": "v"
+        },
+        {
+          "base": "月",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ツキ",
+          "reading": "つき",
+          "surface": "月",
+          "curPos": "n"
+        },
+        {
+          "base": "儚い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ハカナク",
+          "reading": "はかなく",
+          "surface": "儚く",
+          "curPos": "a"
+        },
+        {
+          "base": "照らす",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "テラサ",
+          "reading": "てらさ",
+          "surface": "照らさ",
+          "curPos": "v"
+        },
+        {
+          "base": "れる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "レル",
+          "reading": "",
+          "surface": "れる",
+          "curPos": "v"
+        },
+        {
+          "base": "夢",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユメ",
+          "reading": "ゆめ",
+          "surface": "夢",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 16,
+      "surface": "春うららかに舞う 桜の花びら",
+      "words": [
+        {
+          "base": "春",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ハル",
+          "reading": "はる",
+          "surface": "春",
+          "curPos": "n"
+        },
+        {
+          "base": "うらら",
+          "pos": "名詞,固有名詞,人名,名",
+          "pronunciation": "ウララ",
+          "reading": "",
+          "surface": "うらら",
+          "curPos": "/"
+        },
+        {
+          "base": "か",
+          "pos": "助詞,副助詞／並立助詞／終助詞,*,*",
+          "pronunciation": "カ",
+          "reading": "",
+          "surface": "か",
+          "curPos": "av"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "舞う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "マウ",
+          "reading": "まう",
+          "surface": "舞う",
+          "curPos": "v"
+        },
+        {
+          "base": "桜",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "サクラ",
+          "reading": "さくら",
+          "surface": "桜",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "花びら",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ハナビラ",
+          "reading": "はなびら",
+          "surface": "花びら",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "surface": "朧に揺れる月 儚く照らされる夢",
+      "words": [
+        {
+          "base": "朧",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "オボロ",
+          "reading": "おぼろ",
+          "surface": "朧",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,副詞化,*,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "揺れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユレル",
+          "reading": "ゆれる",
+          "surface": "揺れる",
+          "curPos": "v"
+        },
+        {
+          "base": "月",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ツキ",
+          "reading": "つき",
+          "surface": "月",
+          "curPos": "n"
+        },
+        {
+          "base": "儚い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ハカナク",
+          "reading": "はかなく",
+          "surface": "儚く",
+          "curPos": "a"
+        },
+        {
+          "base": "照らす",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "テラサ",
+          "reading": "てらさ",
+          "surface": "照らさ",
+          "curPos": "v"
+        },
+        {
+          "base": "れる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "レル",
+          "reading": "",
+          "surface": "れる",
+          "curPos": "v"
+        },
+        {
+          "base": "夢",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユメ",
+          "reading": "ゆめ",
+          "surface": "夢",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "surface": "尚も激しく舞う 乱れる花びら",
+      "words": [
+        {
+          "base": "尚も",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ナオモ",
+          "reading": "なおも",
+          "surface": "尚も",
+          "curPos": "adv"
+        },
+        {
+          "base": "激しい",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ハゲシク",
+          "reading": "はげしく",
+          "surface": "激しく",
+          "curPos": "a"
+        },
+        {
+          "base": "舞う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "マウ",
+          "reading": "まう",
+          "surface": "舞う",
+          "curPos": "v"
+        },
+        {
+          "base": "乱れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミダレル",
+          "reading": "みだれる",
+          "surface": "乱れる",
+          "curPos": "v"
+        },
+        {
+          "base": "花びら",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ハナビラ",
+          "reading": "はなびら",
+          "surface": "花びら",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "surface": "果てない物語 切なさ掻き立てる唄",
+      "words": [
+        {
+          "base": "果てる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハテ",
+          "reading": "はてない",
+          "surface": "果てない",
+          "curPos": "v"
+        },
+        {
+          "base": "物語",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "モノガタリ",
+          "reading": "ものがたり",
+          "surface": "物語",
+          "curPos": "n"
+        },
+        {
+          "base": "切ない",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "セツナ",
+          "reading": "せつな",
+          "surface": "切な",
+          "curPos": "a"
+        },
+        {
+          "base": "さ",
+          "pos": "名詞,接尾,特殊,*",
+          "pronunciation": "サ",
+          "reading": "",
+          "surface": "さ",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "掻き立てる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カキタテル",
+          "reading": "かきたてる",
+          "surface": "掻き立てる",
+          "curPos": "v"
+        },
+        {
+          "base": "唄",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ウタ",
+          "reading": "うた",
+          "surface": "唄",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "surface": "",
+      "words": []
+    }
+  ],
+  "pureLrc": [
+    "春うららかに舞う 桜の花びら",
+    "朧に揺れる月 儚く照らされる夢",
+    "",
+    "いつか届くように…",
+    "幾度も咲きわたる",
+    "ひとつひとつ 込められた願い",
+    "陽炎 蜃気楼 差し伸ばす指先",
+    "季節めぐり やがて 思いは爆ぜる",
+    "春うららかに舞う 桜の花びら",
+    "朧に揺れる月 儚く照らされる夢",
+    "尚も激しく舞う 乱れる花びら",
+    "果てない物語 切なさ掻き立てる唄",
+    "",
+    "春うららかに舞う 桜の花びら",
+    "朧に揺れる月 儚く照らされる夢",
+    "",
+    "春うららかに舞う 桜の花びら",
+    "朧に揺れる月 儚く照らされる夢",
+    "尚も激しく舞う 乱れる花びら",
+    "果てない物語 切なさ掻き立てる唄",
+    ""
+  ]
+}

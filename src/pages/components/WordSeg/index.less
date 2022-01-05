@@ -1,0 +1,66 @@
+@import './_.mixin.less';
+@desc-height: 14px;
+
+.lrc-word-box {
+  position: relative;
+
+  display: inline-block;
+
+  text-align: justify;
+  text-align-last: justify;
+
+  .word-center {
+    text-align: center;
+    text-align-last: center;
+  }
+
+  .lrc-word {
+    font-family: '-apple-system', BlinkMacSystemFont, 'Yu Gothic', '游ゴシック',
+      YuGothic, '游ゴシック体', 'Noto Sans Japanese', 'ヒラギノ角ゴ Pro W3',
+      'メイリオ', 'Hiragino Kaku Gothic ProN', 'MS PGothic', Osaka, 'sans-serif';
+    font-weight: 600;
+    line-height: 28px;
+
+    position: relative;
+
+    span {
+      position: relative;
+      z-index: 2;
+    }
+    &::after {
+      position: absolute;
+      z-index: 0;
+      right: 0;
+      bottom: 4px;
+      left: 0;
+
+      height: 12px;
+
+      content: '';
+
+      opacity: 0.7;
+      border-radius: 2px;
+    }
+  }
+
+  &.lrc-word-npl {
+    .lrc-word {
+      padding: 0 5px;
+    }
+  }
+  &.lrc-word-type {
+    margin: 0 3px;
+    .lrc-word {
+      padding: 0 2px;
+    }
+  }
+
+  .lrc-reading {
+    font-size: 10px;
+    line-height: @desc-height;
+
+    min-width: 1px;
+    margin-bottom: -2px;
+    padding: 0 5px;
+  }
+}

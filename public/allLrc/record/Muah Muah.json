@@ -1,0 +1,2375 @@
+{
+  "name": "Muah Muah",
+  "reading": "ムアムア",
+  "info": [
+    {
+      "label": "読み：",
+      "value": "ムアムア"
+    },
+    {
+      "label": "作詞：",
+      "value": ["辻村有記"]
+    },
+    {
+      "label": "作曲：",
+      "value": ["辻村有記", "伊藤賢"]
+    }
+  ],
+  "lrc": [
+    {
+      "id": 0,
+      "surface": "キミの…",
+      "words": [
+        {
+          "base": "キミ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "",
+          "surface": "キミ",
+          "curPos": "/"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "…",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "…",
+          "reading": "",
+          "surface": "…",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "surface": "ル・ル・ルージュの輝きに",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ル・ル・ルージュ",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "輝き",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カガヤキ",
+          "reading": "かがやき",
+          "surface": "輝き",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "surface": "染まりゆく世界に身を任せた",
+      "words": [
+        {
+          "base": "染まる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ソマリ",
+          "reading": "そまり",
+          "surface": "染まり",
+          "curPos": "v"
+        },
+        {
+          "base": "ゆく",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ユク",
+          "reading": "",
+          "surface": "ゆく",
+          "curPos": "v"
+        },
+        {
+          "base": "世界",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "セカイ",
+          "reading": "せかい",
+          "surface": "世界",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "身",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミ",
+          "reading": "み",
+          "surface": "身",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "任せる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "マカセ",
+          "reading": "まかせた",
+          "surface": "任せた",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "surface": "Fortune運ぶ魅惑のサイン",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Fortune",
+          "curPos": "n"
+        },
+        {
+          "base": "運ぶ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハコブ",
+          "reading": "はこぶ",
+          "surface": "運ぶ",
+          "curPos": "v"
+        },
+        {
+          "base": "魅惑",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ミワク",
+          "reading": "みわく",
+          "surface": "魅惑",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "サイン",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "サイン",
+          "reading": "",
+          "surface": "サイン",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "surface": "Muah Muah",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Muah",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Muah",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "surface": "愛にくるまった",
+      "words": [
+        {
+          "base": "愛",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アイ",
+          "reading": "あい",
+          "surface": "愛",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "くるまる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "クルマッ",
+          "reading": "",
+          "surface": "くるまった",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 7,
+      "surface": "煌めく気持ちをのせてパール",
+      "words": [
+        {
+          "base": "煌めく",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "キラメク",
+          "reading": "きらめく",
+          "surface": "煌めく",
+          "curPos": "v"
+        },
+        {
+          "base": "気持ち",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "キモチ",
+          "reading": "きもち",
+          "surface": "気持ち",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "のせる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ノセ",
+          "reading": "",
+          "surface": "のせて",
+          "curPos": "v"
+        },
+        {
+          "base": "パール",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "パール",
+          "reading": "",
+          "surface": "パール",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "surface": "強気で誇らしげにマット",
+      "words": [
+        {
+          "base": "強気",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ツヨキ",
+          "reading": "つよき",
+          "surface": "強気",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "mv"
+        },
+        {
+          "base": "誇らしげ",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ホコラシゲ",
+          "reading": "ほこらしげ",
+          "surface": "誇らしげ",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,副詞化,*,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "マット",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "マット",
+          "reading": "",
+          "surface": "マット",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "surface": "色とりどりよりどりみどり",
+      "words": [
+        {
+          "base": "色とりどり",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "イロトリドリ",
+          "reading": "いろとりどり",
+          "surface": "色とりどり",
+          "curPos": "n"
+        },
+        {
+          "base": "より",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヨリ",
+          "reading": "",
+          "surface": "より",
+          "curPos": "av"
+        },
+        {
+          "base": "どる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ドリ",
+          "reading": "",
+          "surface": "どり",
+          "curPos": "v"
+        },
+        {
+          "base": "みどり",
+          "pos": "名詞,固有名詞,人名,名",
+          "pronunciation": "ミドリ",
+          "reading": "",
+          "surface": "みどり",
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "surface": "さぁ　君はどれを選ぶ？",
+      "words": [
+        {
+          "base": "さぁ",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "サー",
+          "reading": "",
+          "surface": "さぁ",
+          "curPos": "/"
+        },
+        {
+          "base": "君",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "きみ",
+          "surface": "君",
+          "curPos": "/"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "どれ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ドレ",
+          "reading": "",
+          "surface": "どれ",
+          "curPos": "/"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "選ぶ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "エラブ",
+          "reading": "えらぶ",
+          "surface": "選ぶ",
+          "curPos": "v"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 12,
+      "surface": "触れたいのに触れられない距離が",
+      "words": [
+        {
+          "base": "触れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "フレ",
+          "reading": "ふれたい",
+          "surface": "触れたい",
+          "curPos": "v"
+        },
+        {
+          "base": "の",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "触れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "フレ",
+          "reading": "ふれ",
+          "surface": "触れ",
+          "curPos": "v"
+        },
+        {
+          "base": "られる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "ラレ",
+          "reading": "",
+          "surface": "られない",
+          "curPos": "v"
+        },
+        {
+          "base": "距離",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "キョリ",
+          "reading": "きょり",
+          "surface": "距離",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "surface": "魅惑的なハーモニー",
+      "words": [
+        {
+          "base": "魅惑",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ミワク",
+          "reading": "みわく",
+          "surface": "魅惑",
+          "curPos": "n"
+        },
+        {
+          "base": "的",
+          "pos": "名詞,接尾,形容動詞語幹,*",
+          "pronunciation": "テキ",
+          "reading": "てきな",
+          "surface": "的な",
+          "left": true,
+          "curPos": "a"
+        },
+        {
+          "base": "ハーモニー",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ハーモニー",
+          "reading": "",
+          "surface": "ハーモニー",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "surface": "変わるEveryday　惹かれ合うMidnight",
+      "words": [
+        {
+          "base": "変わる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カワル",
+          "reading": "かわる",
+          "surface": "変わる",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Everyday",
+          "curPos": "n"
+        },
+        {
+          "base": "惹く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヒカ",
+          "reading": "ひか",
+          "surface": "惹か",
+          "curPos": "v"
+        },
+        {
+          "base": "れる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "レ",
+          "reading": "",
+          "surface": "れ",
+          "curPos": "v"
+        },
+        {
+          "base": "合う",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "アウ",
+          "reading": "あう",
+          "surface": "合う",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Midnight",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "surface": "消えない覚めない　I’m in love with you",
+      "words": [
+        {
+          "base": "消える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "キエ",
+          "reading": "きえない",
+          "surface": "消えない",
+          "curPos": "v"
+        },
+        {
+          "base": "覚める",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "サメ",
+          "reading": "さめない",
+          "surface": "覚めない",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "I",
+          "curPos": "n"
+        },
+        {
+          "base": "’",
+          "pos": "記号,括弧閉,*,*",
+          "pronunciation": "’",
+          "reading": "",
+          "surface": "’",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "m",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "in",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "love",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "with",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "you",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 17,
+      "surface": "キミの…",
+      "words": [
+        {
+          "base": "キミ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "",
+          "surface": "キミ",
+          "curPos": "/"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "…",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "…",
+          "reading": "",
+          "surface": "…",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "surface": "ル・ル・ルージュの輝きに",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ル・ル・ルージュ",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "輝き",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カガヤキ",
+          "reading": "かがやき",
+          "surface": "輝き",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "surface": "染まりゆく世界に身を任せた",
+      "words": [
+        {
+          "base": "染まる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ソマリ",
+          "reading": "そまり",
+          "surface": "染まり",
+          "curPos": "v"
+        },
+        {
+          "base": "ゆく",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ユク",
+          "reading": "",
+          "surface": "ゆく",
+          "curPos": "v"
+        },
+        {
+          "base": "世界",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "セカイ",
+          "reading": "せかい",
+          "surface": "世界",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "身",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミ",
+          "reading": "み",
+          "surface": "身",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "任せる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "マカセ",
+          "reading": "まかせた",
+          "surface": "任せた",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "surface": "Fortune運ぶ魅惑のサイン",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Fortune",
+          "curPos": "n"
+        },
+        {
+          "base": "運ぶ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハコブ",
+          "reading": "はこぶ",
+          "surface": "運ぶ",
+          "curPos": "v"
+        },
+        {
+          "base": "魅惑",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ミワク",
+          "reading": "みわく",
+          "surface": "魅惑",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "サイン",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "サイン",
+          "reading": "",
+          "surface": "サイン",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "surface": "Muah Muah",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Muah",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Muah",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "surface": "愛にくるまった",
+      "words": [
+        {
+          "base": "愛",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アイ",
+          "reading": "あい",
+          "surface": "愛",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "くるまる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "クルマッ",
+          "reading": "",
+          "surface": "くるまった",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 24,
+      "surface": "昨日と今日でまるで違って",
+      "words": [
+        {
+          "base": "昨日",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "キノー",
+          "reading": "きのう",
+          "surface": "昨日",
+          "curPos": "n"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,並立助詞,*,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "今日",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "キョー",
+          "reading": "きょう",
+          "surface": "今日",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "まるで",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "マルデ",
+          "reading": "",
+          "surface": "まるで",
+          "curPos": "adv"
+        },
+        {
+          "base": "違う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "チガッ",
+          "reading": "ちがって",
+          "surface": "違って",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "surface": "気付かない僕に苛立って",
+      "words": [
+        {
+          "base": "気付く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "キズカ",
+          "reading": "きづかない",
+          "surface": "気付かない",
+          "curPos": "v"
+        },
+        {
+          "base": "僕",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボク",
+          "reading": "ぼく",
+          "surface": "僕",
+          "curPos": "/"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "苛立つ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イラダッ",
+          "reading": "いらだって",
+          "surface": "苛立って",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "surface": "本当は知ってるんだけど",
+      "words": [
+        {
+          "base": "本当は",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ホントーワ",
+          "reading": "ほんとうは",
+          "surface": "本当は",
+          "curPos": "adv"
+        },
+        {
+          "base": "知る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シッ",
+          "reading": "しっ",
+          "surface": "知っ",
+          "curPos": "v"
+        },
+        {
+          "base": "てる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "テル",
+          "reading": "",
+          "surface": "てる",
+          "curPos": "v"
+        },
+        {
+          "base": "ん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ン",
+          "reading": "",
+          "surface": "ん",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        },
+        {
+          "base": "けど",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "ケド",
+          "reading": "",
+          "surface": "けど",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "surface": "口にしたら負けちゃう気がして",
+      "words": [
+        {
+          "base": "口",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "クチ",
+          "reading": "くち",
+          "surface": "口",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シ",
+          "reading": "",
+          "surface": "したら",
+          "curPos": "v"
+        },
+        {
+          "base": "負け",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "マケ",
+          "reading": "まけ",
+          "surface": "負け",
+          "curPos": "n"
+        },
+        {
+          "base": "ちゃう",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "チャウ",
+          "reading": "",
+          "surface": "ちゃう",
+          "curPos": "v"
+        },
+        {
+          "base": "気",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "キ",
+          "reading": "き",
+          "surface": "気",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シ",
+          "reading": "",
+          "surface": "して",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 29,
+      "surface": "素敵な言葉も頭の中で",
+      "words": [
+        {
+          "base": "素敵",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ステキ",
+          "reading": "すてきな",
+          "surface": "素敵な",
+          "curPos": "a"
+        },
+        {
+          "base": "言葉",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "コトバ",
+          "reading": "ことば",
+          "surface": "言葉",
+          "curPos": "n"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "頭",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アタマ",
+          "reading": "あたま",
+          "surface": "頭",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "中",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ナカ",
+          "reading": "なか",
+          "surface": "中",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "surface": "グルグル回ってる",
+      "words": [
+        {
+          "base": "グルグル",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "グルグル",
+          "reading": "",
+          "surface": "グルグル",
+          "curPos": "adv"
+        },
+        {
+          "base": "回る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "マワッ",
+          "reading": "まわっ",
+          "surface": "回っ",
+          "curPos": "v"
+        },
+        {
+          "base": "てる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "テル",
+          "reading": "",
+          "surface": "てる",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "surface": "でも言いたくなくて　キミの魅力は",
+      "words": [
+        {
+          "base": "でも",
+          "pos": "接続詞,*,*,*",
+          "pronunciation": "デモ",
+          "reading": "",
+          "surface": "でも",
+          "curPos": "/"
+        },
+        {
+          "base": "言う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イイ",
+          "reading": "いいたくなくて",
+          "surface": "言いたくなくて",
+          "curPos": "v"
+        },
+        {
+          "base": "キミ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "",
+          "surface": "キミ",
+          "curPos": "/"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "魅力",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミリョク",
+          "reading": "みりょく",
+          "surface": "魅力",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "surface": "僕が独り占めにしたいんだ",
+      "words": [
+        {
+          "base": "僕",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボク",
+          "reading": "ぼく",
+          "surface": "僕",
+          "curPos": "/"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "独り占め",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ヒトリジメ",
+          "reading": "ひとりじめ",
+          "surface": "独り占め",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シ",
+          "reading": "",
+          "surface": "したい",
+          "curPos": "v"
+        },
+        {
+          "base": "ん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ン",
+          "reading": "",
+          "surface": "ん",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 34,
+      "surface": "合わさる…",
+      "words": [
+        {
+          "base": "合わさる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "アワサル",
+          "reading": "あわさる",
+          "surface": "合わさる",
+          "curPos": "v"
+        },
+        {
+          "base": "…",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "…",
+          "reading": "",
+          "surface": "…",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "surface": "ル・ルージュの輝きに",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ル・ルージュ",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "輝き",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カガヤキ",
+          "reading": "かがやき",
+          "surface": "輝き",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "surface": "マシュマロリップで虜になって",
+      "words": [
+        {
+          "base": "マシュマロ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "マシュマロ",
+          "reading": "",
+          "surface": "マシュマロ",
+          "curPos": "n"
+        },
+        {
+          "base": "リップ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "リップ",
+          "reading": "",
+          "surface": "リップ",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "虜",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "トリコ",
+          "reading": "とりこ",
+          "surface": "虜",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "なる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナッ",
+          "reading": "",
+          "surface": "なって",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "surface": "For you　君に捧げるから",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "For",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "you",
+          "curPos": "n"
+        },
+        {
+          "base": "君",
+          "pos": "名詞,接尾,人名,*",
+          "pronunciation": "クン",
+          "reading": "くん",
+          "surface": "君",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "捧げる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ササゲル",
+          "reading": "ささげる",
+          "surface": "捧げる",
+          "curPos": "v"
+        },
+        {
+          "base": "から",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "カラ",
+          "reading": "",
+          "surface": "から",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "surface": "Muah Muah",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Muah",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Muah",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "surface": "もっと感じさせて",
+      "words": [
+        {
+          "base": "もっと",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "モット",
+          "reading": "",
+          "surface": "もっと",
+          "curPos": "adv"
+        },
+        {
+          "base": "感じる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カンジ",
+          "reading": "かんじ",
+          "surface": "感じ",
+          "curPos": "v"
+        },
+        {
+          "base": "させる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "サセ",
+          "reading": "",
+          "surface": "させて",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 41,
+      "surface": "人それぞれに　それぞれの未来",
+      "words": [
+        {
+          "base": "人",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヒト",
+          "reading": "ひと",
+          "surface": "人",
+          "curPos": "n"
+        },
+        {
+          "base": "それぞれ",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "ソレゾレ",
+          "reading": "",
+          "surface": "それぞれ",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "それぞれ",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "ソレゾレ",
+          "reading": "",
+          "surface": "それぞれ",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "未来",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミライ",
+          "reading": "みらい",
+          "surface": "未来",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "surface": "辿る道はどれも違って",
+      "words": [
+        {
+          "base": "辿る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "タドル",
+          "reading": "たどる",
+          "surface": "辿る",
+          "curPos": "v"
+        },
+        {
+          "base": "道",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミチ",
+          "reading": "みち",
+          "surface": "道",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "どれ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ドレ",
+          "reading": "",
+          "surface": "どれ",
+          "curPos": "/"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "違う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "チガッ",
+          "reading": "ちがって",
+          "surface": "違って",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "surface": "Red Blue Yellow",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Red",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Blue",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Yellow",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "surface": "気分乗せて　You only live once Lady！",
+      "words": [
+        {
+          "base": "気分",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "キブン",
+          "reading": "きぶん",
+          "surface": "気分",
+          "curPos": "n"
+        },
+        {
+          "base": "乗せる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ノセ",
+          "reading": "のせて",
+          "surface": "乗せて",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "You",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "only",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "live",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "once",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Lady",
+          "curPos": "n"
+        },
+        {
+          "base": "！",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "！",
+          "reading": "",
+          "surface": "！",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "surface": "君は美しいんだ",
+      "words": [
+        {
+          "base": "君",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "きみ",
+          "surface": "君",
+          "curPos": "/"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "美しい",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ウツクシイ",
+          "reading": "うつくしい",
+          "surface": "美しい",
+          "curPos": "a"
+        },
+        {
+          "base": "ん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ン",
+          "reading": "",
+          "surface": "ん",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 47,
+      "surface": "キミの…",
+      "words": [
+        {
+          "base": "キミ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "",
+          "surface": "キミ",
+          "curPos": "/"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "…",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "…",
+          "reading": "",
+          "surface": "…",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "surface": "ル・ル・ルージュの輝きに",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ル・ル・ルージュ",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "輝き",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カガヤキ",
+          "reading": "かがやき",
+          "surface": "輝き",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "surface": "染まりゆく世界に身を任せた",
+      "words": [
+        {
+          "base": "染まる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ソマリ",
+          "reading": "そまり",
+          "surface": "染まり",
+          "curPos": "v"
+        },
+        {
+          "base": "ゆく",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ユク",
+          "reading": "",
+          "surface": "ゆく",
+          "curPos": "v"
+        },
+        {
+          "base": "世界",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "セカイ",
+          "reading": "せかい",
+          "surface": "世界",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "身",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミ",
+          "reading": "み",
+          "surface": "身",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "任せる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "マカセ",
+          "reading": "まかせた",
+          "surface": "任せた",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "surface": "Fortune運ぶ魅惑のサイン",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Fortune",
+          "curPos": "n"
+        },
+        {
+          "base": "運ぶ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハコブ",
+          "reading": "はこぶ",
+          "surface": "運ぶ",
+          "curPos": "v"
+        },
+        {
+          "base": "魅惑",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ミワク",
+          "reading": "みわく",
+          "surface": "魅惑",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "サイン",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "サイン",
+          "reading": "",
+          "surface": "サイン",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "surface": "Muah Muah",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Muah",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Muah",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "surface": "愛にくるまった",
+      "words": [
+        {
+          "base": "愛",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アイ",
+          "reading": "あい",
+          "surface": "愛",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "くるまる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "クルマッ",
+          "reading": "",
+          "surface": "くるまった",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 54,
+      "surface": "唇…",
+      "words": [
+        {
+          "base": "唇",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "クチビル",
+          "reading": "くちびる",
+          "surface": "唇",
+          "curPos": "n"
+        },
+        {
+          "base": "…",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "…",
+          "reading": "",
+          "surface": "…",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "surface": "ル・ルージュの輝きに",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ル・ルージュ",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "輝き",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カガヤキ",
+          "reading": "かがやき",
+          "surface": "輝き",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "surface": "吸い寄せられて止められなくて",
+      "words": [
+        {
+          "base": "吸い寄せる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "スイヨセ",
+          "reading": "すいよせ",
+          "surface": "吸い寄せ",
+          "curPos": "v"
+        },
+        {
+          "base": "られる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "ラレ",
+          "reading": "",
+          "surface": "られて",
+          "curPos": "v"
+        },
+        {
+          "base": "止める",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "トメ",
+          "reading": "とめ",
+          "surface": "止め",
+          "curPos": "v"
+        },
+        {
+          "base": "られる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "ラレ",
+          "reading": "",
+          "surface": "られなくて",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "surface": "Fortune運ぶ魅惑のサイン",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Fortune",
+          "curPos": "n"
+        },
+        {
+          "base": "運ぶ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハコブ",
+          "reading": "はこぶ",
+          "surface": "運ぶ",
+          "curPos": "v"
+        },
+        {
+          "base": "魅惑",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ミワク",
+          "reading": "みわく",
+          "surface": "魅惑",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "サイン",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "サイン",
+          "reading": "",
+          "surface": "サイン",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "surface": "Muah Muah",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Muah",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Muah",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "surface": "愛にくるまった",
+      "words": [
+        {
+          "base": "愛",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アイ",
+          "reading": "あい",
+          "surface": "愛",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "くるまる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "クルマッ",
+          "reading": "",
+          "surface": "くるまった",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 61,
+      "surface": "Muah Muah…",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Muah",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Muah",
+          "curPos": "n"
+        },
+        {
+          "base": "…",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "…",
+          "reading": "",
+          "surface": "…",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "surface": "",
+      "words": []
+    }
+  ],
+  "pureLrc": [
+    "キミの…",
+    "ル・ル・ルージュの輝きに",
+    "染まりゆく世界に身を任せた",
+    "Fortune運ぶ魅惑のサイン",
+    "Muah Muah",
+    "愛にくるまった",
+    "",
+    "煌めく気持ちをのせてパール",
+    "強気で誇らしげにマット",
+    "色とりどりよりどりみどり",
+    "さぁ　君はどれを選ぶ？",
+    "",
+    "触れたいのに触れられない距離が",
+    "魅惑的なハーモニー",
+    "変わるEveryday　惹かれ合うMidnight",
+    "消えない覚めない　I’m in love with you",
+    "",
+    "キミの…",
+    "ル・ル・ルージュの輝きに",
+    "染まりゆく世界に身を任せた",
+    "Fortune運ぶ魅惑のサイン",
+    "Muah Muah",
+    "愛にくるまった",
+    "",
+    "昨日と今日でまるで違って",
+    "気付かない僕に苛立って",
+    "本当は知ってるんだけど",
+    "口にしたら負けちゃう気がして",
+    "",
+    "素敵な言葉も頭の中で",
+    "グルグル回ってる",
+    "でも言いたくなくて　キミの魅力は",
+    "僕が独り占めにしたいんだ",
+    "",
+    "合わさる…",
+    "ル・ルージュの輝きに",
+    "マシュマロリップで虜になって",
+    "For you　君に捧げるから",
+    "Muah Muah",
+    "もっと感じさせて",
+    "",
+    "人それぞれに　それぞれの未来",
+    "辿る道はどれも違って",
+    "Red Blue Yellow",
+    "気分乗せて　You only live once Lady！",
+    "君は美しいんだ",
+    "",
+    "キミの…",
+    "ル・ル・ルージュの輝きに",
+    "染まりゆく世界に身を任せた",
+    "Fortune運ぶ魅惑のサイン",
+    "Muah Muah",
+    "愛にくるまった",
+    "",
+    "唇…",
+    "ル・ルージュの輝きに",
+    "吸い寄せられて止められなくて",
+    "Fortune運ぶ魅惑のサイン",
+    "Muah Muah",
+    "愛にくるまった",
+    "",
+    "Muah Muah…",
+    ""
+  ]
+}

@@ -1,0 +1,2216 @@
+{
+  "name": "Dreams come true",
+  "artist": ["Hey!Say!JUMP"],
+  "producer": [
+    {
+      "label": "作詞",
+      "value": ["久保田洋司"]
+    },
+    {
+      "label": "作曲",
+      "value": ["馬飼野康二"]
+    }
+  ],
+  "lrc": [
+    {
+      "id": 0,
+      "surface": "夢見ましょう 素敵なこと",
+      "words": [
+        {
+          "base": "夢見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユメミ",
+          "reading": "ゆめみましょう",
+          "surface": "夢見ましょう",
+          "curPos": "v"
+        },
+        {
+          "base": "素敵",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ステキ",
+          "reading": "すてきな",
+          "surface": "素敵な",
+          "curPos": "a"
+        },
+        {
+          "base": "こと",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "コト",
+          "reading": "",
+          "surface": "こと",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "surface": "夢見ましょう いつまでも",
+      "words": [
+        {
+          "base": "夢見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユメミ",
+          "reading": "ゆめみましょう",
+          "surface": "夢見ましょう",
+          "curPos": "v"
+        },
+        {
+          "base": "いつ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "イツ",
+          "reading": "",
+          "surface": "いつ",
+          "curPos": "/"
+        },
+        {
+          "base": "まで",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "マデ",
+          "reading": "",
+          "surface": "まで",
+          "curPos": "av"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "surface": "夢見ましょう 夢のような",
+      "words": [
+        {
+          "base": "夢見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユメミ",
+          "reading": "ゆめみましょう",
+          "surface": "夢見ましょう",
+          "curPos": "v"
+        },
+        {
+          "base": "夢",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユメ",
+          "reading": "ゆめ",
+          "surface": "夢",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "よう",
+          "pos": "名詞,非自立,助動詞語幹,*",
+          "pronunciation": "ヨー",
+          "reading": "",
+          "surface": "よう",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "surface": "夢を見ましょう",
+      "words": [
+        {
+          "base": "夢",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユメ",
+          "reading": "ゆめ",
+          "surface": "夢",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミ",
+          "reading": "みましょう",
+          "surface": "見ましょう",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 5,
+      "surface": "どこへ 君は向かっていくの",
+      "words": [
+        {
+          "base": "どこ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ドコ",
+          "reading": "",
+          "surface": "どこ",
+          "curPos": "/"
+        },
+        {
+          "base": "へ",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "エ",
+          "reading": "",
+          "surface": "へ",
+          "curPos": "av"
+        },
+        {
+          "base": "君",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "きみ",
+          "surface": "君",
+          "curPos": "/"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "向かう",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ムカッ",
+          "reading": "むかって",
+          "surface": "向かって",
+          "curPos": "v"
+        },
+        {
+          "base": "いく",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イク",
+          "reading": "",
+          "surface": "いく",
+          "curPos": "v"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "surface": "遠い未来へ 話しかけよう",
+      "words": [
+        {
+          "base": "遠い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "トーイ",
+          "reading": "とおい",
+          "surface": "遠い",
+          "curPos": "a"
+        },
+        {
+          "base": "未来",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミライ",
+          "reading": "みらい",
+          "surface": "未来",
+          "curPos": "n"
+        },
+        {
+          "base": "へ",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "エ",
+          "reading": "",
+          "surface": "へ",
+          "curPos": "av"
+        },
+        {
+          "base": "話しかける",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハナシカケヨ",
+          "reading": "はなしかけよう",
+          "surface": "話しかけよう",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "surface": "君といるだけでいつでも 強くいられるから（いつまでも）",
+      "words": [
+        {
+          "base": "君",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "きみ",
+          "surface": "君",
+          "curPos": "/"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "いる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イル",
+          "reading": "",
+          "surface": "いる",
+          "curPos": "v"
+        },
+        {
+          "base": "だけ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ダケ",
+          "reading": "",
+          "surface": "だけ",
+          "curPos": "av"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "いつ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "イツ",
+          "reading": "",
+          "surface": "いつ",
+          "curPos": "/"
+        },
+        {
+          "base": "でも",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "デモ",
+          "reading": "",
+          "surface": "でも",
+          "curPos": "av"
+        },
+        {
+          "base": "強い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ツヨク",
+          "reading": "つよく",
+          "surface": "強く",
+          "curPos": "a"
+        },
+        {
+          "base": "いる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イ",
+          "reading": "",
+          "surface": "い",
+          "curPos": "v"
+        },
+        {
+          "base": "られる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "ラレル",
+          "reading": "",
+          "surface": "られる",
+          "curPos": "v"
+        },
+        {
+          "base": "から",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "カラ",
+          "reading": "",
+          "surface": "から",
+          "curPos": "av"
+        },
+        {
+          "base": "（",
+          "pos": "記号,括弧開,*,*",
+          "pronunciation": "（",
+          "reading": "",
+          "surface": "（",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "いつ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "イツ",
+          "reading": "",
+          "surface": "いつ",
+          "curPos": "/"
+        },
+        {
+          "base": "まで",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "マデ",
+          "reading": "",
+          "surface": "まで",
+          "curPos": "av"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "）",
+          "pos": "記号,括弧閉,*,*",
+          "pronunciation": "）",
+          "reading": "",
+          "surface": "）",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 9,
+      "surface": "夢見ましょう 素敵なこと",
+      "words": [
+        {
+          "base": "夢見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユメミ",
+          "reading": "ゆめみましょう",
+          "surface": "夢見ましょう",
+          "curPos": "v"
+        },
+        {
+          "base": "素敵",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ステキ",
+          "reading": "すてきな",
+          "surface": "素敵な",
+          "curPos": "a"
+        },
+        {
+          "base": "こと",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "コト",
+          "reading": "",
+          "surface": "こと",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "surface": "夢見ましょう いつまでも",
+      "words": [
+        {
+          "base": "夢見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユメミ",
+          "reading": "ゆめみましょう",
+          "surface": "夢見ましょう",
+          "curPos": "v"
+        },
+        {
+          "base": "いつ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "イツ",
+          "reading": "",
+          "surface": "いつ",
+          "curPos": "/"
+        },
+        {
+          "base": "まで",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "マデ",
+          "reading": "",
+          "surface": "まで",
+          "curPos": "av"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "surface": "夢見ましょう 夢のような",
+      "words": [
+        {
+          "base": "夢見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユメミ",
+          "reading": "ゆめみましょう",
+          "surface": "夢見ましょう",
+          "curPos": "v"
+        },
+        {
+          "base": "夢",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユメ",
+          "reading": "ゆめ",
+          "surface": "夢",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "よう",
+          "pos": "名詞,非自立,助動詞語幹,*",
+          "pronunciation": "ヨー",
+          "reading": "",
+          "surface": "よう",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "surface": "夢を見ましょう",
+      "words": [
+        {
+          "base": "夢",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユメ",
+          "reading": "ゆめ",
+          "surface": "夢",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミ",
+          "reading": "みましょう",
+          "surface": "見ましょう",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 14,
+      "surface": "どんな 明日がくるとしても",
+      "words": [
+        {
+          "base": "どんな",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "ドンナ",
+          "reading": "",
+          "surface": "どんな",
+          "curPos": "/"
+        },
+        {
+          "base": "明日",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "アシタ",
+          "reading": "あした",
+          "surface": "明日",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "くる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "クル",
+          "reading": "",
+          "surface": "くる",
+          "curPos": "v"
+        },
+        {
+          "base": "として",
+          "pos": "助詞,格助詞,連語,*",
+          "pronunciation": "トシテ",
+          "reading": "",
+          "surface": "として",
+          "curPos": "av"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "surface": "描く情熱 変えられない",
+      "words": [
+        {
+          "base": "描く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "エガク",
+          "reading": "えがく",
+          "surface": "描く",
+          "curPos": "v"
+        },
+        {
+          "base": "情熱",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ジョーネツ",
+          "reading": "じょうねつ",
+          "surface": "情熱",
+          "curPos": "n"
+        },
+        {
+          "base": "変える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カエ",
+          "reading": "かえ",
+          "surface": "変え",
+          "curPos": "v"
+        },
+        {
+          "base": "られる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "ラレ",
+          "reading": "",
+          "surface": "られない",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "surface": "君の笑顔はいつでも 勇気にかわっていく（いつでも）",
+      "words": [
+        {
+          "base": "君",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "きみ",
+          "surface": "君",
+          "curPos": "/"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "笑顔",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "エガオ",
+          "reading": "えがお",
+          "surface": "笑顔",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "いつ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "イツ",
+          "reading": "",
+          "surface": "いつ",
+          "curPos": "/"
+        },
+        {
+          "base": "でも",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "デモ",
+          "reading": "",
+          "surface": "でも",
+          "curPos": "av"
+        },
+        {
+          "base": "勇気",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユーキ",
+          "reading": "ゆうき",
+          "surface": "勇気",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "かわる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カワッ",
+          "reading": "",
+          "surface": "かわって",
+          "curPos": "v"
+        },
+        {
+          "base": "いく",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イク",
+          "reading": "",
+          "surface": "いく",
+          "curPos": "v"
+        },
+        {
+          "base": "（",
+          "pos": "記号,括弧開,*,*",
+          "pronunciation": "（",
+          "reading": "",
+          "surface": "（",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "いつ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "イツ",
+          "reading": "",
+          "surface": "いつ",
+          "curPos": "/"
+        },
+        {
+          "base": "でも",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "デモ",
+          "reading": "",
+          "surface": "でも",
+          "curPos": "av"
+        },
+        {
+          "base": "）",
+          "pos": "記号,括弧閉,*,*",
+          "pronunciation": "）",
+          "reading": "",
+          "surface": "）",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 18,
+      "surface": "僕たちが見る夢には",
+      "words": [
+        {
+          "base": "僕",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボク",
+          "reading": "ぼく",
+          "surface": "僕",
+          "curPos": "/"
+        },
+        {
+          "base": "たち",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "タチ",
+          "reading": "",
+          "surface": "たち",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミル",
+          "reading": "みる",
+          "surface": "見る",
+          "curPos": "v"
+        },
+        {
+          "base": "夢",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユメ",
+          "reading": "ゆめ",
+          "surface": "夢",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "surface": "幸せがかくれてる",
+      "words": [
+        {
+          "base": "幸せ",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "シアワセ",
+          "reading": "しあわせ",
+          "surface": "幸せ",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "かくれる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カクレ",
+          "reading": "",
+          "surface": "かくれ",
+          "curPos": "v"
+        },
+        {
+          "base": "てる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "テル",
+          "reading": "",
+          "surface": "てる",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "surface": "喜びと笑顔抱いて",
+      "words": [
+        {
+          "base": "喜び",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヨロコビ",
+          "reading": "よろこび",
+          "surface": "喜び",
+          "curPos": "n"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,並立助詞,*,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "笑顔",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "エガオ",
+          "reading": "えがお",
+          "surface": "笑顔",
+          "curPos": "n"
+        },
+        {
+          "base": "抱く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ダイ",
+          "reading": "だいて",
+          "surface": "抱いて",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "surface": "前に進もう",
+      "words": [
+        {
+          "base": "前",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "マエ",
+          "reading": "まえ",
+          "surface": "前",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "進む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ススモ",
+          "reading": "すすもう",
+          "surface": "進もう",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 23,
+      "surface": "手を伸ばしてごらん",
+      "words": [
+        {
+          "base": "手",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "テ",
+          "reading": "て",
+          "surface": "手",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "伸ばす",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ノバシ",
+          "reading": "のばして",
+          "surface": "伸ばして",
+          "curPos": "v"
+        },
+        {
+          "base": "ごらん",
+          "pos": "名詞,動詞非自立的,*,*",
+          "pronunciation": "ゴラン",
+          "reading": "",
+          "surface": "ごらん",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "surface": "きっとここにいるから",
+      "words": [
+        {
+          "base": "きっと",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "キット",
+          "reading": "",
+          "surface": "きっと",
+          "curPos": "adv"
+        },
+        {
+          "base": "ここ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ココ",
+          "reading": "",
+          "surface": "ここ",
+          "curPos": "/"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "いる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イル",
+          "reading": "",
+          "surface": "いる",
+          "curPos": "v"
+        },
+        {
+          "base": "から",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "カラ",
+          "reading": "",
+          "surface": "から",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "surface": "こわがらないで",
+      "words": [
+        {
+          "base": "こわがる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "コワガラ",
+          "reading": "",
+          "surface": "こわがらない",
+          "curPos": "v"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "surface": "誰もみな ひとりじゃない OH",
+      "words": [
+        {
+          "base": "誰",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ダレ",
+          "reading": "だれ",
+          "surface": "誰",
+          "curPos": "/"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "みな",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "ミナ",
+          "reading": "",
+          "surface": "みな",
+          "curPos": "n"
+        },
+        {
+          "base": "ひとり",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヒトリ",
+          "reading": "",
+          "surface": "ひとり",
+          "curPos": "n"
+        },
+        {
+          "base": "じゃ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ジャ",
+          "reading": "",
+          "surface": "じゃ",
+          "curPos": "av"
+        },
+        {
+          "base": "ない",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナイ",
+          "reading": "",
+          "surface": "ない",
+          "curPos": "mv"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "OH",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 28,
+      "surface": "夢見ましょう Reach for the sky",
+      "words": [
+        {
+          "base": "夢見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユメミ",
+          "reading": "ゆめみましょう",
+          "surface": "夢見ましょう",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Reach",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "for",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "the",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "sky",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "surface": "夢見ましょう Reach for your dream",
+      "words": [
+        {
+          "base": "夢見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユメミ",
+          "reading": "ゆめみましょう",
+          "surface": "夢見ましょう",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Reach",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "for",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "your",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "dream",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "surface": "夢見ましょう Let's take it to the sky",
+      "words": [
+        {
+          "base": "夢見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユメミ",
+          "reading": "ゆめみましょう",
+          "surface": "夢見ましょう",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Let",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "'",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "s",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "take",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "it",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "to",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "the",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "sky",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "surface": "夢を見ましょう We can do it We can do it We can dream",
+      "words": [
+        {
+          "base": "夢",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユメ",
+          "reading": "ゆめ",
+          "surface": "夢",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミ",
+          "reading": "みましょう",
+          "surface": "見ましょう",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "We",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "can",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "do",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "it",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "We",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "can",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "do",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "it",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "We",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "can",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "dream",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 33,
+      "surface": "夢見ましょう 素敵なこと Reach for the sky",
+      "words": [
+        {
+          "base": "夢見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユメミ",
+          "reading": "ゆめみましょう",
+          "surface": "夢見ましょう",
+          "curPos": "v"
+        },
+        {
+          "base": "素敵",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ステキ",
+          "reading": "すてきな",
+          "surface": "素敵な",
+          "curPos": "a"
+        },
+        {
+          "base": "こと",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "コト",
+          "reading": "",
+          "surface": "こと",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Reach",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "for",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "the",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "sky",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "surface": "夢見ましょう いつまでも Reach for your dream",
+      "words": [
+        {
+          "base": "夢見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユメミ",
+          "reading": "ゆめみましょう",
+          "surface": "夢見ましょう",
+          "curPos": "v"
+        },
+        {
+          "base": "いつ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "イツ",
+          "reading": "",
+          "surface": "いつ",
+          "curPos": "/"
+        },
+        {
+          "base": "まで",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "マデ",
+          "reading": "",
+          "surface": "まで",
+          "curPos": "av"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Reach",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "for",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "your",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "dream",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "surface": "夢見ましょう 夢のような Let's take it to the sky",
+      "words": [
+        {
+          "base": "夢見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユメミ",
+          "reading": "ゆめみましょう",
+          "surface": "夢見ましょう",
+          "curPos": "v"
+        },
+        {
+          "base": "夢",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユメ",
+          "reading": "ゆめ",
+          "surface": "夢",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "よう",
+          "pos": "名詞,非自立,助動詞語幹,*",
+          "pronunciation": "ヨー",
+          "reading": "",
+          "surface": "よう",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Let",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "'",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "s",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "take",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "it",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "to",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "the",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "sky",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "surface": "夢を見ましょう We can do it We can do it We can dream",
+      "words": [
+        {
+          "base": "夢",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユメ",
+          "reading": "ゆめ",
+          "surface": "夢",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミ",
+          "reading": "みましょう",
+          "surface": "見ましょう",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "We",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "can",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "do",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "it",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "We",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "can",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "do",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "it",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "We",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "can",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "dream",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 38,
+      "surface": "夢見ましょう 素敵なこと Reach for the sky",
+      "words": [
+        {
+          "base": "夢見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユメミ",
+          "reading": "ゆめみましょう",
+          "surface": "夢見ましょう",
+          "curPos": "v"
+        },
+        {
+          "base": "素敵",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ステキ",
+          "reading": "すてきな",
+          "surface": "素敵な",
+          "curPos": "a"
+        },
+        {
+          "base": "こと",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "コト",
+          "reading": "",
+          "surface": "こと",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Reach",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "for",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "the",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "sky",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "surface": "夢見ましょう いつまでも Reach for your dream",
+      "words": [
+        {
+          "base": "夢見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユメミ",
+          "reading": "ゆめみましょう",
+          "surface": "夢見ましょう",
+          "curPos": "v"
+        },
+        {
+          "base": "いつ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "イツ",
+          "reading": "",
+          "surface": "いつ",
+          "curPos": "/"
+        },
+        {
+          "base": "まで",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "マデ",
+          "reading": "",
+          "surface": "まで",
+          "curPos": "av"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Reach",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "for",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "your",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "dream",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "surface": "夢見ましょう 夢のような Let's take it to the sky",
+      "words": [
+        {
+          "base": "夢見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ユメミ",
+          "reading": "ゆめみましょう",
+          "surface": "夢見ましょう",
+          "curPos": "v"
+        },
+        {
+          "base": "夢",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユメ",
+          "reading": "ゆめ",
+          "surface": "夢",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "よう",
+          "pos": "名詞,非自立,助動詞語幹,*",
+          "pronunciation": "ヨー",
+          "reading": "",
+          "surface": "よう",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Let",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "'",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "s",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "take",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "it",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "to",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "the",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "sky",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "surface": "夢を見ましょう We can do it We can do it We can dream",
+      "words": [
+        {
+          "base": "夢",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユメ",
+          "reading": "ゆめ",
+          "surface": "夢",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミ",
+          "reading": "みましょう",
+          "surface": "見ましょう",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "We",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "can",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "do",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "it",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "We",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "can",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "do",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "it",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "We",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "can",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "dream",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 43,
+      "surface": "心ひろげて",
+      "words": [
+        {
+          "base": "心",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ココロ",
+          "reading": "こころ",
+          "surface": "心",
+          "curPos": "n"
+        },
+        {
+          "base": "ひろげる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヒロゲ",
+          "reading": "",
+          "surface": "ひろげて",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "surface": "",
+      "words": []
+    }
+  ],
+  "pureLrc": [
+    "夢見ましょう 素敵なこと",
+    "夢見ましょう いつまでも",
+    "夢見ましょう 夢のような",
+    "夢を見ましょう",
+    "",
+    "どこへ 君は向かっていくの",
+    "遠い未来へ 話しかけよう",
+    "君といるだけでいつでも 強くいられるから（いつまでも）",
+    "",
+    "夢見ましょう 素敵なこと",
+    "夢見ましょう いつまでも",
+    "夢見ましょう 夢のような",
+    "夢を見ましょう",
+    "",
+    "どんな 明日がくるとしても",
+    "描く情熱 変えられない",
+    "君の笑顔はいつでも 勇気にかわっていく（いつでも）",
+    "",
+    "僕たちが見る夢には",
+    "幸せがかくれてる",
+    "喜びと笑顔抱いて",
+    "前に進もう",
+    "",
+    "手を伸ばしてごらん",
+    "きっとここにいるから",
+    "こわがらないで",
+    "誰もみな ひとりじゃない OH",
+    "",
+    "夢見ましょう Reach for the sky",
+    "夢見ましょう Reach for your dream",
+    "夢見ましょう Let's take it to the sky",
+    "夢を見ましょう We can do it We can do it We can dream",
+    "",
+    "夢見ましょう 素敵なこと Reach for the sky",
+    "夢見ましょう いつまでも Reach for your dream",
+    "夢見ましょう 夢のような Let's take it to the sky",
+    "夢を見ましょう We can do it We can do it We can dream",
+    "",
+    "夢見ましょう 素敵なこと Reach for the sky",
+    "夢見ましょう いつまでも Reach for your dream",
+    "夢見ましょう 夢のような Let's take it to the sky",
+    "夢を見ましょう We can do it We can do it We can dream",
+    "",
+    "心ひろげて",
+    ""
+  ]
+}

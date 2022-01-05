@@ -1,0 +1,1951 @@
+{
+  "name": "Mystery O",
+  "artist": ["知念侑李", "有岡大貴"],
+  "info": [
+    {
+      "label": "作詞",
+      "value": ["葉澄草子", "Mizuho Nagaoka", "西野韮", "HASEGAWA", "Yu-shi"]
+    },
+    {
+      "label": "作曲",
+      "value": ["Viktor Strand", "Timo Oiva"]
+    }
+  ],
+  "lrc": [
+    {
+      "id": 0,
+      "surface": "ねぇ　トイレ　フタ閉めて",
+      "words": [
+        {
+          "base": "ねぇ",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "ネー",
+          "reading": "",
+          "surface": "ねぇ",
+          "curPos": "/"
+        },
+        {
+          "base": "トイレ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "トイレ",
+          "reading": "",
+          "surface": "トイレ",
+          "curPos": "n"
+        },
+        {
+          "base": "フタ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "フタ",
+          "reading": "",
+          "surface": "フタ",
+          "curPos": "n"
+        },
+        {
+          "base": "閉める",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シメ",
+          "reading": "しめて",
+          "surface": "閉めて",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "surface": "ねぇ　何でヒゲ剃りを",
+      "words": [
+        {
+          "base": "ねぇ",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "ネー",
+          "reading": "",
+          "surface": "ねぇ",
+          "curPos": "/"
+        },
+        {
+          "base": "何で",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ナンデ",
+          "reading": "なんで",
+          "surface": "何で",
+          "curPos": "adv"
+        },
+        {
+          "base": "ヒゲ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヒゲ",
+          "reading": "",
+          "surface": "ヒゲ",
+          "curPos": "n"
+        },
+        {
+          "base": "剃る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "スリ",
+          "reading": "すり",
+          "surface": "剃り",
+          "curPos": "v"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "surface": "ねぇ　夜にやるの？",
+      "words": [
+        {
+          "base": "ねぇ",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "ネー",
+          "reading": "",
+          "surface": "ねぇ",
+          "curPos": "/"
+        },
+        {
+          "base": "夜",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "ヨル",
+          "reading": "よる",
+          "surface": "夜",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "やる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヤル",
+          "reading": "",
+          "surface": "やる",
+          "curPos": "v"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "surface": "ゴリラ　闘牛　豆乳　番長",
+      "words": [
+        {
+          "base": "ゴリラ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ゴリラ",
+          "reading": "",
+          "surface": "ゴリラ",
+          "curPos": "n"
+        },
+        {
+          "base": "闘牛",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "トーギュー",
+          "reading": "とうぎゅう",
+          "surface": "闘牛",
+          "curPos": "n"
+        },
+        {
+          "base": "豆乳",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "トーニュー",
+          "reading": "とうにゅう",
+          "surface": "豆乳",
+          "curPos": "n"
+        },
+        {
+          "base": "番長",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "バンチョー",
+          "reading": "ばんちょう",
+          "surface": "番長",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 5,
+      "surface": "デートじゃん　お洒落なカフェ　ジャージで来ないで",
+      "words": [
+        {
+          "base": "デート",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "デート",
+          "reading": "",
+          "surface": "デート",
+          "curPos": "n"
+        },
+        {
+          "base": "じゃん",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ジャン",
+          "reading": "",
+          "surface": "じゃん",
+          "curPos": "mv"
+        },
+        {
+          "base": "お洒落",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "オシャレ",
+          "reading": "おしゃれな",
+          "surface": "お洒落な",
+          "curPos": "a"
+        },
+        {
+          "base": "カフェ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カフェ",
+          "reading": "",
+          "surface": "カフェ",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ジャージ",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "来る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "コ",
+          "reading": "こない",
+          "surface": "来ない",
+          "curPos": "v"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "surface": "機嫌悪いの？って　バカなの？",
+      "words": [
+        {
+          "base": "機嫌",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "キゲン",
+          "reading": "きげん",
+          "surface": "機嫌",
+          "curPos": "n"
+        },
+        {
+          "base": "悪い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ワルイ",
+          "reading": "わるい",
+          "surface": "悪い",
+          "curPos": "a"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "って",
+          "pos": "助詞,格助詞,連語,*",
+          "pronunciation": "ッテ",
+          "reading": "",
+          "surface": "って",
+          "curPos": "av"
+        },
+        {
+          "base": "バカ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "バカ",
+          "reading": "",
+          "surface": "バカ",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 8,
+      "surface": "Mystery O OK　Mystery O OK",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Mystery",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "O",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "OK",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Mystery",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "O",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "OK",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 10,
+      "surface": "サスペンス　エリザベス",
+      "words": [
+        {
+          "base": "サスペンス",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "サスペンス",
+          "reading": "",
+          "surface": "サスペンス",
+          "curPos": "n"
+        },
+        {
+          "base": "エリザベス",
+          "pos": "名詞,固有名詞,人名,名",
+          "pronunciation": "エリザベス",
+          "reading": "",
+          "surface": "エリザベス",
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "surface": "フリーランス　カンガルー",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "フリーランス",
+          "curPos": "n"
+        },
+        {
+          "base": "カンガルー",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カンガルー",
+          "reading": "",
+          "surface": "カンガルー",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "surface": "「女のこと　分かる俺」",
+      "words": [
+        {
+          "base": "「",
+          "pos": "記号,括弧開,*,*",
+          "pronunciation": "「",
+          "reading": "",
+          "surface": "「",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "女",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "オンナ",
+          "reading": "おんな",
+          "surface": "女",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "こと",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "コト",
+          "reading": "",
+          "surface": "こと",
+          "curPos": "n"
+        },
+        {
+          "base": "分かる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ワカル",
+          "reading": "わかる",
+          "surface": "分かる",
+          "curPos": "v"
+        },
+        {
+          "base": "俺",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "オレ",
+          "reading": "おれ",
+          "surface": "俺",
+          "curPos": "/"
+        },
+        {
+          "base": "」",
+          "pos": "記号,括弧閉,*,*",
+          "pronunciation": "」",
+          "reading": "",
+          "surface": "」",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "surface": "メイク変えた？って　ドヤ顔ね",
+      "words": [
+        {
+          "base": "メイク",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "メイク",
+          "reading": "",
+          "surface": "メイク",
+          "curPos": "n"
+        },
+        {
+          "base": "変える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カエ",
+          "reading": "かえた",
+          "surface": "変えた",
+          "curPos": "v"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "って",
+          "pos": "助詞,格助詞,連語,*",
+          "pronunciation": "ッテ",
+          "reading": "",
+          "surface": "って",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ドヤ",
+          "curPos": "n"
+        },
+        {
+          "base": "顔",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "ガオ",
+          "reading": "がお",
+          "surface": "顔",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "ね",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ネ",
+          "reading": "",
+          "surface": "ね",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "surface": "Mystery O boy　Mystery O man　Mystery O",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Mystery",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "O",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "boy",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Mystery",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "O",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "man",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Mystery",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "O",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 16,
+      "surface": "一日中　開いてるよ　社会の Window",
+      "words": [
+        {
+          "base": "一",
+          "pos": "名詞,数,*,*",
+          "pronunciation": "イチ",
+          "reading": "いちにち",
+          "surface": "一日",
+          "curPos": "/"
+        },
+        {
+          "base": "中",
+          "pos": "名詞,接尾,副詞可能,*",
+          "pronunciation": "チュー",
+          "reading": "ちゅう",
+          "surface": "中",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "開く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヒライ",
+          "reading": "ひらい",
+          "surface": "開い",
+          "curPos": "v"
+        },
+        {
+          "base": "てる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "テル",
+          "reading": "",
+          "surface": "てる",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        },
+        {
+          "base": "社会",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "シャカイ",
+          "reading": "しゃかい",
+          "surface": "社会",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Window",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "surface": "弱点は　大好きな　B-Q-B B-Q-B",
+      "words": [
+        {
+          "base": "弱点",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ジャクテン",
+          "reading": "じゃくてん",
+          "surface": "弱点",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "大好き",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ダイスキ",
+          "reading": "だいすきな",
+          "surface": "大好きな",
+          "curPos": "a"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "B",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "-",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Q",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "-",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "B",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "B",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "-",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Q",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "-",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "B",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "surface": "シャツのボタン開けすぎですよ",
+      "words": [
+        {
+          "base": "シャツ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "シャツ",
+          "reading": "",
+          "surface": "シャツ",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "ボタン",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ボタン",
+          "reading": "",
+          "surface": "ボタン",
+          "curPos": "n"
+        },
+        {
+          "base": "開ける",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "アケ",
+          "reading": "あけ",
+          "surface": "開け",
+          "curPos": "v"
+        },
+        {
+          "base": "すぎる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "スギ",
+          "reading": "",
+          "surface": "すぎです",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "surface": "エアドラム　横でうるさい",
+      "words": [
+        {
+          "base": "エア",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "エア",
+          "reading": "",
+          "surface": "エア",
+          "curPos": "n"
+        },
+        {
+          "base": "ドラム",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ドラム",
+          "reading": "",
+          "surface": "ドラム",
+          "curPos": "n"
+        },
+        {
+          "base": "横",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヨコ",
+          "reading": "よこ",
+          "surface": "横",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "うるさい",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ウルサイ",
+          "reading": "",
+          "surface": "うるさい",
+          "curPos": "a"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 21,
+      "surface": "ご飯前に　ポテチ食べて　ご飯残す",
+      "words": [
+        {
+          "base": "ご飯",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ゴハン",
+          "reading": "ごはん",
+          "surface": "ご飯",
+          "curPos": "n"
+        },
+        {
+          "base": "前",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "マエ",
+          "reading": "まえ",
+          "surface": "前",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ポテチ",
+          "curPos": "n"
+        },
+        {
+          "base": "食べる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "タベ",
+          "reading": "たべて",
+          "surface": "食べて",
+          "curPos": "v"
+        },
+        {
+          "base": "ご飯",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ゴハン",
+          "reading": "ごはん",
+          "surface": "ご飯",
+          "curPos": "n"
+        },
+        {
+          "base": "残す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ノコス",
+          "reading": "のこす",
+          "surface": "残す",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "surface": "それで　大食いを気取る",
+      "words": [
+        {
+          "base": "それで",
+          "pos": "接続詞,*,*,*",
+          "pronunciation": "ソレデ",
+          "reading": "",
+          "surface": "それで",
+          "curPos": "/"
+        },
+        {
+          "base": "大",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ダイ",
+          "reading": "だい",
+          "surface": "大",
+          "curPos": "n"
+        },
+        {
+          "base": "食い",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "グイ",
+          "reading": "ぐい",
+          "surface": "食い",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "気取る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "キドル",
+          "reading": "きどる",
+          "surface": "気取る",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 24,
+      "surface": "Mystery O OK　Mystery O OK",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Mystery",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "O",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "OK",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Mystery",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "O",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "OK",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 26,
+      "surface": "チンパンジー　鬼退治",
+      "words": [
+        {
+          "base": "チンパンジー",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "チンパンジー",
+          "reading": "",
+          "surface": "チンパンジー",
+          "curPos": "n"
+        },
+        {
+          "base": "鬼",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "オニ",
+          "reading": "おに",
+          "surface": "鬼",
+          "curPos": "n"
+        },
+        {
+          "base": "退治",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "タイジ",
+          "reading": "たいじ",
+          "surface": "退治",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "surface": "リバーサイド　コメディアン",
+      "words": [
+        {
+          "base": "リバー",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "リバー",
+          "reading": "",
+          "surface": "リバー",
+          "curPos": "n"
+        },
+        {
+          "base": "サイド",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "サイド",
+          "reading": "",
+          "surface": "サイド",
+          "curPos": "n"
+        },
+        {
+          "base": "コメディアン",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "コメディアン",
+          "reading": "",
+          "surface": "コメディアン",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "surface": "語る雑学　全然興味ない",
+      "words": [
+        {
+          "base": "語る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カタル",
+          "reading": "かたる",
+          "surface": "語る",
+          "curPos": "v"
+        },
+        {
+          "base": "雑学",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ザツガク",
+          "reading": "ざつがく",
+          "surface": "雑学",
+          "curPos": "n"
+        },
+        {
+          "base": "全然",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "ゼンゼン",
+          "reading": "ぜんぜん",
+          "surface": "全然",
+          "curPos": "adv"
+        },
+        {
+          "base": "興味",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "キョーミ",
+          "reading": "きょうみ",
+          "surface": "興味",
+          "curPos": "n"
+        },
+        {
+          "base": "ない",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ナイ",
+          "reading": "",
+          "surface": "ない",
+          "curPos": "a"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "surface": "でもきっとずっと　I don’t understand",
+      "words": [
+        {
+          "base": "でも",
+          "pos": "接続詞,*,*,*",
+          "pronunciation": "デモ",
+          "reading": "",
+          "surface": "でも",
+          "curPos": "/"
+        },
+        {
+          "base": "きっと",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "キット",
+          "reading": "",
+          "surface": "きっと",
+          "curPos": "adv"
+        },
+        {
+          "base": "ずっと",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ズット",
+          "reading": "",
+          "surface": "ずっと",
+          "curPos": "adv"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "I",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "don",
+          "curPos": "n"
+        },
+        {
+          "base": "’",
+          "pos": "記号,括弧閉,*,*",
+          "pronunciation": "’",
+          "reading": "",
+          "surface": "’",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "t",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "understand",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "surface": "Mystery O boy　Mystery O man　Mystery O",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Mystery",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "O",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "boy",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Mystery",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "O",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "man",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Mystery",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "O",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 32,
+      "surface": "Oh my girl！　こっちも　主張なら I have",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Oh",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "my",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "！",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "！",
+          "reading": "",
+          "surface": "！",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "こっち",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "コッチ",
+          "reading": "",
+          "surface": "こっち",
+          "curPos": "/"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "主張",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "シュチョー",
+          "reading": "しゅちょう",
+          "surface": "主張",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナラ",
+          "reading": "",
+          "surface": "なら",
+          "curPos": "mv"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "I",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "have",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "surface": "ちょっと頂戴　一口だけ　連れ去られるハンバーグ",
+      "words": [
+        {
+          "base": "ちょっと",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "チョット",
+          "reading": "",
+          "surface": "ちょっと",
+          "curPos": "adv"
+        },
+        {
+          "base": "頂戴",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "チョーダイ",
+          "reading": "ちょうだい",
+          "surface": "頂戴",
+          "curPos": "n"
+        },
+        {
+          "base": "一口",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヒトクチ",
+          "reading": "ひとくち",
+          "surface": "一口",
+          "curPos": "n"
+        },
+        {
+          "base": "だけ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ダケ",
+          "reading": "",
+          "surface": "だけ",
+          "curPos": "av"
+        },
+        {
+          "base": "連れ去る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ツレサラ",
+          "reading": "つれさら",
+          "surface": "連れ去ら",
+          "curPos": "v"
+        },
+        {
+          "base": "れる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "レル",
+          "reading": "",
+          "surface": "れる",
+          "curPos": "v"
+        },
+        {
+          "base": "ハンバーグ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ハンバーグ",
+          "reading": "",
+          "surface": "ハンバーグ",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "surface": "全部食べたかった　自分で頼めよ",
+      "words": [
+        {
+          "base": "全部",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "ゼンブ",
+          "reading": "ぜんぶ",
+          "surface": "全部",
+          "curPos": "n"
+        },
+        {
+          "base": "食べる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "タベ",
+          "reading": "たべたかった",
+          "surface": "食べたかった",
+          "curPos": "v"
+        },
+        {
+          "base": "自分",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ジブン",
+          "reading": "じぶん",
+          "surface": "自分",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "頼める",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "タノメヨ",
+          "reading": "たのめよ",
+          "surface": "頼めよ",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 36,
+      "surface": "Mystery O OK　Mystery O OK",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Mystery",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "O",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "OK",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Mystery",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "O",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "OK",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 38,
+      "surface": "サスペンス　エリザベス",
+      "words": [
+        {
+          "base": "サスペンス",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "サスペンス",
+          "reading": "",
+          "surface": "サスペンス",
+          "curPos": "n"
+        },
+        {
+          "base": "エリザベス",
+          "pos": "名詞,固有名詞,人名,名",
+          "pronunciation": "エリザベス",
+          "reading": "",
+          "surface": "エリザベス",
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "surface": "フリーランス　カンガルー",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "フリーランス",
+          "curPos": "n"
+        },
+        {
+          "base": "カンガルー",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カンガルー",
+          "reading": "",
+          "surface": "カンガルー",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "surface": "「女のこと　分かる俺」",
+      "words": [
+        {
+          "base": "「",
+          "pos": "記号,括弧開,*,*",
+          "pronunciation": "「",
+          "reading": "",
+          "surface": "「",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "女",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "オンナ",
+          "reading": "おんな",
+          "surface": "女",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "こと",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "コト",
+          "reading": "",
+          "surface": "こと",
+          "curPos": "n"
+        },
+        {
+          "base": "分かる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ワカル",
+          "reading": "わかる",
+          "surface": "分かる",
+          "curPos": "v"
+        },
+        {
+          "base": "俺",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "オレ",
+          "reading": "おれ",
+          "surface": "俺",
+          "curPos": "/"
+        },
+        {
+          "base": "」",
+          "pos": "記号,括弧閉,*,*",
+          "pronunciation": "」",
+          "reading": "",
+          "surface": "」",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "surface": "メイク変えた？って　ドヤ顔ね",
+      "words": [
+        {
+          "base": "メイク",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "メイク",
+          "reading": "",
+          "surface": "メイク",
+          "curPos": "n"
+        },
+        {
+          "base": "変える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カエ",
+          "reading": "かえた",
+          "surface": "変えた",
+          "curPos": "v"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "って",
+          "pos": "助詞,格助詞,連語,*",
+          "pronunciation": "ッテ",
+          "reading": "",
+          "surface": "って",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ドヤ",
+          "curPos": "n"
+        },
+        {
+          "base": "顔",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "ガオ",
+          "reading": "がお",
+          "surface": "顔",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "ね",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ネ",
+          "reading": "",
+          "surface": "ね",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "surface": "Mystery O boy　Mystery O man　Mystery O",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Mystery",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "O",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "boy",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Mystery",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "O",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "man",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Mystery",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "O",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 44,
+      "surface": "Mystery O",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Mystery",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "O",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "surface": "",
+      "words": []
+    }
+  ],
+  "pureLrc": [
+    "ねぇ　トイレ　フタ閉めて",
+    "ねぇ　何でヒゲ剃りを",
+    "ねぇ　夜にやるの？",
+    "ゴリラ　闘牛　豆乳　番長",
+    "",
+    "デートじゃん　お洒落なカフェ　ジャージで来ないで",
+    "機嫌悪いの？って　バカなの？",
+    "",
+    "Mystery O OK　Mystery O OK",
+    "",
+    "サスペンス　エリザベス",
+    "フリーランス　カンガルー",
+    "「女のこと　分かる俺」",
+    "メイク変えた？って　ドヤ顔ね",
+    "Mystery O boy　Mystery O man　Mystery O",
+    "",
+    "一日中　開いてるよ　社会の Window",
+    "弱点は　大好きな　B-Q-B B-Q-B",
+    "シャツのボタン開けすぎですよ",
+    "エアドラム　横でうるさい",
+    "",
+    "ご飯前に　ポテチ食べて　ご飯残す",
+    "それで　大食いを気取る",
+    "",
+    "Mystery O OK　Mystery O OK",
+    "",
+    "チンパンジー　鬼退治",
+    "リバーサイド　コメディアン",
+    "語る雑学　全然興味ない",
+    "でもきっとずっと　I don’t understand",
+    "Mystery O boy　Mystery O man　Mystery O",
+    "",
+    "Oh my girl！　こっちも　主張なら I have",
+    "ちょっと頂戴　一口だけ　連れ去られるハンバーグ",
+    "全部食べたかった　自分で頼めよ",
+    "",
+    "Mystery O OK　Mystery O OK",
+    "",
+    "サスペンス　エリザベス",
+    "フリーランス　カンガルー",
+    "「女のこと　分かる俺」",
+    "メイク変えた？って　ドヤ顔ね",
+    "Mystery O boy　Mystery O man　Mystery O",
+    "",
+    "Mystery O",
+    ""
+  ]
+}

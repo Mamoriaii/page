@@ -1,0 +1,1869 @@
+{
+  "name": "ASAP!",
+  "reading": "アサップ",
+  "artist": ["Hey!Say!JUMP"],
+  "info": [
+    {
+      "label": "作詞",
+      "value": ["知念侑李", "有岡大貴"]
+    },
+    {
+      "label": "作曲",
+      "value": ["知念侑李", "有岡大貴", "辻村有記"]
+    }
+  ],
+  "lrc": [
+    {
+      "id": 0,
+      "surface": "なんにも出てこない　悩んでる",
+      "words": [
+        {
+          "base": "なんにも",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ナンニモ",
+          "reading": "",
+          "surface": "なんにも",
+          "curPos": "adv"
+        },
+        {
+          "base": "出る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "デ",
+          "reading": "でて",
+          "surface": "出て",
+          "curPos": "v"
+        },
+        {
+          "base": "くる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "コ",
+          "reading": "",
+          "surface": "こない",
+          "curPos": "v"
+        },
+        {
+          "base": "悩む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナヤン",
+          "reading": "なやん",
+          "surface": "悩ん",
+          "curPos": "v"
+        },
+        {
+          "base": "でる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "デル",
+          "reading": "",
+          "surface": "でる",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "surface": "時間だけが過ぎてゆくStay",
+      "words": [
+        {
+          "base": "時間",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "ジカン",
+          "reading": "じかん",
+          "surface": "時間",
+          "curPos": "n"
+        },
+        {
+          "base": "だけ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ダケ",
+          "reading": "",
+          "surface": "だけ",
+          "curPos": "av"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "過ぎる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "スギ",
+          "reading": "すぎて",
+          "surface": "過ぎて",
+          "curPos": "v"
+        },
+        {
+          "base": "ゆく",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ユク",
+          "reading": "",
+          "surface": "ゆく",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Stay",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "surface": "垂れ流しのままBGM",
+      "words": [
+        {
+          "base": "垂れ流し",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "タレナガシ",
+          "reading": "たれながし",
+          "surface": "垂れ流し",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "まま",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ママ",
+          "reading": "",
+          "surface": "まま",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "BGM",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "surface": "気が付けばまた度重なるSwipe",
+      "words": [
+        {
+          "base": "気",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "キ",
+          "reading": "き",
+          "surface": "気",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "付く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ツケ",
+          "reading": "つけ",
+          "surface": "付け",
+          "curPos": "v"
+        },
+        {
+          "base": "ば",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "バ",
+          "reading": "",
+          "surface": "ば",
+          "curPos": "av"
+        },
+        {
+          "base": "また",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "マタ",
+          "reading": "",
+          "surface": "また",
+          "curPos": "adv"
+        },
+        {
+          "base": "度重なる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "タビカサナル",
+          "reading": "たびかさなる",
+          "surface": "度重なる",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Swipe",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 5,
+      "surface": "最新Topic観て",
+      "words": [
+        {
+          "base": "最新",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "サイシン",
+          "reading": "さいしん",
+          "surface": "最新",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Topic",
+          "curPos": "n"
+        },
+        {
+          "base": "観る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミ",
+          "reading": "みて",
+          "surface": "観て",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "surface": "ストリーマーのClip観て",
+      "words": [
+        {
+          "base": "スト",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "スト",
+          "reading": "",
+          "surface": "スト",
+          "curPos": "n"
+        },
+        {
+          "base": "リーマー",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "リーマー",
+          "reading": "",
+          "surface": "リーマー",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Clip",
+          "curPos": "n"
+        },
+        {
+          "base": "観る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミ",
+          "reading": "みて",
+          "surface": "観て",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "surface": "出前をPickして",
+      "words": [
+        {
+          "base": "出前",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "デマエ",
+          "reading": "でまえ",
+          "surface": "出前",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Pick",
+          "curPos": "n"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シ",
+          "reading": "",
+          "surface": "して",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "surface": "“昼夜兼行” Oh...oh...",
+      "words": [
+        {
+          "base": "“",
+          "pos": "記号,括弧開,*,*",
+          "pronunciation": "“",
+          "reading": "",
+          "surface": "“",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "昼夜",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "チューヤ",
+          "reading": "ちゅうや",
+          "surface": "昼夜",
+          "curPos": "n"
+        },
+        {
+          "base": "兼行",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ケンコー",
+          "reading": "けんこう",
+          "surface": "兼行",
+          "curPos": "n"
+        },
+        {
+          "base": "”",
+          "pos": "記号,括弧閉,*,*",
+          "pronunciation": "”",
+          "reading": "",
+          "surface": "”",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Oh",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "...",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "oh",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "...",
+          "curPos": "/",
+          "left": true
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 10,
+      "surface": "恥じらいもキケンも　誤魔化して泳いでる",
+      "words": [
+        {
+          "base": "恥じらう",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハジライ",
+          "reading": "はじらい",
+          "surface": "恥じらい",
+          "curPos": "v"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "キケン",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "キケン",
+          "reading": "",
+          "surface": "キケン",
+          "curPos": "n"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "誤魔化す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ゴマカシ",
+          "reading": "ごまかして",
+          "surface": "誤魔化して",
+          "curPos": "v"
+        },
+        {
+          "base": "泳ぐ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "オヨイ",
+          "reading": "およい",
+          "surface": "泳い",
+          "curPos": "v"
+        },
+        {
+          "base": "でる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "デル",
+          "reading": "",
+          "surface": "でる",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "surface": "毎回この感じ I feel like having Jerry Beans.",
+      "words": [
+        {
+          "base": "毎回",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "マイカイ",
+          "reading": "まいかい",
+          "surface": "毎回",
+          "curPos": "n"
+        },
+        {
+          "base": "この",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "コノ",
+          "reading": "",
+          "surface": "この",
+          "curPos": "/"
+        },
+        {
+          "base": "感じ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カンジ",
+          "reading": "かんじ",
+          "surface": "感じ",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "I",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "feel",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "like",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "having",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Jerry",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Beans",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ".",
+          "curPos": "/",
+          "left": true
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 13,
+      "surface": "堂々反省見逃して　以下同文で乗り切って",
+      "words": [
+        {
+          "base": "堂々",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "ドードー",
+          "reading": "どうどう",
+          "surface": "堂々",
+          "curPos": "adv"
+        },
+        {
+          "base": "反省",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ハンセイ",
+          "reading": "はんせい",
+          "surface": "反省",
+          "curPos": "n"
+        },
+        {
+          "base": "見逃す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミノガシ",
+          "reading": "みのがして",
+          "surface": "見逃して",
+          "curPos": "v"
+        },
+        {
+          "base": "以下",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "イカ",
+          "reading": "いか",
+          "surface": "以下",
+          "curPos": "n"
+        },
+        {
+          "base": "同文",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ドーブン",
+          "reading": "どうぶん",
+          "surface": "同文",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "乗り切る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ノリキッ",
+          "reading": "のりきって",
+          "surface": "乗り切って",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 15,
+      "surface": "合図は一度だけ　勧善懲悪",
+      "words": [
+        {
+          "base": "合図",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "アイズ",
+          "reading": "あいず",
+          "surface": "合図",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "一",
+          "pos": "名詞,数,*,*",
+          "pronunciation": "イチ",
+          "reading": "いちど",
+          "surface": "一度",
+          "curPos": "/"
+        },
+        {
+          "base": "だけ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ダケ",
+          "reading": "",
+          "surface": "だけ",
+          "curPos": "av"
+        },
+        {
+          "base": "勧善懲悪",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カンゼンチョーアク",
+          "reading": "かんぜんちょうあく",
+          "surface": "勧善懲悪",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "surface": "Let me go. ASAP！...",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Let",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "me",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "go",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ".",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ASAP",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "！...",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 18,
+      "surface": "とはいえ進まない　止まってる",
+      "words": [
+        {
+          "base": "と",
+          "pos": "助詞,格助詞,引用,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "いう",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イエ",
+          "reading": "",
+          "surface": "いえ",
+          "curPos": "v"
+        },
+        {
+          "base": "進む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ススマ",
+          "reading": "すすまない",
+          "surface": "進まない",
+          "curPos": "v"
+        },
+        {
+          "base": "止まる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "トマッ",
+          "reading": "とまっ",
+          "surface": "止まっ",
+          "curPos": "v"
+        },
+        {
+          "base": "てる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "テル",
+          "reading": "",
+          "surface": "てる",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "surface": "締め切りが迫ってくる",
+      "words": [
+        {
+          "base": "締め切り",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "シメキリ",
+          "reading": "しめきり",
+          "surface": "締め切り",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "迫る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "セマッ",
+          "reading": "せまって",
+          "surface": "迫って",
+          "curPos": "v"
+        },
+        {
+          "base": "くる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "クル",
+          "reading": "",
+          "surface": "くる",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "surface": "無意識に開いてるSNS",
+      "words": [
+        {
+          "base": "無意識",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ムイシキ",
+          "reading": "むいしき",
+          "surface": "無意識",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,副詞化,*,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "開く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヒライ",
+          "reading": "ひらい",
+          "surface": "開い",
+          "curPos": "v"
+        },
+        {
+          "base": "てる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "テル",
+          "reading": "",
+          "surface": "てる",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "SNS",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "surface": "気が付けばまた度重なるSwipe",
+      "words": [
+        {
+          "base": "気",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "キ",
+          "reading": "き",
+          "surface": "気",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "付く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ツケ",
+          "reading": "つけ",
+          "surface": "付け",
+          "curPos": "v"
+        },
+        {
+          "base": "ば",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "バ",
+          "reading": "",
+          "surface": "ば",
+          "curPos": "av"
+        },
+        {
+          "base": "また",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "マタ",
+          "reading": "",
+          "surface": "また",
+          "curPos": "adv"
+        },
+        {
+          "base": "度重なる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "タビカサナル",
+          "reading": "たびかさなる",
+          "surface": "度重なる",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Swipe",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 23,
+      "surface": "妄想でTripして",
+      "words": [
+        {
+          "base": "妄想",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "モーソー",
+          "reading": "もうそう",
+          "surface": "妄想",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Trip",
+          "curPos": "n"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シ",
+          "reading": "",
+          "surface": "して",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "surface": "ノイズをKickして",
+      "words": [
+        {
+          "base": "ノイズ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ノイズ",
+          "reading": "",
+          "surface": "ノイズ",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Kick",
+          "curPos": "n"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シ",
+          "reading": "",
+          "surface": "して",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "surface": "コーヒーをDripして",
+      "words": [
+        {
+          "base": "コーヒー",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "コーヒー",
+          "reading": "",
+          "surface": "コーヒー",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Drip",
+          "curPos": "n"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シ",
+          "reading": "",
+          "surface": "して",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "surface": "“昼夜逆転”",
+      "words": [
+        {
+          "base": "“",
+          "pos": "記号,括弧開,*,*",
+          "pronunciation": "“",
+          "reading": "",
+          "surface": "“",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "昼夜",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "チューヤ",
+          "reading": "ちゅうや",
+          "surface": "昼夜",
+          "curPos": "n"
+        },
+        {
+          "base": "逆転",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ギャクテン",
+          "reading": "ぎゃくてん",
+          "surface": "逆転",
+          "curPos": "n"
+        },
+        {
+          "base": "”",
+          "pos": "記号,括弧閉,*,*",
+          "pronunciation": "”",
+          "reading": "",
+          "surface": "”",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 28,
+      "surface": "恥じらいもキケンも　誤魔化して泳いでる",
+      "words": [
+        {
+          "base": "恥じらう",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハジライ",
+          "reading": "はじらい",
+          "surface": "恥じらい",
+          "curPos": "v"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "キケン",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "キケン",
+          "reading": "",
+          "surface": "キケン",
+          "curPos": "n"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "誤魔化す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ゴマカシ",
+          "reading": "ごまかして",
+          "surface": "誤魔化して",
+          "curPos": "v"
+        },
+        {
+          "base": "泳ぐ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "オヨイ",
+          "reading": "およい",
+          "surface": "泳い",
+          "curPos": "v"
+        },
+        {
+          "base": "でる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "デル",
+          "reading": "",
+          "surface": "でる",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "surface": "毎回この感じ I feel like having Jerry Beans.",
+      "words": [
+        {
+          "base": "毎回",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "マイカイ",
+          "reading": "まいかい",
+          "surface": "毎回",
+          "curPos": "n"
+        },
+        {
+          "base": "この",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "コノ",
+          "reading": "",
+          "surface": "この",
+          "curPos": "/"
+        },
+        {
+          "base": "感じ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カンジ",
+          "reading": "かんじ",
+          "surface": "感じ",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "I",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "feel",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "like",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "having",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Jerry",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Beans",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ".",
+          "curPos": "/",
+          "left": true
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 31,
+      "surface": "堂々反省見逃して　以下同文で乗り切って",
+      "words": [
+        {
+          "base": "堂々",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "ドードー",
+          "reading": "どうどう",
+          "surface": "堂々",
+          "curPos": "adv"
+        },
+        {
+          "base": "反省",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ハンセイ",
+          "reading": "はんせい",
+          "surface": "反省",
+          "curPos": "n"
+        },
+        {
+          "base": "見逃す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミノガシ",
+          "reading": "みのがして",
+          "surface": "見逃して",
+          "curPos": "v"
+        },
+        {
+          "base": "以下",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "イカ",
+          "reading": "いか",
+          "surface": "以下",
+          "curPos": "n"
+        },
+        {
+          "base": "同文",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ドーブン",
+          "reading": "どうぶん",
+          "surface": "同文",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "乗り切る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ノリキッ",
+          "reading": "のりきって",
+          "surface": "乗り切って",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 33,
+      "surface": "合図は一度だけ　勧善懲悪",
+      "words": [
+        {
+          "base": "合図",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "アイズ",
+          "reading": "あいず",
+          "surface": "合図",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "一",
+          "pos": "名詞,数,*,*",
+          "pronunciation": "イチ",
+          "reading": "いちど",
+          "surface": "一度",
+          "curPos": "/"
+        },
+        {
+          "base": "だけ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ダケ",
+          "reading": "",
+          "surface": "だけ",
+          "curPos": "av"
+        },
+        {
+          "base": "勧善懲悪",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カンゼンチョーアク",
+          "reading": "かんぜんちょうあく",
+          "surface": "勧善懲悪",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "surface": "Let me go. ASAP！...",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Let",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "me",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "go",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ".",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ASAP",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "！...",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 36,
+      "surface": "Let me go. ASAP！",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Let",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "me",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "go",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ".",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ASAP",
+          "curPos": "n"
+        },
+        {
+          "base": "！",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "！",
+          "reading": "",
+          "surface": "！",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 38,
+      "surface": "恥じらいもキケンも　誤魔化して泳いでる",
+      "words": [
+        {
+          "base": "恥じらう",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハジライ",
+          "reading": "はじらい",
+          "surface": "恥じらい",
+          "curPos": "v"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "キケン",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "キケン",
+          "reading": "",
+          "surface": "キケン",
+          "curPos": "n"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "誤魔化す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ゴマカシ",
+          "reading": "ごまかして",
+          "surface": "誤魔化して",
+          "curPos": "v"
+        },
+        {
+          "base": "泳ぐ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "オヨイ",
+          "reading": "およい",
+          "surface": "泳い",
+          "curPos": "v"
+        },
+        {
+          "base": "でる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "デル",
+          "reading": "",
+          "surface": "でる",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "surface": "毎回この感じ I feel like having Jerry Beans.",
+      "words": [
+        {
+          "base": "毎回",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "マイカイ",
+          "reading": "まいかい",
+          "surface": "毎回",
+          "curPos": "n"
+        },
+        {
+          "base": "この",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "コノ",
+          "reading": "",
+          "surface": "この",
+          "curPos": "/"
+        },
+        {
+          "base": "感じ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カンジ",
+          "reading": "かんじ",
+          "surface": "感じ",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "I",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "feel",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "like",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "having",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Jerry",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Beans",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ".",
+          "curPos": "/",
+          "left": true
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 41,
+      "surface": "堂々反省見逃して　以下同文で乗り切って",
+      "words": [
+        {
+          "base": "堂々",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "ドードー",
+          "reading": "どうどう",
+          "surface": "堂々",
+          "curPos": "adv"
+        },
+        {
+          "base": "反省",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ハンセイ",
+          "reading": "はんせい",
+          "surface": "反省",
+          "curPos": "n"
+        },
+        {
+          "base": "見逃す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミノガシ",
+          "reading": "みのがして",
+          "surface": "見逃して",
+          "curPos": "v"
+        },
+        {
+          "base": "以下",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "イカ",
+          "reading": "いか",
+          "surface": "以下",
+          "curPos": "n"
+        },
+        {
+          "base": "同文",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ドーブン",
+          "reading": "どうぶん",
+          "surface": "同文",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "乗り切る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ノリキッ",
+          "reading": "のりきって",
+          "surface": "乗り切って",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 43,
+      "surface": "合図は一度だけ　勧善懲悪",
+      "words": [
+        {
+          "base": "合図",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "アイズ",
+          "reading": "あいず",
+          "surface": "合図",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "一",
+          "pos": "名詞,数,*,*",
+          "pronunciation": "イチ",
+          "reading": "いちど",
+          "surface": "一度",
+          "curPos": "/"
+        },
+        {
+          "base": "だけ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ダケ",
+          "reading": "",
+          "surface": "だけ",
+          "curPos": "av"
+        },
+        {
+          "base": "勧善懲悪",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カンゼンチョーアク",
+          "reading": "かんぜんちょうあく",
+          "surface": "勧善懲悪",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "surface": "Let me go. ASAP！...",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Let",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "me",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "go",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ".",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ASAP",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "！...",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "surface": "",
+      "words": []
+    }
+  ],
+  "pureLrc": [
+    "なんにも出てこない　悩んでる",
+    "時間だけが過ぎてゆくStay",
+    "垂れ流しのままBGM",
+    "気が付けばまた度重なるSwipe",
+    "",
+    "最新Topic観て",
+    "ストリーマーのClip観て",
+    "出前をPickして",
+    "“昼夜兼行” Oh...oh...",
+    "",
+    "恥じらいもキケンも　誤魔化して泳いでる",
+    "毎回この感じ I feel like having Jerry Beans.",
+    "",
+    "堂々反省見逃して　以下同文で乗り切って",
+    "",
+    "合図は一度だけ　勧善懲悪",
+    "Let me go. ASAP！...",
+    "",
+    "とはいえ進まない　止まってる",
+    "締め切りが迫ってくる",
+    "無意識に開いてるSNS",
+    "気が付けばまた度重なるSwipe",
+    "",
+    "妄想でTripして",
+    "ノイズをKickして",
+    "コーヒーをDripして",
+    "“昼夜逆転”",
+    "",
+    "恥じらいもキケンも　誤魔化して泳いでる",
+    "毎回この感じ I feel like having Jerry Beans.",
+    "",
+    "堂々反省見逃して　以下同文で乗り切って",
+    "",
+    "合図は一度だけ　勧善懲悪",
+    "Let me go. ASAP！...",
+    "",
+    "Let me go. ASAP！",
+    "",
+    "恥じらいもキケンも　誤魔化して泳いでる",
+    "毎回この感じ I feel like having Jerry Beans.",
+    "",
+    "堂々反省見逃して　以下同文で乗り切って",
+    "",
+    "合図は一度だけ　勧善懲悪",
+    "Let me go. ASAP！...",
+    ""
+  ]
+}
