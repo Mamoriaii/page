@@ -1,0 +1,1751 @@
+{
+  "name": "雨音",
+  "artist": ["NYC"],
+  "producer": [
+    {
+      "label": "作詞",
+      "value": ["村野直球"]
+    },
+    {
+      "label": "作曲",
+      "value": ["Shusui", "Samuel Waermo", "Fredrik Samsson"]
+    }
+  ],
+  "lrc": [
+    {
+      "id": 0,
+      "surface": "交差点あふれる 雨に咲く傘の花",
+      "words": [
+        {
+          "base": "交差点",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "コーサテン",
+          "reading": "こうさてん",
+          "surface": "交差点",
+          "curPos": "n"
+        },
+        {
+          "base": "あふれる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "アフレル",
+          "reading": "",
+          "surface": "あふれる",
+          "curPos": "v"
+        },
+        {
+          "base": "雨",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アメ",
+          "reading": "あめ",
+          "surface": "雨",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "咲く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "サク",
+          "reading": "さく",
+          "surface": "咲く",
+          "curPos": "v"
+        },
+        {
+          "base": "傘",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カサ",
+          "reading": "かさ",
+          "surface": "傘",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "花",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ハナ",
+          "reading": "はな",
+          "surface": "花",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "surface": "僕たちは傘の中 なんどもキスした",
+      "words": [
+        {
+          "base": "僕",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボク",
+          "reading": "ぼく",
+          "surface": "僕",
+          "curPos": "/"
+        },
+        {
+          "base": "たち",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "タチ",
+          "reading": "",
+          "surface": "たち",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "傘",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カサ",
+          "reading": "かさ",
+          "surface": "傘",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "中",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ナカ",
+          "reading": "なか",
+          "surface": "中",
+          "curPos": "n"
+        },
+        {
+          "base": "なんど",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ナンド",
+          "reading": "",
+          "surface": "なんど",
+          "curPos": "n"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "キス",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "キス",
+          "reading": "",
+          "surface": "キス",
+          "curPos": "n"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シ",
+          "reading": "",
+          "surface": "した",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 3,
+      "surface": "不思議さ サヨナラをしたなんて 「どうして…」",
+      "words": [
+        {
+          "base": "不思議",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "フシギ",
+          "reading": "ふしぎ",
+          "surface": "不思議",
+          "curPos": "n"
+        },
+        {
+          "base": "さ",
+          "pos": "名詞,接尾,特殊,*",
+          "pronunciation": "サ",
+          "reading": "",
+          "surface": "さ",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "サヨナラ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "サヨナラ",
+          "reading": "",
+          "surface": "サヨナラ",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シ",
+          "reading": "",
+          "surface": "した",
+          "curPos": "v"
+        },
+        {
+          "base": "なんて",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ナンテ",
+          "reading": "",
+          "surface": "なんて",
+          "curPos": "av"
+        },
+        {
+          "base": "「",
+          "pos": "記号,括弧開,*,*",
+          "pronunciation": "「",
+          "reading": "",
+          "surface": "「",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "どうして",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ドーシテ",
+          "reading": "",
+          "surface": "どうして",
+          "curPos": "adv"
+        },
+        {
+          "base": "…",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "…",
+          "reading": "",
+          "surface": "…",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "」",
+          "pos": "記号,括弧閉,*,*",
+          "pronunciation": "」",
+          "reading": "",
+          "surface": "」",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 5,
+      "surface": "こんなにも 好きさ、好き 心がなんども",
+      "words": [
+        {
+          "base": "こんなにも",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "コンナニモ",
+          "reading": "",
+          "surface": "こんなにも",
+          "curPos": "adv"
+        },
+        {
+          "base": "好き",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "スキ",
+          "reading": "すき",
+          "surface": "好き",
+          "curPos": "n"
+        },
+        {
+          "base": "さ",
+          "pos": "名詞,接尾,特殊,*",
+          "pronunciation": "サ",
+          "reading": "",
+          "surface": "さ",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "、",
+          "pos": "記号,読点,*,*",
+          "pronunciation": "、",
+          "reading": "",
+          "surface": "、",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "好き",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "スキ",
+          "reading": "すき",
+          "surface": "好き",
+          "curPos": "n"
+        },
+        {
+          "base": "心",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ココロ",
+          "reading": "こころ",
+          "surface": "心",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "なんど",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ナンド",
+          "reading": "",
+          "surface": "なんど",
+          "curPos": "n"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "surface": "好きさ 叫んでいるよ",
+      "words": [
+        {
+          "base": "好き",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "スキ",
+          "reading": "すき",
+          "surface": "好き",
+          "curPos": "n"
+        },
+        {
+          "base": "さ",
+          "pos": "名詞,接尾,特殊,*",
+          "pronunciation": "サ",
+          "reading": "",
+          "surface": "さ",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "叫ぶ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "サケン",
+          "reading": "さけん",
+          "surface": "叫ん",
+          "curPos": "v"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "いる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イル",
+          "reading": "",
+          "surface": "いる",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "surface": "ひとりの街角が 雨に濡れる",
+      "words": [
+        {
+          "base": "ひとり",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヒトリ",
+          "reading": "",
+          "surface": "ひとり",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "街角",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "マチカド",
+          "reading": "まちかど",
+          "surface": "街角",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "雨",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アメ",
+          "reading": "あめ",
+          "surface": "雨",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "濡れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヌレル",
+          "reading": "ぬれる",
+          "surface": "濡れる",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "surface": "傘に響くリズムが 二人聴いたあの日のまま",
+      "words": [
+        {
+          "base": "傘",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カサ",
+          "reading": "かさ",
+          "surface": "傘",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "響く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヒビク",
+          "reading": "ひびく",
+          "surface": "響く",
+          "curPos": "v"
+        },
+        {
+          "base": "リズム",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "リズム",
+          "reading": "",
+          "surface": "リズム",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "二",
+          "pos": "名詞,数,*,*",
+          "pronunciation": "ニ",
+          "reading": "ににん",
+          "surface": "二人",
+          "curPos": "/"
+        },
+        {
+          "base": "聴く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "キイ",
+          "reading": "きいた",
+          "surface": "聴いた",
+          "curPos": "v"
+        },
+        {
+          "base": "あの",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "アノ",
+          "reading": "",
+          "surface": "あの",
+          "curPos": "/"
+        },
+        {
+          "base": "日",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ヒ",
+          "reading": "ひ",
+          "surface": "日",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "まま",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ママ",
+          "reading": "",
+          "surface": "まま",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "surface": "忘れたくない雨音 雨音",
+      "words": [
+        {
+          "base": "忘れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ワスレ",
+          "reading": "わすれたくない",
+          "surface": "忘れたくない",
+          "curPos": "v"
+        },
+        {
+          "base": "雨",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アメ",
+          "reading": "あめ",
+          "surface": "雨",
+          "curPos": "n"
+        },
+        {
+          "base": "音",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "オン",
+          "reading": "おん",
+          "surface": "音",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "雨",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アメ",
+          "reading": "あめ",
+          "surface": "雨",
+          "curPos": "n"
+        },
+        {
+          "base": "音",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "オン",
+          "reading": "おん",
+          "surface": "音",
+          "left": true,
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 11,
+      "surface": "あの日のあの店で お決まりの窓側で",
+      "words": [
+        {
+          "base": "あの",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "アノ",
+          "reading": "",
+          "surface": "あの",
+          "curPos": "/"
+        },
+        {
+          "base": "日",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ヒ",
+          "reading": "ひ",
+          "surface": "日",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "あの",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "アノ",
+          "reading": "",
+          "surface": "あの",
+          "curPos": "/"
+        },
+        {
+          "base": "店",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミセ",
+          "reading": "みせ",
+          "surface": "店",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "お決まり",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "オキマリ",
+          "reading": "おきまり",
+          "surface": "お決まり",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "窓側",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "マドガワ",
+          "reading": "まどがわ",
+          "surface": "窓側",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "surface": "僕たちは未来さえ 話していたのに",
+      "words": [
+        {
+          "base": "僕",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボク",
+          "reading": "ぼく",
+          "surface": "僕",
+          "curPos": "/"
+        },
+        {
+          "base": "たち",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "タチ",
+          "reading": "",
+          "surface": "たち",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "未来",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミライ",
+          "reading": "みらい",
+          "surface": "未来",
+          "curPos": "n"
+        },
+        {
+          "base": "さえ",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "サエ",
+          "reading": "",
+          "surface": "さえ",
+          "curPos": "av"
+        },
+        {
+          "base": "話す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハナシ",
+          "reading": "はなして",
+          "surface": "話して",
+          "curPos": "v"
+        },
+        {
+          "base": "いる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イ",
+          "reading": "",
+          "surface": "いた",
+          "curPos": "v"
+        },
+        {
+          "base": "のに",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "ノニ",
+          "reading": "",
+          "surface": "のに",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 14,
+      "surface": "ズルいよ サヨナラは裏切りさ 「どうして…」",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ズル",
+          "curPos": "n"
+        },
+        {
+          "base": "いよ",
+          "pos": "名詞,固有名詞,人名,名",
+          "pronunciation": "イヨ",
+          "reading": "",
+          "surface": "いよ",
+          "curPos": "/"
+        },
+        {
+          "base": "サヨナラ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "サヨナラ",
+          "reading": "",
+          "surface": "サヨナラ",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "裏切る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ウラギリ",
+          "reading": "うらぎり",
+          "surface": "裏切り",
+          "curPos": "v"
+        },
+        {
+          "base": "さ",
+          "pos": "名詞,接尾,特殊,*",
+          "pronunciation": "サ",
+          "reading": "",
+          "surface": "さ",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "「",
+          "pos": "記号,括弧開,*,*",
+          "pronunciation": "「",
+          "reading": "",
+          "surface": "「",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "どうして",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ドーシテ",
+          "reading": "",
+          "surface": "どうして",
+          "curPos": "adv"
+        },
+        {
+          "base": "…",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "…",
+          "reading": "",
+          "surface": "…",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "」",
+          "pos": "記号,括弧閉,*,*",
+          "pronunciation": "」",
+          "reading": "",
+          "surface": "」",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 16,
+      "surface": "こんなにも 好きさ、好き 心の底から",
+      "words": [
+        {
+          "base": "こんなにも",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "コンナニモ",
+          "reading": "",
+          "surface": "こんなにも",
+          "curPos": "adv"
+        },
+        {
+          "base": "好き",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "スキ",
+          "reading": "すき",
+          "surface": "好き",
+          "curPos": "n"
+        },
+        {
+          "base": "さ",
+          "pos": "名詞,接尾,特殊,*",
+          "pronunciation": "サ",
+          "reading": "",
+          "surface": "さ",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "、",
+          "pos": "記号,読点,*,*",
+          "pronunciation": "、",
+          "reading": "",
+          "surface": "、",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "好き",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "スキ",
+          "reading": "すき",
+          "surface": "好き",
+          "curPos": "n"
+        },
+        {
+          "base": "心",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ココロ",
+          "reading": "こころ",
+          "surface": "心",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "底",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ソコ",
+          "reading": "そこ",
+          "surface": "底",
+          "curPos": "n"
+        },
+        {
+          "base": "から",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "カラ",
+          "reading": "",
+          "surface": "から",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "surface": "好きさ 想っているよ",
+      "words": [
+        {
+          "base": "好き",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "スキ",
+          "reading": "すき",
+          "surface": "好き",
+          "curPos": "n"
+        },
+        {
+          "base": "さ",
+          "pos": "名詞,接尾,特殊,*",
+          "pronunciation": "サ",
+          "reading": "",
+          "surface": "さ",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "想う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "オモッ",
+          "reading": "おもって",
+          "surface": "想って",
+          "curPos": "v"
+        },
+        {
+          "base": "いる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イル",
+          "reading": "",
+          "surface": "いる",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "surface": "終わりにするなんて できないから",
+      "words": [
+        {
+          "base": "終わる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "オワリ",
+          "reading": "おわり",
+          "surface": "終わり",
+          "curPos": "v"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "スル",
+          "reading": "",
+          "surface": "する",
+          "curPos": "v"
+        },
+        {
+          "base": "なんて",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ナンテ",
+          "reading": "",
+          "surface": "なんて",
+          "curPos": "av"
+        },
+        {
+          "base": "できる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "デキ",
+          "reading": "",
+          "surface": "できない",
+          "curPos": "v"
+        },
+        {
+          "base": "から",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "カラ",
+          "reading": "",
+          "surface": "から",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "surface": "胸に響く雨音 君がここにいたあの日を",
+      "words": [
+        {
+          "base": "胸",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ムネ",
+          "reading": "むね",
+          "surface": "胸",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "響く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヒビク",
+          "reading": "ひびく",
+          "surface": "響く",
+          "curPos": "v"
+        },
+        {
+          "base": "雨",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アメ",
+          "reading": "あめ",
+          "surface": "雨",
+          "curPos": "n"
+        },
+        {
+          "base": "音",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "オン",
+          "reading": "おん",
+          "surface": "音",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "君",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "きみ",
+          "surface": "君",
+          "curPos": "/"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "ここ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ココ",
+          "reading": "",
+          "surface": "ここ",
+          "curPos": "/"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "いる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イ",
+          "reading": "",
+          "surface": "いた",
+          "curPos": "v"
+        },
+        {
+          "base": "あの",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "アノ",
+          "reading": "",
+          "surface": "あの",
+          "curPos": "/"
+        },
+        {
+          "base": "日",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ヒ",
+          "reading": "ひ",
+          "surface": "日",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "surface": "刻んでいる 今でも",
+      "words": [
+        {
+          "base": "刻む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "キザン",
+          "reading": "きざん",
+          "surface": "刻ん",
+          "curPos": "v"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "いる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イル",
+          "reading": "",
+          "surface": "いる",
+          "curPos": "v"
+        },
+        {
+          "base": "今",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "イマ",
+          "reading": "いま",
+          "surface": "今",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 22,
+      "surface": "今でも 君以外はもう愛せない",
+      "words": [
+        {
+          "base": "今",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "イマ",
+          "reading": "いま",
+          "surface": "今",
+          "curPos": "n"
+        },
+        {
+          "base": "でも",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "デモ",
+          "reading": "",
+          "surface": "でも",
+          "curPos": "av"
+        },
+        {
+          "base": "君",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "きみ",
+          "surface": "君",
+          "curPos": "/"
+        },
+        {
+          "base": "以外",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "イガイ",
+          "reading": "いがい",
+          "surface": "以外",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "もう",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "モー",
+          "reading": "",
+          "surface": "もう",
+          "curPos": "adv"
+        },
+        {
+          "base": "愛せる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "アイセ",
+          "reading": "あいせない",
+          "surface": "愛せない",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "surface": "奪いたいほどに、苦しいよ…",
+      "words": [
+        {
+          "base": "奪う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ウバイ",
+          "reading": "うばいたい",
+          "surface": "奪いたい",
+          "curPos": "v"
+        },
+        {
+          "base": "ほど",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ホド",
+          "reading": "",
+          "surface": "ほど",
+          "curPos": "av"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "、",
+          "pos": "記号,読点,*,*",
+          "pronunciation": "、",
+          "reading": "",
+          "surface": "、",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "苦しい",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "クルシイ",
+          "reading": "くるしい",
+          "surface": "苦しい",
+          "curPos": "a"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        },
+        {
+          "base": "…",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "…",
+          "reading": "",
+          "surface": "…",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 25,
+      "surface": "こんなにも 好きさ、好き 心がなんども",
+      "words": [
+        {
+          "base": "こんなにも",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "コンナニモ",
+          "reading": "",
+          "surface": "こんなにも",
+          "curPos": "adv"
+        },
+        {
+          "base": "好き",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "スキ",
+          "reading": "すき",
+          "surface": "好き",
+          "curPos": "n"
+        },
+        {
+          "base": "さ",
+          "pos": "名詞,接尾,特殊,*",
+          "pronunciation": "サ",
+          "reading": "",
+          "surface": "さ",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "、",
+          "pos": "記号,読点,*,*",
+          "pronunciation": "、",
+          "reading": "",
+          "surface": "、",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "好き",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "スキ",
+          "reading": "すき",
+          "surface": "好き",
+          "curPos": "n"
+        },
+        {
+          "base": "心",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ココロ",
+          "reading": "こころ",
+          "surface": "心",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "なんど",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ナンド",
+          "reading": "",
+          "surface": "なんど",
+          "curPos": "n"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "surface": "好きさ 叫んでいるよ",
+      "words": [
+        {
+          "base": "好き",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "スキ",
+          "reading": "すき",
+          "surface": "好き",
+          "curPos": "n"
+        },
+        {
+          "base": "さ",
+          "pos": "名詞,接尾,特殊,*",
+          "pronunciation": "サ",
+          "reading": "",
+          "surface": "さ",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "叫ぶ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "サケン",
+          "reading": "さけん",
+          "surface": "叫ん",
+          "curPos": "v"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "いる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イル",
+          "reading": "",
+          "surface": "いる",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "surface": "ひとりの街角が 雨に濡れる",
+      "words": [
+        {
+          "base": "ひとり",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヒトリ",
+          "reading": "",
+          "surface": "ひとり",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "街角",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "マチカド",
+          "reading": "まちかど",
+          "surface": "街角",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "雨",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アメ",
+          "reading": "あめ",
+          "surface": "雨",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "濡れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヌレル",
+          "reading": "ぬれる",
+          "surface": "濡れる",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "surface": "傘に響くリズムが 二人聴いたあの日のまま",
+      "words": [
+        {
+          "base": "傘",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カサ",
+          "reading": "かさ",
+          "surface": "傘",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "響く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヒビク",
+          "reading": "ひびく",
+          "surface": "響く",
+          "curPos": "v"
+        },
+        {
+          "base": "リズム",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "リズム",
+          "reading": "",
+          "surface": "リズム",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "二",
+          "pos": "名詞,数,*,*",
+          "pronunciation": "ニ",
+          "reading": "ににん",
+          "surface": "二人",
+          "curPos": "/"
+        },
+        {
+          "base": "聴く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "キイ",
+          "reading": "きいた",
+          "surface": "聴いた",
+          "curPos": "v"
+        },
+        {
+          "base": "あの",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "アノ",
+          "reading": "",
+          "surface": "あの",
+          "curPos": "/"
+        },
+        {
+          "base": "日",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ヒ",
+          "reading": "ひ",
+          "surface": "日",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "まま",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "ママ",
+          "reading": "",
+          "surface": "まま",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "surface": "忘れたくない雨音 「どうして…」",
+      "words": [
+        {
+          "base": "忘れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ワスレ",
+          "reading": "わすれたくない",
+          "surface": "忘れたくない",
+          "curPos": "v"
+        },
+        {
+          "base": "雨",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アメ",
+          "reading": "あめ",
+          "surface": "雨",
+          "curPos": "n"
+        },
+        {
+          "base": "音",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "オン",
+          "reading": "おん",
+          "surface": "音",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "「",
+          "pos": "記号,括弧開,*,*",
+          "pronunciation": "「",
+          "reading": "",
+          "surface": "「",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "どうして",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ドーシテ",
+          "reading": "",
+          "surface": "どうして",
+          "curPos": "adv"
+        },
+        {
+          "base": "…",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "…",
+          "reading": "",
+          "surface": "…",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "」",
+          "pos": "記号,括弧閉,*,*",
+          "pronunciation": "」",
+          "reading": "",
+          "surface": "」",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "surface": "",
+      "words": []
+    }
+  ],
+  "pureLrc": [
+    "交差点あふれる 雨に咲く傘の花",
+    "僕たちは傘の中 なんどもキスした",
+    "",
+    "不思議さ サヨナラをしたなんて 「どうして…」",
+    "",
+    "こんなにも 好きさ、好き 心がなんども",
+    "好きさ 叫んでいるよ",
+    "ひとりの街角が 雨に濡れる",
+    "傘に響くリズムが 二人聴いたあの日のまま",
+    "忘れたくない雨音 雨音",
+    "",
+    "あの日のあの店で お決まりの窓側で",
+    "僕たちは未来さえ 話していたのに",
+    "",
+    "ズルいよ サヨナラは裏切りさ 「どうして…」",
+    "",
+    "こんなにも 好きさ、好き 心の底から",
+    "好きさ 想っているよ",
+    "終わりにするなんて できないから",
+    "胸に響く雨音 君がここにいたあの日を",
+    "刻んでいる 今でも",
+    "",
+    "今でも 君以外はもう愛せない",
+    "奪いたいほどに、苦しいよ…",
+    "",
+    "こんなにも 好きさ、好き 心がなんども",
+    "好きさ 叫んでいるよ",
+    "ひとりの街角が 雨に濡れる",
+    "傘に響くリズムが 二人聴いたあの日のまま",
+    "忘れたくない雨音 「どうして…」",
+    ""
+  ]
+}

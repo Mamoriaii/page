@@ -1,0 +1,3393 @@
+{
+  "name": "School Girl",
+  "artist": ["Hey! Say! JUMP"],
+  "producer": [
+    {
+      "label": "作詞",
+      "value": ["亜美"]
+    },
+    {
+      "label": "作曲",
+      "value": ["Peter Nord", "Mats Larsson", "Yoko.Hiramatsu"]
+    }
+  ],
+  "lrc": [
+    {
+      "id": 0,
+      "surface": "今日も一日が始まるよ (Ring ring a bell)",
+      "words": [
+        {
+          "base": "今日",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "キョー",
+          "reading": "きょう",
+          "surface": "今日",
+          "curPos": "n"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "一",
+          "pos": "名詞,数,*,*",
+          "pronunciation": "イチ",
+          "reading": "いちにち",
+          "surface": "一日",
+          "curPos": "/"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "始まる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハジマル",
+          "reading": "はじまる",
+          "surface": "始まる",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Ring",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ring",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "a",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "bell",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")",
+          "curPos": "/",
+          "left": true
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "surface": "朝からハイテンションな君たち (U're always fine)",
+      "words": [
+        {
+          "base": "朝",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "アサ",
+          "reading": "あさ",
+          "surface": "朝",
+          "curPos": "n"
+        },
+        {
+          "base": "から",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "カラ",
+          "reading": "",
+          "surface": "から",
+          "curPos": "av"
+        },
+        {
+          "base": "ハイ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ハイ",
+          "reading": "",
+          "surface": "ハイ",
+          "curPos": "n"
+        },
+        {
+          "base": "テンション",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "テンション",
+          "reading": "",
+          "surface": "テンション",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        },
+        {
+          "base": "君たち",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミタチ",
+          "reading": "きみたち",
+          "surface": "君たち",
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "U",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "'",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "re",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "always",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "fine",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")",
+          "curPos": "/",
+          "left": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "surface": "眠そうな僕より夜更かしで (何してたの?)",
+      "words": [
+        {
+          "base": "眠い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ネム",
+          "reading": "ねむ",
+          "surface": "眠",
+          "curPos": "a"
+        },
+        {
+          "base": "そう",
+          "pos": "名詞,接尾,助動詞語幹,*",
+          "pronunciation": "ソー",
+          "reading": "",
+          "surface": "そう",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        },
+        {
+          "base": "僕",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボク",
+          "reading": "ぼく",
+          "surface": "僕",
+          "curPos": "/"
+        },
+        {
+          "base": "より",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヨリ",
+          "reading": "",
+          "surface": "より",
+          "curPos": "av"
+        },
+        {
+          "base": "夜",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "ヨル",
+          "reading": "よる",
+          "surface": "夜",
+          "curPos": "n"
+        },
+        {
+          "base": "更かす",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "フカシ",
+          "reading": "ふかし",
+          "surface": "更かし",
+          "curPos": "v"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "何",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ナニ",
+          "reading": "なに",
+          "surface": "何",
+          "curPos": "/"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シ",
+          "reading": "",
+          "surface": "してた",
+          "curPos": "v"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "?)",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "surface": "ピカピカになるまで その爪磨いたんだって?",
+      "words": [
+        {
+          "base": "ピカピカ",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ピカピカ",
+          "reading": "",
+          "surface": "ピカピカ",
+          "curPos": "adv"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "なる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナル",
+          "reading": "",
+          "surface": "なる",
+          "curPos": "v"
+        },
+        {
+          "base": "まで",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "マデ",
+          "reading": "",
+          "surface": "まで",
+          "curPos": "av"
+        },
+        {
+          "base": "その",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "ソノ",
+          "reading": "",
+          "surface": "その",
+          "curPos": "/"
+        },
+        {
+          "base": "爪",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ツメ",
+          "reading": "つめ",
+          "surface": "爪",
+          "curPos": "n"
+        },
+        {
+          "base": "磨く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミガイ",
+          "reading": "みがいた",
+          "surface": "磨いた",
+          "curPos": "v"
+        },
+        {
+          "base": "ん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ン",
+          "reading": "",
+          "surface": "ん",
+          "curPos": "n"
+        },
+        {
+          "base": "だって",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ダッテ",
+          "reading": "",
+          "surface": "だって",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "?",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "surface": "ずばっと正論言って キリっと大人ぶって",
+      "words": [
+        {
+          "base": "ぬ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ズ",
+          "reading": "",
+          "surface": "ず",
+          "curPos": "mv"
+        },
+        {
+          "base": "ば",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "バ",
+          "reading": "",
+          "surface": "ば",
+          "curPos": "av"
+        },
+        {
+          "base": "っと",
+          "pos": "助詞,格助詞,引用,*",
+          "pronunciation": "ット",
+          "reading": "",
+          "surface": "っと",
+          "curPos": "av"
+        },
+        {
+          "base": "正論",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "セイロン",
+          "reading": "せいろん",
+          "surface": "正論",
+          "curPos": "n"
+        },
+        {
+          "base": "言う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イッ",
+          "reading": "いって",
+          "surface": "言って",
+          "curPos": "v"
+        },
+        {
+          "base": "キリ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "キリ",
+          "reading": "",
+          "surface": "キリ",
+          "curPos": "n"
+        },
+        {
+          "base": "っと",
+          "pos": "助詞,格助詞,引用,*",
+          "pronunciation": "ット",
+          "reading": "",
+          "surface": "っと",
+          "curPos": "av"
+        },
+        {
+          "base": "大人ぶる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "オトナブッ",
+          "reading": "おとなぶって",
+          "surface": "大人ぶって",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "surface": "でもノートにウサギの落書き (Jumpin' rabbit)",
+      "words": [
+        {
+          "base": "でも",
+          "pos": "接続詞,*,*,*",
+          "pronunciation": "デモ",
+          "reading": "",
+          "surface": "でも",
+          "curPos": "/"
+        },
+        {
+          "base": "ノート",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ノート",
+          "reading": "",
+          "surface": "ノート",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "ウサギ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ウサギ",
+          "reading": "",
+          "surface": "ウサギ",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "落書き",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ラクガキ",
+          "reading": "らくがき",
+          "surface": "落書き",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Jumpin",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "'",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "rabbit",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")",
+          "curPos": "/",
+          "left": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "surface": "どっち?どっち?どっちなの? まだNobody knows",
+      "words": [
+        {
+          "base": "どっち",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ドッチ",
+          "reading": "",
+          "surface": "どっち",
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "?",
+          "curPos": "n"
+        },
+        {
+          "base": "どっち",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ドッチ",
+          "reading": "",
+          "surface": "どっち",
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "?",
+          "curPos": "n"
+        },
+        {
+          "base": "どっち",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ドッチ",
+          "reading": "",
+          "surface": "どっち",
+          "curPos": "/"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "?",
+          "curPos": "n"
+        },
+        {
+          "base": "まだ",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "マダ",
+          "reading": "",
+          "surface": "まだ",
+          "curPos": "adv"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Nobody",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "knows",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "surface": "弾丸トーキン 全力で School girl! School girl!",
+      "words": [
+        {
+          "base": "弾丸",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ダンガン",
+          "reading": "だんがん",
+          "surface": "弾丸",
+          "curPos": "n"
+        },
+        {
+          "base": "トーキン",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "トーキン",
+          "reading": "",
+          "surface": "トーキン",
+          "curPos": "n"
+        },
+        {
+          "base": "全力",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ゼンリョク",
+          "reading": "ぜんりょく",
+          "surface": "全力",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "surface": "だけど 試験は全部 そつないマジック",
+      "words": [
+        {
+          "base": "だけど",
+          "pos": "接続詞,*,*,*",
+          "pronunciation": "ダケド",
+          "reading": "",
+          "surface": "だけど",
+          "curPos": "/"
+        },
+        {
+          "base": "試験",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "シケン",
+          "reading": "しけん",
+          "surface": "試験",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "全部",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "ゼンブ",
+          "reading": "ぜんぶ",
+          "surface": "全部",
+          "curPos": "n"
+        },
+        {
+          "base": "そつ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ソツ",
+          "reading": "",
+          "surface": "そつ",
+          "curPos": "n"
+        },
+        {
+          "base": "ない",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ナイ",
+          "reading": "",
+          "surface": "ない",
+          "curPos": "a"
+        },
+        {
+          "base": "マジック",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "マジック",
+          "reading": "",
+          "surface": "マジック",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "surface": "倍速で 進めよ School girl! School girl!",
+      "words": [
+        {
+          "base": "倍速",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "バイソク",
+          "reading": "ばいそく",
+          "surface": "倍速",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "進める",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ススメヨ",
+          "reading": "すすめよ",
+          "surface": "進めよ",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "surface": "だけど 制服は よれないマジック",
+      "words": [
+        {
+          "base": "だけど",
+          "pos": "接続詞,*,*,*",
+          "pronunciation": "ダケド",
+          "reading": "",
+          "surface": "だけど",
+          "curPos": "/"
+        },
+        {
+          "base": "制服",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "セイフク",
+          "reading": "せいふく",
+          "surface": "制服",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "よれる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヨレ",
+          "reading": "",
+          "surface": "よれない",
+          "curPos": "v"
+        },
+        {
+          "base": "マジック",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "マジック",
+          "reading": "",
+          "surface": "マジック",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "surface": "子供でも 泣きそうな 小さなランチで",
+      "words": [
+        {
+          "base": "子供",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "コドモ",
+          "reading": "こども",
+          "surface": "子供",
+          "curPos": "n"
+        },
+        {
+          "base": "でも",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "デモ",
+          "reading": "",
+          "surface": "でも",
+          "curPos": "av"
+        },
+        {
+          "base": "泣く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナキ",
+          "reading": "なきそうな",
+          "surface": "泣きそうな",
+          "curPos": "a"
+        },
+        {
+          "base": "小さな",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "チーサナ",
+          "reading": "ちいさな",
+          "surface": "小さな",
+          "curPos": "/"
+        },
+        {
+          "base": "ランチ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ランチ",
+          "reading": "",
+          "surface": "ランチ",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "surface": "さあ フル充電完了な School girl! Go your way",
+      "words": [
+        {
+          "base": "さあ",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "サー",
+          "reading": "",
+          "surface": "さあ",
+          "curPos": "/"
+        },
+        {
+          "base": "フル",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "フル",
+          "reading": "",
+          "surface": "フル",
+          "curPos": "n"
+        },
+        {
+          "base": "充電",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ジューデン",
+          "reading": "じゅうでん",
+          "surface": "充電",
+          "curPos": "n"
+        },
+        {
+          "base": "完了",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "カンリョー",
+          "reading": "かんりょう",
+          "surface": "完了",
+          "curPos": "n"
+        },
+        {
+          "base": "な",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Go",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "your",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "way",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "surface": "汗だく体育の終わりでも (I'm so tired)",
+      "words": [
+        {
+          "base": "汗だく",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "アセダク",
+          "reading": "あせだく",
+          "surface": "汗だく",
+          "curPos": "n"
+        },
+        {
+          "base": "体育",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "タイイク",
+          "reading": "たいいく",
+          "surface": "体育",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "終わる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "オワリ",
+          "reading": "おわりで",
+          "surface": "終わりで",
+          "curPos": "v"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "I",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "'",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "m",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "so",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "tired",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")",
+          "curPos": "/",
+          "left": true
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "surface": "変わらないシャンプーのいい香り (U brought spring)",
+      "words": [
+        {
+          "base": "変わる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カワラ",
+          "reading": "かわらない",
+          "surface": "変わらない",
+          "curPos": "v"
+        },
+        {
+          "base": "シャンプー",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "シャンプー",
+          "reading": "",
+          "surface": "シャンプー",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "いい",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "イイ",
+          "reading": "",
+          "surface": "いい",
+          "curPos": "a"
+        },
+        {
+          "base": "香り",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カオリ",
+          "reading": "かおり",
+          "surface": "香り",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "U",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "brought",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "spring",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")",
+          "curPos": "/",
+          "left": true
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "surface": "希望とは違う委員になっても (駄々こねずに)",
+      "words": [
+        {
+          "base": "希望",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "キボー",
+          "reading": "きぼう",
+          "surface": "希望",
+          "curPos": "n"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,格助詞,引用,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "違う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "チガウ",
+          "reading": "ちがう",
+          "surface": "違う",
+          "curPos": "v"
+        },
+        {
+          "base": "委員",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "イイン",
+          "reading": "いいん",
+          "surface": "委員",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "なる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナッ",
+          "reading": "",
+          "surface": "なって",
+          "curPos": "v"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "駄々",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ダダ",
+          "reading": "だだ",
+          "surface": "駄々",
+          "curPos": "n"
+        },
+        {
+          "base": "こねる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "コネ",
+          "reading": "",
+          "surface": "こねず",
+          "curPos": "v"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")",
+          "curPos": "/",
+          "left": true
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "surface": "テキパキこなしては 表彰されちゃうんだって!",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "テキパキ",
+          "curPos": "n"
+        },
+        {
+          "base": "こなす",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "コナシ",
+          "reading": "",
+          "surface": "こなして",
+          "curPos": "v"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "表彰",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ヒョーショー",
+          "reading": "ひょうしょう",
+          "surface": "表彰",
+          "curPos": "n"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "サ",
+          "reading": "",
+          "surface": "さ",
+          "curPos": "v"
+        },
+        {
+          "base": "れる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "レ",
+          "reading": "",
+          "surface": "れ",
+          "curPos": "v"
+        },
+        {
+          "base": "ちゃう",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "チャウ",
+          "reading": "",
+          "surface": "ちゃう",
+          "curPos": "v"
+        },
+        {
+          "base": "ん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ン",
+          "reading": "",
+          "surface": "ん",
+          "curPos": "n"
+        },
+        {
+          "base": "だって",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ダッテ",
+          "reading": "",
+          "surface": "だって",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "surface": "ポロっと泣いちゃっては さらっと忘れて",
+      "words": [
+        {
+          "base": "ポロ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ポロ",
+          "reading": "",
+          "surface": "ポロ",
+          "curPos": "n"
+        },
+        {
+          "base": "っと",
+          "pos": "助詞,格助詞,引用,*",
+          "pronunciation": "ット",
+          "reading": "",
+          "surface": "っと",
+          "curPos": "av"
+        },
+        {
+          "base": "泣く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナイ",
+          "reading": "ない",
+          "surface": "泣い",
+          "curPos": "v"
+        },
+        {
+          "base": "ちゃう",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "チャッ",
+          "reading": "",
+          "surface": "ちゃって",
+          "curPos": "v"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "さらう",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "サラッ",
+          "reading": "",
+          "surface": "さらっ",
+          "curPos": "v"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,格助詞,引用,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "忘れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ワスレ",
+          "reading": "わすれて",
+          "surface": "忘れて",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "surface": "鼻歌で切ないメロ熱唱 (Are u okay?)",
+      "words": [
+        {
+          "base": "鼻歌",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ハナウタ",
+          "reading": "はなうた",
+          "surface": "鼻歌",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "切ない",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "セツナイ",
+          "reading": "せつない",
+          "surface": "切ない",
+          "curPos": "a"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "メロ",
+          "curPos": "n"
+        },
+        {
+          "base": "熱唱",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ネッショー",
+          "reading": "ねっしょう",
+          "surface": "熱唱",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Are",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "u",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "okay",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "?)",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "surface": "どっち?どっち?どっちなの? まだNobody knows",
+      "words": [
+        {
+          "base": "どっち",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ドッチ",
+          "reading": "",
+          "surface": "どっち",
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "?",
+          "curPos": "n"
+        },
+        {
+          "base": "どっち",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ドッチ",
+          "reading": "",
+          "surface": "どっち",
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "?",
+          "curPos": "n"
+        },
+        {
+          "base": "どっち",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ドッチ",
+          "reading": "",
+          "surface": "どっち",
+          "curPos": "/"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "?",
+          "curPos": "n"
+        },
+        {
+          "base": "まだ",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "マダ",
+          "reading": "",
+          "surface": "まだ",
+          "curPos": "adv"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Nobody",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "knows",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "surface": "流行メイキン 雑誌より School girl! School girl!",
+      "words": [
+        {
+          "base": "流行",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "リューコー",
+          "reading": "りゅうこう",
+          "surface": "流行",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "メイキン",
+          "curPos": "n"
+        },
+        {
+          "base": "雑誌",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ザッシ",
+          "reading": "ざっし",
+          "surface": "雑誌",
+          "curPos": "n"
+        },
+        {
+          "base": "より",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヨリ",
+          "reading": "",
+          "surface": "より",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "surface": "だけど 光速で すたれるマジック",
+      "words": [
+        {
+          "base": "だけど",
+          "pos": "接続詞,*,*,*",
+          "pronunciation": "ダケド",
+          "reading": "",
+          "surface": "だけど",
+          "curPos": "/"
+        },
+        {
+          "base": "光速",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "コーソク",
+          "reading": "こうそく",
+          "surface": "光速",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "すたれる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "スタレル",
+          "reading": "",
+          "surface": "すたれる",
+          "curPos": "v"
+        },
+        {
+          "base": "マジック",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "マジック",
+          "reading": "",
+          "surface": "マジック",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "surface": "減速は 風邪だけ School girl! School girl!",
+      "words": [
+        {
+          "base": "減速",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ゲンソク",
+          "reading": "げんそく",
+          "surface": "減速",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "風邪",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カゼ",
+          "reading": "かぜ",
+          "surface": "風邪",
+          "curPos": "n"
+        },
+        {
+          "base": "だけ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ダケ",
+          "reading": "",
+          "surface": "だけ",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "surface": "だけど 先生さえ 気づかぬマジック",
+      "words": [
+        {
+          "base": "だけど",
+          "pos": "接続詞,*,*,*",
+          "pronunciation": "ダケド",
+          "reading": "",
+          "surface": "だけど",
+          "curPos": "/"
+        },
+        {
+          "base": "先生",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "センセイ",
+          "reading": "せんせい",
+          "surface": "先生",
+          "curPos": "n"
+        },
+        {
+          "base": "さえ",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "サエ",
+          "reading": "",
+          "surface": "さえ",
+          "curPos": "av"
+        },
+        {
+          "base": "気づく",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "キズカ",
+          "reading": "きづかぬ",
+          "surface": "気づかぬ",
+          "curPos": "v"
+        },
+        {
+          "base": "マジック",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "マジック",
+          "reading": "",
+          "surface": "マジック",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "surface": "痩せたいと 呟いて チョコほおばったら",
+      "words": [
+        {
+          "base": "痩せる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヤセ",
+          "reading": "やせたい",
+          "surface": "痩せたい",
+          "curPos": "v"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,格助詞,引用,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "呟く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ツブヤイ",
+          "reading": "つぶやいて",
+          "surface": "呟いて",
+          "curPos": "v"
+        },
+        {
+          "base": "チョコ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "チョコ",
+          "reading": "",
+          "surface": "チョコ",
+          "curPos": "n"
+        },
+        {
+          "base": "ほおばる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ホーバッ",
+          "reading": "",
+          "surface": "ほおばったら",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "surface": "さあ 予備電力供給で School girl! Go your way",
+      "words": [
+        {
+          "base": "さあ",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "サー",
+          "reading": "",
+          "surface": "さあ",
+          "curPos": "/"
+        },
+        {
+          "base": "予備",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヨビ",
+          "reading": "よび",
+          "surface": "予備",
+          "curPos": "n"
+        },
+        {
+          "base": "電力",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "デンリョク",
+          "reading": "でんりょく",
+          "surface": "電力",
+          "curPos": "n"
+        },
+        {
+          "base": "供給",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "キョーキュー",
+          "reading": "きょうきゅう",
+          "surface": "供給",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Go",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "your",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "way",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "surface": "ダメって言ったってさ いいって言ったってさ",
+      "words": [
+        {
+          "base": "ダメ",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ダメ",
+          "reading": "",
+          "surface": "ダメ",
+          "curPos": "n"
+        },
+        {
+          "base": "って",
+          "pos": "助詞,格助詞,連語,*",
+          "pronunciation": "ッテ",
+          "reading": "",
+          "surface": "って",
+          "curPos": "av"
+        },
+        {
+          "base": "言う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イッ",
+          "reading": "いっ",
+          "surface": "言っ",
+          "curPos": "v"
+        },
+        {
+          "base": "たって",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "タッテ",
+          "reading": "",
+          "surface": "たって",
+          "curPos": "av"
+        },
+        {
+          "base": "さ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "サ",
+          "reading": "",
+          "surface": "さ",
+          "curPos": "av"
+        },
+        {
+          "base": "いい",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "イイッ",
+          "reading": "",
+          "surface": "いいっ",
+          "curPos": "a"
+        },
+        {
+          "base": "て",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "テ",
+          "reading": "",
+          "surface": "て",
+          "curPos": "av"
+        },
+        {
+          "base": "言う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イッ",
+          "reading": "いっ",
+          "surface": "言っ",
+          "curPos": "v"
+        },
+        {
+          "base": "たって",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "タッテ",
+          "reading": "",
+          "surface": "たって",
+          "curPos": "av"
+        },
+        {
+          "base": "さ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "サ",
+          "reading": "",
+          "surface": "さ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "surface": "いつでもね 両方含んでる (I know girls)",
+      "words": [
+        {
+          "base": "いつ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "イツ",
+          "reading": "",
+          "surface": "いつ",
+          "curPos": "/"
+        },
+        {
+          "base": "でも",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "デモ",
+          "reading": "",
+          "surface": "でも",
+          "curPos": "av"
+        },
+        {
+          "base": "ね",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ネ",
+          "reading": "",
+          "surface": "ね",
+          "curPos": "av"
+        },
+        {
+          "base": "両方",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "リョーホー",
+          "reading": "りょうほう",
+          "surface": "両方",
+          "curPos": "n"
+        },
+        {
+          "base": "含む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "フクン",
+          "reading": "ふくん",
+          "surface": "含ん",
+          "curPos": "v"
+        },
+        {
+          "base": "でる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "デル",
+          "reading": "",
+          "surface": "でる",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "I",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "know",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girls",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")",
+          "curPos": "/",
+          "left": true
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "surface": "どっち?どっち?どっちなの? 永久(とわ)に解けない",
+      "words": [
+        {
+          "base": "どっち",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ドッチ",
+          "reading": "",
+          "surface": "どっち",
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "?",
+          "curPos": "n"
+        },
+        {
+          "base": "どっち",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ドッチ",
+          "reading": "",
+          "surface": "どっち",
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "?",
+          "curPos": "n"
+        },
+        {
+          "base": "どっち",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ドッチ",
+          "reading": "",
+          "surface": "どっち",
+          "curPos": "/"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "?",
+          "curPos": "n"
+        },
+        {
+          "base": "永久",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "エイキュー",
+          "reading": "えいきゅう",
+          "surface": "永久",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "(",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "とわ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "トワ",
+          "reading": "",
+          "surface": "とわ",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ")",
+          "curPos": "/",
+          "left": true
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "解ける",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "トケ",
+          "reading": "とけない",
+          "surface": "解けない",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "surface": "弾丸トーキン 全力で School girl! School girl!",
+      "words": [
+        {
+          "base": "弾丸",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ダンガン",
+          "reading": "だんがん",
+          "surface": "弾丸",
+          "curPos": "n"
+        },
+        {
+          "base": "トーキン",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "トーキン",
+          "reading": "",
+          "surface": "トーキン",
+          "curPos": "n"
+        },
+        {
+          "base": "全力",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ゼンリョク",
+          "reading": "ぜんりょく",
+          "surface": "全力",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "surface": "だけど 試験は全部 そつないマジック",
+      "words": [
+        {
+          "base": "だけど",
+          "pos": "接続詞,*,*,*",
+          "pronunciation": "ダケド",
+          "reading": "",
+          "surface": "だけど",
+          "curPos": "/"
+        },
+        {
+          "base": "試験",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "シケン",
+          "reading": "しけん",
+          "surface": "試験",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "全部",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "ゼンブ",
+          "reading": "ぜんぶ",
+          "surface": "全部",
+          "curPos": "n"
+        },
+        {
+          "base": "そつ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ソツ",
+          "reading": "",
+          "surface": "そつ",
+          "curPos": "n"
+        },
+        {
+          "base": "ない",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ナイ",
+          "reading": "",
+          "surface": "ない",
+          "curPos": "a"
+        },
+        {
+          "base": "マジック",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "マジック",
+          "reading": "",
+          "surface": "マジック",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "surface": "倍速で 進めよ School girl! School girl!",
+      "words": [
+        {
+          "base": "倍速",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "バイソク",
+          "reading": "ばいそく",
+          "surface": "倍速",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "進める",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ススメヨ",
+          "reading": "すすめよ",
+          "surface": "進めよ",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "surface": "だけど 制服は よれないマジック",
+      "words": [
+        {
+          "base": "だけど",
+          "pos": "接続詞,*,*,*",
+          "pronunciation": "ダケド",
+          "reading": "",
+          "surface": "だけど",
+          "curPos": "/"
+        },
+        {
+          "base": "制服",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "セイフク",
+          "reading": "せいふく",
+          "surface": "制服",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "よれる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヨレ",
+          "reading": "",
+          "surface": "よれない",
+          "curPos": "v"
+        },
+        {
+          "base": "マジック",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "マジック",
+          "reading": "",
+          "surface": "マジック",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "surface": "子供でも 泣きそうな 小さなランチで",
+      "words": [
+        {
+          "base": "子供",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "コドモ",
+          "reading": "こども",
+          "surface": "子供",
+          "curPos": "n"
+        },
+        {
+          "base": "でも",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "デモ",
+          "reading": "",
+          "surface": "でも",
+          "curPos": "av"
+        },
+        {
+          "base": "泣く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナキ",
+          "reading": "なきそうな",
+          "surface": "泣きそうな",
+          "curPos": "a"
+        },
+        {
+          "base": "小さな",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "チーサナ",
+          "reading": "ちいさな",
+          "surface": "小さな",
+          "curPos": "/"
+        },
+        {
+          "base": "ランチ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ランチ",
+          "reading": "",
+          "surface": "ランチ",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "surface": "さあ フル充電完了な School girl! Go your way",
+      "words": [
+        {
+          "base": "さあ",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "サー",
+          "reading": "",
+          "surface": "さあ",
+          "curPos": "/"
+        },
+        {
+          "base": "フル",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "フル",
+          "reading": "",
+          "surface": "フル",
+          "curPos": "n"
+        },
+        {
+          "base": "充電",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ジューデン",
+          "reading": "じゅうでん",
+          "surface": "充電",
+          "curPos": "n"
+        },
+        {
+          "base": "完了",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "カンリョー",
+          "reading": "かんりょう",
+          "surface": "完了",
+          "curPos": "n"
+        },
+        {
+          "base": "な",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Go",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "your",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "way",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "surface": "流行メイキン 雑誌より School girl! School girl!",
+      "words": [
+        {
+          "base": "流行",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "リューコー",
+          "reading": "りゅうこう",
+          "surface": "流行",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "メイキン",
+          "curPos": "n"
+        },
+        {
+          "base": "雑誌",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ザッシ",
+          "reading": "ざっし",
+          "surface": "雑誌",
+          "curPos": "n"
+        },
+        {
+          "base": "より",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヨリ",
+          "reading": "",
+          "surface": "より",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "surface": "だけど 光速で すたれるマジック",
+      "words": [
+        {
+          "base": "だけど",
+          "pos": "接続詞,*,*,*",
+          "pronunciation": "ダケド",
+          "reading": "",
+          "surface": "だけど",
+          "curPos": "/"
+        },
+        {
+          "base": "光速",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "コーソク",
+          "reading": "こうそく",
+          "surface": "光速",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "すたれる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "スタレル",
+          "reading": "",
+          "surface": "すたれる",
+          "curPos": "v"
+        },
+        {
+          "base": "マジック",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "マジック",
+          "reading": "",
+          "surface": "マジック",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "surface": "減速は 風邪だけ School girl! School girl!",
+      "words": [
+        {
+          "base": "減速",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "ゲンソク",
+          "reading": "げんそく",
+          "surface": "減速",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "風邪",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カゼ",
+          "reading": "かぜ",
+          "surface": "風邪",
+          "curPos": "n"
+        },
+        {
+          "base": "だけ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ダケ",
+          "reading": "",
+          "surface": "だけ",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "surface": "だけど 先生さえ 気づかぬマジック",
+      "words": [
+        {
+          "base": "だけど",
+          "pos": "接続詞,*,*,*",
+          "pronunciation": "ダケド",
+          "reading": "",
+          "surface": "だけど",
+          "curPos": "/"
+        },
+        {
+          "base": "先生",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "センセイ",
+          "reading": "せんせい",
+          "surface": "先生",
+          "curPos": "n"
+        },
+        {
+          "base": "さえ",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "サエ",
+          "reading": "",
+          "surface": "さえ",
+          "curPos": "av"
+        },
+        {
+          "base": "気づく",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "キズカ",
+          "reading": "きづかぬ",
+          "surface": "気づかぬ",
+          "curPos": "v"
+        },
+        {
+          "base": "マジック",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "マジック",
+          "reading": "",
+          "surface": "マジック",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "surface": "痩せたいと 呟いて チョコほおばったら",
+      "words": [
+        {
+          "base": "痩せる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヤセ",
+          "reading": "やせたい",
+          "surface": "痩せたい",
+          "curPos": "v"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,格助詞,引用,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "呟く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ツブヤイ",
+          "reading": "つぶやいて",
+          "surface": "呟いて",
+          "curPos": "v"
+        },
+        {
+          "base": "チョコ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "チョコ",
+          "reading": "",
+          "surface": "チョコ",
+          "curPos": "n"
+        },
+        {
+          "base": "ほおばる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ホーバッ",
+          "reading": "",
+          "surface": "ほおばったら",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "surface": "さあ 予備電力供給で School girl! Go your way",
+      "words": [
+        {
+          "base": "さあ",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "サー",
+          "reading": "",
+          "surface": "さあ",
+          "curPos": "/"
+        },
+        {
+          "base": "予備",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヨビ",
+          "reading": "よび",
+          "surface": "予備",
+          "curPos": "n"
+        },
+        {
+          "base": "電力",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "デンリョク",
+          "reading": "でんりょく",
+          "surface": "電力",
+          "curPos": "n"
+        },
+        {
+          "base": "供給",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "キョーキュー",
+          "reading": "きょうきゅう",
+          "surface": "供給",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Go",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "your",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "way",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "surface": "いざ School girl! Go your way",
+      "words": [
+        {
+          "base": "いざ",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "イザ",
+          "reading": "",
+          "surface": "いざ",
+          "curPos": "adv"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "School",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "girl",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "!",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Go",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "your",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "way",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "surface": "",
+      "words": []
+    }
+  ],
+  "pureLrc": [
+    "今日も一日が始まるよ (Ring ring a bell)",
+    "朝からハイテンションな君たち (U're always fine)",
+    "眠そうな僕より夜更かしで (何してたの?)",
+    "ピカピカになるまで その爪磨いたんだって?",
+    "ずばっと正論言って キリっと大人ぶって",
+    "でもノートにウサギの落書き (Jumpin' rabbit)",
+    "どっち?どっち?どっちなの? まだNobody knows",
+    "弾丸トーキン 全力で School girl! School girl!",
+    "だけど 試験は全部 そつないマジック",
+    "倍速で 進めよ School girl! School girl!",
+    "だけど 制服は よれないマジック",
+    "子供でも 泣きそうな 小さなランチで",
+    "さあ フル充電完了な School girl! Go your way",
+    "汗だく体育の終わりでも (I'm so tired)",
+    "変わらないシャンプーのいい香り (U brought spring)",
+    "希望とは違う委員になっても (駄々こねずに)",
+    "テキパキこなしては 表彰されちゃうんだって!",
+    "ポロっと泣いちゃっては さらっと忘れて",
+    "鼻歌で切ないメロ熱唱 (Are u okay?)",
+    "どっち?どっち?どっちなの? まだNobody knows",
+    "流行メイキン 雑誌より School girl! School girl!",
+    "だけど 光速で すたれるマジック",
+    "減速は 風邪だけ School girl! School girl!",
+    "だけど 先生さえ 気づかぬマジック",
+    "痩せたいと 呟いて チョコほおばったら",
+    "さあ 予備電力供給で School girl! Go your way",
+    "ダメって言ったってさ いいって言ったってさ",
+    "いつでもね 両方含んでる (I know girls)",
+    "どっち?どっち?どっちなの? 永久(とわ)に解けない",
+    "弾丸トーキン 全力で School girl! School girl!",
+    "だけど 試験は全部 そつないマジック",
+    "倍速で 進めよ School girl! School girl!",
+    "だけど 制服は よれないマジック",
+    "子供でも 泣きそうな 小さなランチで",
+    "さあ フル充電完了な School girl! Go your way",
+    "流行メイキン 雑誌より School girl! School girl!",
+    "だけど 光速で すたれるマジック",
+    "減速は 風邪だけ School girl! School girl!",
+    "だけど 先生さえ 気づかぬマジック",
+    "痩せたいと 呟いて チョコほおばったら",
+    "さあ 予備電力供給で School girl! Go your way",
+    "いざ School girl! Go your way",
+    ""
+  ]
+}

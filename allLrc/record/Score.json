@@ -1,0 +1,2258 @@
+{
+  "name": "Score",
+  "artist": ["Hey!Say!BEST"],
+  "producer": [
+    {
+      "label": "作詞",
+      "value": ["薮宏太", "八乙女光"]
+    },
+    {
+      "label": "作曲",
+      "value": ["Joey Carbone", "STEVEN LEE"]
+    }
+  ],
+  "lrc": [
+    {
+      "id": 0,
+      "surface": "ありがとう 流れる五つのメロディ僕には見えるよ",
+      "words": [
+        {
+          "base": "ありがとう",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "アリガトー",
+          "reading": "",
+          "surface": "ありがとう",
+          "curPos": "/"
+        },
+        {
+          "base": "流れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナガレル",
+          "reading": "ながれる",
+          "surface": "流れる",
+          "curPos": "v"
+        },
+        {
+          "base": "五つ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "イツツ",
+          "reading": "いつつ",
+          "surface": "五つ",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "メロディ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "メロディ",
+          "reading": "",
+          "surface": "メロディ",
+          "curPos": "n"
+        },
+        {
+          "base": "僕",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボク",
+          "reading": "ぼく",
+          "surface": "僕",
+          "curPos": "/"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "見える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミエル",
+          "reading": "みえる",
+          "surface": "見える",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "surface": "並び合った音符たちが見栄張り合いながら",
+      "words": [
+        {
+          "base": "並ぶ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナラビ",
+          "reading": "ならび",
+          "surface": "並び",
+          "curPos": "v"
+        },
+        {
+          "base": "合う",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "アッ",
+          "reading": "あった",
+          "surface": "合った",
+          "curPos": "v"
+        },
+        {
+          "base": "音符",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "オンプ",
+          "reading": "おんぷ",
+          "surface": "音符",
+          "curPos": "n"
+        },
+        {
+          "base": "たち",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "タチ",
+          "reading": "",
+          "surface": "たち",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "見栄",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミエ",
+          "reading": "みえ",
+          "surface": "見栄",
+          "curPos": "n"
+        },
+        {
+          "base": "張り合う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハリアイ",
+          "reading": "はりあい",
+          "surface": "張り合い",
+          "curPos": "v"
+        },
+        {
+          "base": "ながら",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "ナガラ",
+          "reading": "",
+          "surface": "ながら",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "surface": "信じてる五つのメロディ僕には見えるよ",
+      "words": [
+        {
+          "base": "信じる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シンジ",
+          "reading": "しんじ",
+          "surface": "信じ",
+          "curPos": "v"
+        },
+        {
+          "base": "てる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "テル",
+          "reading": "",
+          "surface": "てる",
+          "curPos": "v"
+        },
+        {
+          "base": "五つ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "イツツ",
+          "reading": "いつつ",
+          "surface": "五つ",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "メロディ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "メロディ",
+          "reading": "",
+          "surface": "メロディ",
+          "curPos": "n"
+        },
+        {
+          "base": "僕",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボク",
+          "reading": "ぼく",
+          "surface": "僕",
+          "curPos": "/"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "見える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミエル",
+          "reading": "みえる",
+          "surface": "見える",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "surface": "旅路という線にのって",
+      "words": [
+        {
+          "base": "旅路",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "タビジ",
+          "reading": "たびじ",
+          "surface": "旅路",
+          "curPos": "n"
+        },
+        {
+          "base": "という",
+          "pos": "助詞,格助詞,連語,*",
+          "pronunciation": "トユウ",
+          "reading": "",
+          "surface": "という",
+          "curPos": "av"
+        },
+        {
+          "base": "線",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "セン",
+          "reading": "せん",
+          "surface": "線",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "のる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ノッ",
+          "reading": "",
+          "surface": "のって",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "surface": "まだ見えない明日にいまを歌おう",
+      "words": [
+        {
+          "base": "まだ",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "マダ",
+          "reading": "",
+          "surface": "まだ",
+          "curPos": "adv"
+        },
+        {
+          "base": "見える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミエ",
+          "reading": "みえない",
+          "surface": "見えない",
+          "curPos": "v"
+        },
+        {
+          "base": "明日",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "アシタ",
+          "reading": "あした",
+          "surface": "明日",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "いま",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "イマ",
+          "reading": "",
+          "surface": "いま",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "歌う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ウタオ",
+          "reading": "うたおう",
+          "surface": "歌おう",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 6,
+      "surface": "HEY",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "HEY",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "surface": "B Brother 僕らと共に未知のトビラを開こう",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "B",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Brother",
+          "curPos": "n"
+        },
+        {
+          "base": "僕ら",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボクラ",
+          "reading": "ぼくら",
+          "surface": "僕ら",
+          "curPos": "/"
+        },
+        {
+          "base": "と共に",
+          "pos": "助詞,格助詞,連語,*",
+          "pronunciation": "トトモニ",
+          "reading": "とともに",
+          "surface": "と共に",
+          "curPos": "av"
+        },
+        {
+          "base": "未知",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミチ",
+          "reading": "みち",
+          "surface": "未知",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "トビラ",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "開く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヒラコ",
+          "reading": "ひらこう",
+          "surface": "開こう",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "surface": "E Easy Going 気楽に気長にそう Step And Jump",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "E",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Easy",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Going",
+          "curPos": "n"
+        },
+        {
+          "base": "気楽",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "キラク",
+          "reading": "きらく",
+          "surface": "気楽",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,副詞化,*,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "気長",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "キナガ",
+          "reading": "きなが",
+          "surface": "気長",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,副詞化,*,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "そう",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "ソー",
+          "reading": "",
+          "surface": "そう",
+          "curPos": "adv"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Step",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "And",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Jump",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "surface": "S Smile 互いの笑顔の輝きを放って",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "S",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Smile",
+          "curPos": "n"
+        },
+        {
+          "base": "互い",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "タガイ",
+          "reading": "たがい",
+          "surface": "互い",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "笑顔",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "エガオ",
+          "reading": "えがお",
+          "surface": "笑顔",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "輝き",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カガヤキ",
+          "reading": "かがやき",
+          "surface": "輝き",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "放つ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハナッ",
+          "reading": "はなって",
+          "surface": "放って",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "surface": "T Time 魔法じゃないこの瞬間 人生一番のBEST",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "T",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Time",
+          "curPos": "n"
+        },
+        {
+          "base": "魔法",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "マホー",
+          "reading": "まほう",
+          "surface": "魔法",
+          "curPos": "n"
+        },
+        {
+          "base": "じゃ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ジャ",
+          "reading": "",
+          "surface": "じゃ",
+          "curPos": "av"
+        },
+        {
+          "base": "ない",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナイ",
+          "reading": "",
+          "surface": "ない",
+          "curPos": "mv"
+        },
+        {
+          "base": "この",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "コノ",
+          "reading": "",
+          "surface": "この",
+          "curPos": "/"
+        },
+        {
+          "base": "瞬間",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "シュンカン",
+          "reading": "しゅんかん",
+          "surface": "瞬間",
+          "curPos": "n"
+        },
+        {
+          "base": "人生",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ジンセイ",
+          "reading": "じんせい",
+          "surface": "人生",
+          "curPos": "n"
+        },
+        {
+          "base": "一",
+          "pos": "名詞,数,*,*",
+          "pronunciation": "イチ",
+          "reading": "いちばん",
+          "surface": "一番",
+          "curPos": "/"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "BEST",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 12,
+      "surface": "目の前の五本線",
+      "words": [
+        {
+          "base": "目",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "メ",
+          "reading": "め",
+          "surface": "目",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "前",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "マエ",
+          "reading": "まえ",
+          "surface": "前",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "五",
+          "pos": "名詞,数,*,*",
+          "pronunciation": "ゴ",
+          "reading": "ご",
+          "surface": "五",
+          "curPos": "/"
+        },
+        {
+          "base": "本線",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ホンセン",
+          "reading": "ほんせん",
+          "surface": "本線",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "surface": "合わさることはないけど",
+      "words": [
+        {
+          "base": "合わさる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "アワサル",
+          "reading": "あわさる",
+          "surface": "合わさる",
+          "curPos": "v"
+        },
+        {
+          "base": "こと",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "コト",
+          "reading": "",
+          "surface": "こと",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "ない",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナイ",
+          "reading": "",
+          "surface": "ない",
+          "curPos": "mv"
+        },
+        {
+          "base": "けど",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "ケド",
+          "reading": "",
+          "surface": "けど",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "surface": "いつでもとなりで僕も奏でるよ",
+      "words": [
+        {
+          "base": "いつ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "イツ",
+          "reading": "",
+          "surface": "いつ",
+          "curPos": "/"
+        },
+        {
+          "base": "でも",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "デモ",
+          "reading": "",
+          "surface": "でも",
+          "curPos": "av"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,格助詞,引用,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "なり",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ナリ",
+          "reading": "",
+          "surface": "なり",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "僕",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボク",
+          "reading": "ぼく",
+          "surface": "僕",
+          "curPos": "/"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "奏でる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カナデル",
+          "reading": "かなでる",
+          "surface": "奏でる",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 16,
+      "surface": "歩いていくリズムや強さは違うけど",
+      "words": [
+        {
+          "base": "歩く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "アルイ",
+          "reading": "あるいて",
+          "surface": "歩いて",
+          "curPos": "v"
+        },
+        {
+          "base": "いく",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イク",
+          "reading": "",
+          "surface": "いく",
+          "curPos": "v"
+        },
+        {
+          "base": "リズム",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "リズム",
+          "reading": "",
+          "surface": "リズム",
+          "curPos": "n"
+        },
+        {
+          "base": "や",
+          "pos": "助詞,並立助詞,*,*",
+          "pronunciation": "ヤ",
+          "reading": "",
+          "surface": "や",
+          "curPos": "av"
+        },
+        {
+          "base": "強い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ツヨ",
+          "reading": "つよ",
+          "surface": "強",
+          "curPos": "a"
+        },
+        {
+          "base": "さ",
+          "pos": "名詞,接尾,特殊,*",
+          "pronunciation": "サ",
+          "reading": "",
+          "surface": "さ",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "違う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "チガウ",
+          "reading": "ちがう",
+          "surface": "違う",
+          "curPos": "v"
+        },
+        {
+          "base": "けど",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "ケド",
+          "reading": "",
+          "surface": "けど",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "surface": "並ぶ度生まれる絆のハーモニー",
+      "words": [
+        {
+          "base": "並ぶ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナラブ",
+          "reading": "ならぶ",
+          "surface": "並ぶ",
+          "curPos": "v"
+        },
+        {
+          "base": "度",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "タビ",
+          "reading": "たび",
+          "surface": "度",
+          "curPos": "n"
+        },
+        {
+          "base": "生まれる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ウマレル",
+          "reading": "うまれる",
+          "surface": "生まれる",
+          "curPos": "v"
+        },
+        {
+          "base": "絆",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "キズナ",
+          "reading": "きずな",
+          "surface": "絆",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "ハーモニー",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ハーモニー",
+          "reading": "",
+          "surface": "ハーモニー",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 19,
+      "surface": "そっと上見て空見て君には見える",
+      "words": [
+        {
+          "base": "そっと",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ソット",
+          "reading": "",
+          "surface": "そっと",
+          "curPos": "adv"
+        },
+        {
+          "base": "上",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ウエ",
+          "reading": "うえ",
+          "surface": "上",
+          "curPos": "n"
+        },
+        {
+          "base": "見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミ",
+          "reading": "みて",
+          "surface": "見て",
+          "curPos": "v"
+        },
+        {
+          "base": "空",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ソラ",
+          "reading": "そら",
+          "surface": "空",
+          "curPos": "n"
+        },
+        {
+          "base": "見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミ",
+          "reading": "みて",
+          "surface": "見て",
+          "curPos": "v"
+        },
+        {
+          "base": "君",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "きみ",
+          "surface": "君",
+          "curPos": "/"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "見える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミエル",
+          "reading": "みえる",
+          "surface": "見える",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "surface": "この僕らだけの楽譜が",
+      "words": [
+        {
+          "base": "この",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "コノ",
+          "reading": "",
+          "surface": "この",
+          "curPos": "/"
+        },
+        {
+          "base": "僕ら",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボクラ",
+          "reading": "ぼくら",
+          "surface": "僕ら",
+          "curPos": "/"
+        },
+        {
+          "base": "だけ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ダケ",
+          "reading": "",
+          "surface": "だけ",
+          "curPos": "av"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "楽譜",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ガクフ",
+          "reading": "がくふ",
+          "surface": "楽譜",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 22,
+      "surface": "ありがとう 流れる五つのメロディ僕には見えるよ",
+      "words": [
+        {
+          "base": "ありがとう",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "アリガトー",
+          "reading": "",
+          "surface": "ありがとう",
+          "curPos": "/"
+        },
+        {
+          "base": "流れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナガレル",
+          "reading": "ながれる",
+          "surface": "流れる",
+          "curPos": "v"
+        },
+        {
+          "base": "五つ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "イツツ",
+          "reading": "いつつ",
+          "surface": "五つ",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "メロディ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "メロディ",
+          "reading": "",
+          "surface": "メロディ",
+          "curPos": "n"
+        },
+        {
+          "base": "僕",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボク",
+          "reading": "ぼく",
+          "surface": "僕",
+          "curPos": "/"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "見える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミエル",
+          "reading": "みえる",
+          "surface": "見える",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "surface": "並び合った音符たちが見栄張り合いながら",
+      "words": [
+        {
+          "base": "並ぶ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナラビ",
+          "reading": "ならび",
+          "surface": "並び",
+          "curPos": "v"
+        },
+        {
+          "base": "合う",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "アッ",
+          "reading": "あった",
+          "surface": "合った",
+          "curPos": "v"
+        },
+        {
+          "base": "音符",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "オンプ",
+          "reading": "おんぷ",
+          "surface": "音符",
+          "curPos": "n"
+        },
+        {
+          "base": "たち",
+          "pos": "名詞,接尾,一般,*",
+          "pronunciation": "タチ",
+          "reading": "",
+          "surface": "たち",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "見栄",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミエ",
+          "reading": "みえ",
+          "surface": "見栄",
+          "curPos": "n"
+        },
+        {
+          "base": "張り合う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハリアイ",
+          "reading": "はりあい",
+          "surface": "張り合い",
+          "curPos": "v"
+        },
+        {
+          "base": "ながら",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "ナガラ",
+          "reading": "",
+          "surface": "ながら",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "surface": "信じてる五つのメロディ僕には見えるよ",
+      "words": [
+        {
+          "base": "信じる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シンジ",
+          "reading": "しんじ",
+          "surface": "信じ",
+          "curPos": "v"
+        },
+        {
+          "base": "てる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "テル",
+          "reading": "",
+          "surface": "てる",
+          "curPos": "v"
+        },
+        {
+          "base": "五つ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "イツツ",
+          "reading": "いつつ",
+          "surface": "五つ",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "メロディ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "メロディ",
+          "reading": "",
+          "surface": "メロディ",
+          "curPos": "n"
+        },
+        {
+          "base": "僕",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボク",
+          "reading": "ぼく",
+          "surface": "僕",
+          "curPos": "/"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "見える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミエル",
+          "reading": "みえる",
+          "surface": "見える",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "surface": "旅路という線にのって",
+      "words": [
+        {
+          "base": "旅路",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "タビジ",
+          "reading": "たびじ",
+          "surface": "旅路",
+          "curPos": "n"
+        },
+        {
+          "base": "という",
+          "pos": "助詞,格助詞,連語,*",
+          "pronunciation": "トユウ",
+          "reading": "",
+          "surface": "という",
+          "curPos": "av"
+        },
+        {
+          "base": "線",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "セン",
+          "reading": "せん",
+          "surface": "線",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "のる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ノッ",
+          "reading": "",
+          "surface": "のって",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "surface": "まだ見えない明日にいまを歌おう",
+      "words": [
+        {
+          "base": "まだ",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "マダ",
+          "reading": "",
+          "surface": "まだ",
+          "curPos": "adv"
+        },
+        {
+          "base": "見える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミエ",
+          "reading": "みえない",
+          "surface": "見えない",
+          "curPos": "v"
+        },
+        {
+          "base": "明日",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "アシタ",
+          "reading": "あした",
+          "surface": "明日",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "いま",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "イマ",
+          "reading": "",
+          "surface": "いま",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "歌う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ウタオ",
+          "reading": "うたおう",
+          "surface": "歌おう",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 28,
+      "surface": "涙で前が見えないときは",
+      "words": [
+        {
+          "base": "涙",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ナミダ",
+          "reading": "なみだ",
+          "surface": "涙",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "前",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "マエ",
+          "reading": "まえ",
+          "surface": "前",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "見える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミエ",
+          "reading": "みえない",
+          "surface": "見えない",
+          "curPos": "v"
+        },
+        {
+          "base": "とき",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "トキ",
+          "reading": "",
+          "surface": "とき",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "surface": "ぎゅっとつないだ手を離さないよ",
+      "words": [
+        {
+          "base": "ぎゅっと",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ギュット",
+          "reading": "",
+          "surface": "ぎゅっと",
+          "curPos": "adv"
+        },
+        {
+          "base": "つなぐ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ツナイ",
+          "reading": "",
+          "surface": "つないだ",
+          "curPos": "v"
+        },
+        {
+          "base": "手",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "テ",
+          "reading": "て",
+          "surface": "手",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "離す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハナサ",
+          "reading": "はなさない",
+          "surface": "離さない",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 31,
+      "surface": "さあ 輝く笑顔から生まれるメロディ",
+      "words": [
+        {
+          "base": "さあ",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "サー",
+          "reading": "",
+          "surface": "さあ",
+          "curPos": "/"
+        },
+        {
+          "base": "輝く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カガヤク",
+          "reading": "かがやく",
+          "surface": "輝く",
+          "curPos": "v"
+        },
+        {
+          "base": "笑顔",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "エガオ",
+          "reading": "えがお",
+          "surface": "笑顔",
+          "curPos": "n"
+        },
+        {
+          "base": "から",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "カラ",
+          "reading": "",
+          "surface": "から",
+          "curPos": "av"
+        },
+        {
+          "base": "生まれる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ウマレル",
+          "reading": "うまれる",
+          "surface": "生まれる",
+          "curPos": "v"
+        },
+        {
+          "base": "メロディ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "メロディ",
+          "reading": "",
+          "surface": "メロディ",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "surface": "横を見ればいつでもBESTな仲間がいる",
+      "words": [
+        {
+          "base": "横",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヨコ",
+          "reading": "よこ",
+          "surface": "横",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "見る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミレ",
+          "reading": "みれ",
+          "surface": "見れ",
+          "curPos": "v"
+        },
+        {
+          "base": "ば",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "バ",
+          "reading": "",
+          "surface": "ば",
+          "curPos": "av"
+        },
+        {
+          "base": "いつ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "イツ",
+          "reading": "",
+          "surface": "いつ",
+          "curPos": "/"
+        },
+        {
+          "base": "でも",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "デモ",
+          "reading": "",
+          "surface": "でも",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "BEST",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        },
+        {
+          "base": "仲間",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ナカマ",
+          "reading": "なかま",
+          "surface": "仲間",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "いる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イル",
+          "reading": "",
+          "surface": "いる",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "surface": "夢を強く描く度にきらめくメモリー",
+      "words": [
+        {
+          "base": "夢",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ユメ",
+          "reading": "ゆめ",
+          "surface": "夢",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "強い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ツヨク",
+          "reading": "つよく",
+          "surface": "強く",
+          "curPos": "a"
+        },
+        {
+          "base": "描く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "エガク",
+          "reading": "えがく",
+          "surface": "描く",
+          "curPos": "v"
+        },
+        {
+          "base": "度",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "タビ",
+          "reading": "たび",
+          "surface": "度",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "きらめく",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "キラメク",
+          "reading": "",
+          "surface": "きらめく",
+          "curPos": "v"
+        },
+        {
+          "base": "メモリー",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "メモリー",
+          "reading": "",
+          "surface": "メモリー",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "surface": "希望という線にのって",
+      "words": [
+        {
+          "base": "希望",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "キボー",
+          "reading": "きぼう",
+          "surface": "希望",
+          "curPos": "n"
+        },
+        {
+          "base": "という",
+          "pos": "助詞,格助詞,連語,*",
+          "pronunciation": "トユウ",
+          "reading": "",
+          "surface": "という",
+          "curPos": "av"
+        },
+        {
+          "base": "線",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "セン",
+          "reading": "せん",
+          "surface": "線",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "のる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ノッ",
+          "reading": "",
+          "surface": "のって",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "surface": "まだ見えない未来にいまを叫ぼう",
+      "words": [
+        {
+          "base": "まだ",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "マダ",
+          "reading": "",
+          "surface": "まだ",
+          "curPos": "adv"
+        },
+        {
+          "base": "見える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミエ",
+          "reading": "みえない",
+          "surface": "見えない",
+          "curPos": "v"
+        },
+        {
+          "base": "未来",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミライ",
+          "reading": "みらい",
+          "surface": "未来",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "いま",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "イマ",
+          "reading": "",
+          "surface": "いま",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "叫ぶ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "サケボ",
+          "reading": "さけぼう",
+          "surface": "叫ぼう",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 37,
+      "surface": "ありがとう 流れる五つのメロディ僕には見えるよ",
+      "words": [
+        {
+          "base": "ありがとう",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "アリガトー",
+          "reading": "",
+          "surface": "ありがとう",
+          "curPos": "/"
+        },
+        {
+          "base": "流れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナガレル",
+          "reading": "ながれる",
+          "surface": "流れる",
+          "curPos": "v"
+        },
+        {
+          "base": "五つ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "イツツ",
+          "reading": "いつつ",
+          "surface": "五つ",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "メロディ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "メロディ",
+          "reading": "",
+          "surface": "メロディ",
+          "curPos": "n"
+        },
+        {
+          "base": "僕",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ボク",
+          "reading": "ぼく",
+          "surface": "僕",
+          "curPos": "/"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "見える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミエル",
+          "reading": "みえる",
+          "surface": "見える",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "surface": "旅路という線にのって",
+      "words": [
+        {
+          "base": "旅路",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "タビジ",
+          "reading": "たびじ",
+          "surface": "旅路",
+          "curPos": "n"
+        },
+        {
+          "base": "という",
+          "pos": "助詞,格助詞,連語,*",
+          "pronunciation": "トユウ",
+          "reading": "",
+          "surface": "という",
+          "curPos": "av"
+        },
+        {
+          "base": "線",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "セン",
+          "reading": "せん",
+          "surface": "線",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "のる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ノッ",
+          "reading": "",
+          "surface": "のって",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "surface": "まだ見えない明日にいまを歌おう",
+      "words": [
+        {
+          "base": "まだ",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "マダ",
+          "reading": "",
+          "surface": "まだ",
+          "curPos": "adv"
+        },
+        {
+          "base": "見える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ミエ",
+          "reading": "みえない",
+          "surface": "見えない",
+          "curPos": "v"
+        },
+        {
+          "base": "明日",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "アシタ",
+          "reading": "あした",
+          "surface": "明日",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "いま",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "イマ",
+          "reading": "",
+          "surface": "いま",
+          "curPos": "n"
+        },
+        {
+          "base": "を",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ヲ",
+          "reading": "",
+          "surface": "を",
+          "curPos": "av"
+        },
+        {
+          "base": "歌う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ウタオ",
+          "reading": "うたおう",
+          "surface": "歌おう",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "surface": "ありがとう",
+      "words": [
+        {
+          "base": "ありがとう",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "アリガトー",
+          "reading": "",
+          "surface": "ありがとう",
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "surface": "",
+      "words": []
+    }
+  ],
+  "pureLrc": [
+    "ありがとう 流れる五つのメロディ僕には見えるよ",
+    "並び合った音符たちが見栄張り合いながら",
+    "信じてる五つのメロディ僕には見えるよ",
+    "旅路という線にのって",
+    "まだ見えない明日にいまを歌おう",
+    "",
+    "HEY",
+    "B Brother 僕らと共に未知のトビラを開こう",
+    "E Easy Going 気楽に気長にそう Step And Jump",
+    "S Smile 互いの笑顔の輝きを放って",
+    "T Time 魔法じゃないこの瞬間 人生一番のBEST",
+    "",
+    "目の前の五本線",
+    "合わさることはないけど",
+    "いつでもとなりで僕も奏でるよ",
+    "",
+    "歩いていくリズムや強さは違うけど",
+    "並ぶ度生まれる絆のハーモニー",
+    "",
+    "そっと上見て空見て君には見える",
+    "この僕らだけの楽譜が",
+    "",
+    "ありがとう 流れる五つのメロディ僕には見えるよ",
+    "並び合った音符たちが見栄張り合いながら",
+    "信じてる五つのメロディ僕には見えるよ",
+    "旅路という線にのって",
+    "まだ見えない明日にいまを歌おう",
+    "",
+    "涙で前が見えないときは",
+    "ぎゅっとつないだ手を離さないよ",
+    "",
+    "さあ 輝く笑顔から生まれるメロディ",
+    "横を見ればいつでもBESTな仲間がいる",
+    "夢を強く描く度にきらめくメモリー",
+    "希望という線にのって",
+    "まだ見えない未来にいまを叫ぼう",
+    "",
+    "ありがとう 流れる五つのメロディ僕には見えるよ",
+    "旅路という線にのって",
+    "まだ見えない明日にいまを歌おう",
+    "ありがとう",
+    ""
+  ]
+}

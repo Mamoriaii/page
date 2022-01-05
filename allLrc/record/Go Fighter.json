@@ -1,0 +1,3246 @@
+{
+  "name": "Go Fighter",
+  "artist": [["八乙女光", "薮宏太"]],
+  "info": [
+    {
+      "label": "作詞",
+      "value": ["八乙女光", "薮宏太"]
+    },
+    {
+      "label": "作曲",
+      "value": ["Tommy Clint", "Atsushi Shimada"]
+    }
+  ],
+  "lrc": [
+    {
+      "id": 0,
+      "surface": "いつだって立ち上がる Fighter",
+      "words": [
+        {
+          "base": "いつ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "イツ",
+          "reading": "",
+          "surface": "いつ",
+          "curPos": "/"
+        },
+        {
+          "base": "だって",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ダッテ",
+          "reading": "",
+          "surface": "だって",
+          "curPos": "av"
+        },
+        {
+          "base": "立ち上がる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "タチアガル",
+          "reading": "たちあがる",
+          "surface": "立ち上がる",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Fighter",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "surface": "鳴らせかませ討て Soldier",
+      "words": [
+        {
+          "base": "鳴る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナラ",
+          "reading": "なら",
+          "surface": "鳴ら",
+          "curPos": "v"
+        },
+        {
+          "base": "せる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "セ",
+          "reading": "",
+          "surface": "せ",
+          "curPos": "v"
+        },
+        {
+          "base": "かむ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カマ",
+          "reading": "",
+          "surface": "かま",
+          "curPos": "v"
+        },
+        {
+          "base": "せる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "セ",
+          "reading": "",
+          "surface": "せ",
+          "curPos": "v"
+        },
+        {
+          "base": "討つ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ウテ",
+          "reading": "うて",
+          "surface": "討て",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Soldier",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "surface": "さぁはじめよう",
+      "words": [
+        {
+          "base": "さぁ",
+          "pos": "感動詞,*,*,*",
+          "pronunciation": "サー",
+          "reading": "",
+          "surface": "さぁ",
+          "curPos": "/"
+        },
+        {
+          "base": "はじめる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハジメヨ",
+          "reading": "",
+          "surface": "はじめよう",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 4,
+      "surface": "弱い Boss　まさに心に居る俺",
+      "words": [
+        {
+          "base": "弱い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ヨワイ",
+          "reading": "よわい",
+          "surface": "弱い",
+          "curPos": "a"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Boss",
+          "curPos": "n"
+        },
+        {
+          "base": "まさに",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "マサニ",
+          "reading": "",
+          "surface": "まさに",
+          "curPos": "adv"
+        },
+        {
+          "base": "心",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ココロ",
+          "reading": "こころ",
+          "surface": "心",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "居る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イル",
+          "reading": "いる",
+          "surface": "居る",
+          "curPos": "v"
+        },
+        {
+          "base": "俺",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "オレ",
+          "reading": "おれ",
+          "surface": "俺",
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "surface": "まっさら坊主、裸状態の奴隷",
+      "words": [
+        {
+          "base": "まっ",
+          "pos": "接頭詞,名詞接続,*,*",
+          "pronunciation": "マッ",
+          "reading": "",
+          "surface": "まっ",
+          "curPos": "/"
+        },
+        {
+          "base": "さら",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "サラ",
+          "reading": "",
+          "surface": "さら",
+          "curPos": "n"
+        },
+        {
+          "base": "坊主",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ボーズ",
+          "reading": "ぼうず",
+          "surface": "坊主",
+          "curPos": "n"
+        },
+        {
+          "base": "、",
+          "pos": "記号,読点,*,*",
+          "pronunciation": "、",
+          "reading": "",
+          "surface": "、",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "裸",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ハダカ",
+          "reading": "はだか",
+          "surface": "裸",
+          "curPos": "n"
+        },
+        {
+          "base": "状態",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ジョータイ",
+          "reading": "じょうたい",
+          "surface": "状態",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "奴隷",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ドレイ",
+          "reading": "どれい",
+          "surface": "奴隷",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "surface": "そんなんだから又言われる「踊れ！」",
+      "words": [
+        {
+          "base": "そんな",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "ソンナ",
+          "reading": "",
+          "surface": "そんな",
+          "curPos": "/"
+        },
+        {
+          "base": "ん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ン",
+          "reading": "",
+          "surface": "ん",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        },
+        {
+          "base": "から",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "カラ",
+          "reading": "",
+          "surface": "から",
+          "curPos": "av"
+        },
+        {
+          "base": "又",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "マタ",
+          "reading": "また",
+          "surface": "又",
+          "curPos": "adv"
+        },
+        {
+          "base": "言う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イワ",
+          "reading": "いわ",
+          "surface": "言わ",
+          "curPos": "v"
+        },
+        {
+          "base": "れる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "レル",
+          "reading": "",
+          "surface": "れる",
+          "curPos": "v"
+        },
+        {
+          "base": "「",
+          "pos": "記号,括弧開,*,*",
+          "pronunciation": "「",
+          "reading": "",
+          "surface": "「",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "踊る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "オドレ",
+          "reading": "おどれ",
+          "surface": "踊れ",
+          "curPos": "v"
+        },
+        {
+          "base": "！",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "！",
+          "reading": "",
+          "surface": "！",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "」",
+          "pos": "記号,括弧閉,*,*",
+          "pronunciation": "」",
+          "reading": "",
+          "surface": "」",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "surface": "己怨み根性で吹っ飛ばす Birthday",
+      "words": [
+        {
+          "base": "己",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "オノレ",
+          "reading": "おのれ",
+          "surface": "己",
+          "curPos": "/"
+        },
+        {
+          "base": "怨み",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ウラミ",
+          "reading": "うらみ",
+          "surface": "怨み",
+          "curPos": "n"
+        },
+        {
+          "base": "根性",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "コンジョー",
+          "reading": "こんじょう",
+          "surface": "根性",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "吹っ飛ぶ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "フットバ",
+          "reading": "ふっとば",
+          "surface": "吹っ飛ば",
+          "curPos": "v"
+        },
+        {
+          "base": "す",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "ス",
+          "reading": "",
+          "surface": "す",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Birthday",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "surface": "Data に無いパーツで組み上げろ　小さなピースサイン",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Data",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "無い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ナイ",
+          "reading": "ない",
+          "surface": "無い",
+          "curPos": "a"
+        },
+        {
+          "base": "パーツ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "パーツ",
+          "reading": "",
+          "surface": "パーツ",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "組み上げる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "クミアゲロ",
+          "reading": "くみあげろ",
+          "surface": "組み上げろ",
+          "curPos": "v"
+        },
+        {
+          "base": "小さな",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "チーサナ",
+          "reading": "ちいさな",
+          "surface": "小さな",
+          "curPos": "/"
+        },
+        {
+          "base": "ピース",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ピース",
+          "reading": "",
+          "surface": "ピース",
+          "curPos": "n"
+        },
+        {
+          "base": "サイン",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "サイン",
+          "reading": "",
+          "surface": "サイン",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "surface": "臭い言葉吐いてもいい　ブッサイクでもいい",
+      "words": [
+        {
+          "base": "臭い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "クサイ",
+          "reading": "くさい",
+          "surface": "臭い",
+          "curPos": "a"
+        },
+        {
+          "base": "言葉",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "コトバ",
+          "reading": "ことば",
+          "surface": "言葉",
+          "curPos": "n"
+        },
+        {
+          "base": "吐く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハイ",
+          "reading": "はいて",
+          "surface": "吐いて",
+          "curPos": "v"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "いい",
+          "pos": "形容詞,非自立,*,*",
+          "pronunciation": "イイ",
+          "reading": "",
+          "surface": "いい",
+          "curPos": "a"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "ブッサイク",
+          "curPos": "n"
+        },
+        {
+          "base": "でも",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "デモ",
+          "reading": "",
+          "surface": "でも",
+          "curPos": "av"
+        },
+        {
+          "base": "いう",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "イイ",
+          "reading": "",
+          "surface": "いい",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "surface": "この際ハッキリ吐き捨てよう　「冗談じゃねぇ」",
+      "words": [
+        {
+          "base": "この",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "コノ",
+          "reading": "",
+          "surface": "この",
+          "curPos": "/"
+        },
+        {
+          "base": "際",
+          "pos": "名詞,非自立,副詞可能,*",
+          "pronunciation": "サイ",
+          "reading": "さい",
+          "surface": "際",
+          "curPos": "n"
+        },
+        {
+          "base": "ハッキリ",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "ハッキリ",
+          "reading": "",
+          "surface": "ハッキリ",
+          "curPos": "adv"
+        },
+        {
+          "base": "吐く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ハキ",
+          "reading": "はき",
+          "surface": "吐き",
+          "curPos": "v"
+        },
+        {
+          "base": "捨てる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ステヨ",
+          "reading": "すてよう",
+          "surface": "捨てよう",
+          "curPos": "v"
+        },
+        {
+          "base": "「",
+          "pos": "記号,括弧開,*,*",
+          "pronunciation": "「",
+          "reading": "",
+          "surface": "「",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "冗談",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ジョーダン",
+          "reading": "じょうだん",
+          "surface": "冗談",
+          "curPos": "n"
+        },
+        {
+          "base": "じゃ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ジャ",
+          "reading": "",
+          "surface": "じゃ",
+          "curPos": "av"
+        },
+        {
+          "base": "ねぇ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ネー",
+          "reading": "",
+          "surface": "ねぇ",
+          "curPos": "av"
+        },
+        {
+          "base": "」",
+          "pos": "記号,括弧閉,*,*",
+          "pronunciation": "」",
+          "reading": "",
+          "surface": "」",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 12,
+      "surface": "誰かさんが心で笑ってても",
+      "words": [
+        {
+          "base": "誰か",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ダレカ",
+          "reading": "だれか",
+          "surface": "誰か",
+          "curPos": "n"
+        },
+        {
+          "base": "さん",
+          "pos": "名詞,接尾,人名,*",
+          "pronunciation": "サン",
+          "reading": "",
+          "surface": "さん",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "心",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ココロ",
+          "reading": "こころ",
+          "surface": "心",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "笑う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ワラッ",
+          "reading": "わらってて",
+          "surface": "笑ってて",
+          "curPos": "v"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "surface": "つまらない声にかき消されても",
+      "words": [
+        {
+          "base": "つまらない",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ツマラナイ",
+          "reading": "",
+          "surface": "つまらない",
+          "curPos": "a"
+        },
+        {
+          "base": "声",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "コエ",
+          "reading": "こえ",
+          "surface": "声",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "かき消す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カキケサ",
+          "reading": "かきけさ",
+          "surface": "かき消さ",
+          "curPos": "v"
+        },
+        {
+          "base": "れる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "レ",
+          "reading": "",
+          "surface": "れて",
+          "curPos": "v"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "surface": "かなぐり捨てて裸になっても",
+      "words": [
+        {
+          "base": "かなぐり捨てる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "カナグリステ",
+          "reading": "かなぐりすてて",
+          "surface": "かなぐり捨てて",
+          "curPos": "v"
+        },
+        {
+          "base": "裸",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ハダカ",
+          "reading": "はだか",
+          "surface": "裸",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "なる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナッ",
+          "reading": "",
+          "surface": "なって",
+          "curPos": "v"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 16,
+      "surface": "喉潰し叫べふざけていいよ",
+      "words": [
+        {
+          "base": "喉",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ノド",
+          "reading": "のど",
+          "surface": "喉",
+          "curPos": "n"
+        },
+        {
+          "base": "潰し",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ツブシ",
+          "reading": "つぶし",
+          "surface": "潰し",
+          "curPos": "n"
+        },
+        {
+          "base": "叫べる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "サケベ",
+          "reading": "さけべ",
+          "surface": "叫べ",
+          "curPos": "v"
+        },
+        {
+          "base": "ふざける",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "フザケ",
+          "reading": "",
+          "surface": "ふざけて",
+          "curPos": "v"
+        },
+        {
+          "base": "いい",
+          "pos": "形容詞,非自立,*,*",
+          "pronunciation": "イイ",
+          "reading": "",
+          "surface": "いい",
+          "curPos": "a"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "surface": "だってお前の周りは…",
+      "words": [
+        {
+          "base": "だって",
+          "pos": "接続詞,*,*,*",
+          "pronunciation": "ダッテ",
+          "reading": "",
+          "surface": "だって",
+          "curPos": "/"
+        },
+        {
+          "base": "お前",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "オマエ",
+          "reading": "おまえ",
+          "surface": "お前",
+          "curPos": "/"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "周り",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "マワリ",
+          "reading": "まわり",
+          "surface": "周り",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "…",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "…",
+          "reading": "",
+          "surface": "…",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 19,
+      "surface": "Everybody　Go Fighter　今戦ってやるよ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Everybody",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Go",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Fighter",
+          "curPos": "n"
+        },
+        {
+          "base": "今",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "イマ",
+          "reading": "いま",
+          "surface": "今",
+          "curPos": "n"
+        },
+        {
+          "base": "戦う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "タタカッ",
+          "reading": "たたかって",
+          "surface": "戦って",
+          "curPos": "v"
+        },
+        {
+          "base": "やる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ヤル",
+          "reading": "",
+          "surface": "やる",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "surface": "Go Soldier　突き進んでやるよ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Go",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Soldier",
+          "curPos": "n"
+        },
+        {
+          "base": "突き進む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ツキススン",
+          "reading": "つきすすん",
+          "surface": "突き進ん",
+          "curPos": "v"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "やる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ヤル",
+          "reading": "",
+          "surface": "やる",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "surface": "雑音が鳴り響いたって",
+      "words": [
+        {
+          "base": "雑音",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ザツオン",
+          "reading": "ざつおん",
+          "surface": "雑音",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "鳴り響く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナリヒビイ",
+          "reading": "なりひびいた",
+          "surface": "鳴り響いた",
+          "curPos": "v"
+        },
+        {
+          "base": "って",
+          "pos": "助詞,格助詞,連語,*",
+          "pronunciation": "ッテ",
+          "reading": "",
+          "surface": "って",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "surface": "後ろ指刺されたって",
+      "words": [
+        {
+          "base": "後ろ指",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ウシロユビ",
+          "reading": "うしろゆび",
+          "surface": "後ろ指",
+          "curPos": "n"
+        },
+        {
+          "base": "刺す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ササ",
+          "reading": "ささ",
+          "surface": "刺さ",
+          "curPos": "v"
+        },
+        {
+          "base": "れる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "レ",
+          "reading": "",
+          "surface": "れた",
+          "curPos": "v"
+        },
+        {
+          "base": "って",
+          "pos": "助詞,格助詞,連語,*",
+          "pronunciation": "ッテ",
+          "reading": "",
+          "surface": "って",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "surface": "Go Fighter　覚悟はもうできてるから",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Go",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Fighter",
+          "curPos": "n"
+        },
+        {
+          "base": "覚悟",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "カクゴ",
+          "reading": "かくご",
+          "surface": "覚悟",
+          "curPos": "n"
+        },
+        {
+          "base": "は",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "ワ",
+          "reading": "",
+          "surface": "は",
+          "curPos": "av"
+        },
+        {
+          "base": "もう",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "モー",
+          "reading": "",
+          "surface": "もう",
+          "curPos": "adv"
+        },
+        {
+          "base": "できる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "デキ",
+          "reading": "",
+          "surface": "でき",
+          "curPos": "v"
+        },
+        {
+          "base": "てる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "テル",
+          "reading": "",
+          "surface": "てる",
+          "curPos": "v"
+        },
+        {
+          "base": "から",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "カラ",
+          "reading": "",
+          "surface": "から",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 25,
+      "surface": "常に Dive　冷たい Knifeに触れて",
+      "words": [
+        {
+          "base": "常に",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ツネニ",
+          "reading": "つねに",
+          "surface": "常に",
+          "curPos": "adv"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Dive",
+          "curPos": "n"
+        },
+        {
+          "base": "冷たい",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ツメタイ",
+          "reading": "つめたい",
+          "surface": "冷たい",
+          "curPos": "a"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Knife",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "触れる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "フレ",
+          "reading": "ふれて",
+          "surface": "触れて",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "surface": "胸に快感　大胆なワンチャンスに Bound",
+      "words": [
+        {
+          "base": "胸",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ムネ",
+          "reading": "むね",
+          "surface": "胸",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "快感",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カイカン",
+          "reading": "かいかん",
+          "surface": "快感",
+          "curPos": "n"
+        },
+        {
+          "base": "大胆",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ダイタン",
+          "reading": "だいたんな",
+          "surface": "大胆な",
+          "curPos": "a"
+        },
+        {
+          "base": "ワンチャンス",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ワンチャンス",
+          "reading": "",
+          "surface": "ワンチャンス",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Bound",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "surface": "説明不要の目標　目掛けチェックメイト",
+      "words": [
+        {
+          "base": "説明",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "セツメイ",
+          "reading": "せつめい",
+          "surface": "説明",
+          "curPos": "n"
+        },
+        {
+          "base": "不要",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "フヨー",
+          "reading": "ふよう",
+          "surface": "不要",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "目標",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "モクヒョー",
+          "reading": "もくひょう",
+          "surface": "目標",
+          "curPos": "n"
+        },
+        {
+          "base": "目掛ける",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "メガケ",
+          "reading": "めがけ",
+          "surface": "目掛け",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "チェックメイト",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 29,
+      "surface": "身振り手振りで武者震いさえも起こす",
+      "words": [
+        {
+          "base": "身振り",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ミブリ",
+          "reading": "みぶり",
+          "surface": "身振り",
+          "curPos": "n"
+        },
+        {
+          "base": "手振り",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "テブリ",
+          "reading": "てぶり",
+          "surface": "手振り",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "武者震い",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ムシャブルイ",
+          "reading": "むしゃぶるい",
+          "surface": "武者震い",
+          "curPos": "n"
+        },
+        {
+          "base": "さえ",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "サエ",
+          "reading": "",
+          "surface": "さえ",
+          "curPos": "av"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        },
+        {
+          "base": "起こす",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "オコス",
+          "reading": "おこす",
+          "surface": "起こす",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "surface": "いっぺんに惑わす、迷わず、か弱いか強いか？",
+      "words": [
+        {
+          "base": "いっぺんに",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "イッペンニ",
+          "reading": "",
+          "surface": "いっぺんに",
+          "curPos": "adv"
+        },
+        {
+          "base": "惑わす",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "マドワス",
+          "reading": "まどわす",
+          "surface": "惑わす",
+          "curPos": "v"
+        },
+        {
+          "base": "、",
+          "pos": "記号,読点,*,*",
+          "pronunciation": "、",
+          "reading": "",
+          "surface": "、",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "迷う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "マヨワ",
+          "reading": "まよわず",
+          "surface": "迷わず",
+          "curPos": "v"
+        },
+        {
+          "base": "、",
+          "pos": "記号,読点,*,*",
+          "pronunciation": "、",
+          "reading": "",
+          "surface": "、",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "か弱い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "カヨワイ",
+          "reading": "かよわい",
+          "surface": "か弱い",
+          "curPos": "a"
+        },
+        {
+          "base": "か",
+          "pos": "助詞,副助詞／並立助詞／終助詞,*,*",
+          "pronunciation": "カ",
+          "reading": "",
+          "surface": "か",
+          "curPos": "av"
+        },
+        {
+          "base": "強い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ツヨイ",
+          "reading": "つよい",
+          "surface": "強い",
+          "curPos": "a"
+        },
+        {
+          "base": "か",
+          "pos": "助詞,副助詞／並立助詞／終助詞,*,*",
+          "pronunciation": "カ",
+          "reading": "",
+          "surface": "か",
+          "curPos": "av"
+        },
+        {
+          "base": "？",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "？",
+          "reading": "",
+          "surface": "？",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "surface": "バランス取らん　バラす Trump",
+      "words": [
+        {
+          "base": "バランス",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "バランス",
+          "reading": "",
+          "surface": "バランス",
+          "curPos": "n"
+        },
+        {
+          "base": "取る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "トラ",
+          "reading": "とらん",
+          "surface": "取らん",
+          "curPos": "v"
+        },
+        {
+          "base": "バラ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "バラ",
+          "reading": "",
+          "surface": "バラ",
+          "curPos": "n"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ス",
+          "reading": "",
+          "surface": "す",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Trump",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "surface": "Backup　Tempo up で Update",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Backup",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Tempo",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "up",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "接続詞,*,*,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Update",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "surface": "そんでもってイチから全てバカになれ",
+      "words": [
+        {
+          "base": "そん",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ソン",
+          "reading": "",
+          "surface": "そん",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "もつ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "モッ",
+          "reading": "",
+          "surface": "もって",
+          "curPos": "v"
+        },
+        {
+          "base": "イチ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "イチ",
+          "reading": "",
+          "surface": "イチ",
+          "curPos": "n"
+        },
+        {
+          "base": "から",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "カラ",
+          "reading": "",
+          "surface": "から",
+          "curPos": "av"
+        },
+        {
+          "base": "全て",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "スベテ",
+          "reading": "すべて",
+          "surface": "全て",
+          "curPos": "n"
+        },
+        {
+          "base": "バカ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "バカ",
+          "reading": "",
+          "surface": "バカ",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "なる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナレ",
+          "reading": "",
+          "surface": "なれ",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 35,
+      "surface": "幸せそうな顔してるキミも",
+      "words": [
+        {
+          "base": "幸せ",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "シアワセ",
+          "reading": "しあわせ",
+          "surface": "幸せ",
+          "curPos": "n"
+        },
+        {
+          "base": "そう",
+          "pos": "名詞,接尾,助動詞語幹,*",
+          "pronunciation": "ソー",
+          "reading": "",
+          "surface": "そう",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        },
+        {
+          "base": "顔",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "カオ",
+          "reading": "かお",
+          "surface": "顔",
+          "curPos": "n"
+        },
+        {
+          "base": "する",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "シ",
+          "reading": "",
+          "surface": "し",
+          "curPos": "v"
+        },
+        {
+          "base": "てる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "テル",
+          "reading": "",
+          "surface": "てる",
+          "curPos": "v"
+        },
+        {
+          "base": "キミ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "",
+          "surface": "キミ",
+          "curPos": "/"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "surface": "どこか誇らしげそうなキミも",
+      "words": [
+        {
+          "base": "どこ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ドコ",
+          "reading": "",
+          "surface": "どこ",
+          "curPos": "/"
+        },
+        {
+          "base": "か",
+          "pos": "助詞,副助詞／並立助詞／終助詞,*,*",
+          "pronunciation": "カ",
+          "reading": "",
+          "surface": "か",
+          "curPos": "av"
+        },
+        {
+          "base": "誇らしげ",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ホコラシゲ",
+          "reading": "ほこらしげ",
+          "surface": "誇らしげ",
+          "curPos": "n"
+        },
+        {
+          "base": "そう",
+          "pos": "名詞,接尾,助動詞語幹,*",
+          "pronunciation": "ソー",
+          "reading": "",
+          "surface": "そう",
+          "left": true,
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ナ",
+          "reading": "",
+          "surface": "な",
+          "curPos": "mv"
+        },
+        {
+          "base": "キミ",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "キミ",
+          "reading": "",
+          "surface": "キミ",
+          "curPos": "/"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "surface": "心の底にある闇蹴散らせ",
+      "words": [
+        {
+          "base": "心",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ココロ",
+          "reading": "こころ",
+          "surface": "心",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "底",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ソコ",
+          "reading": "そこ",
+          "surface": "底",
+          "curPos": "n"
+        },
+        {
+          "base": "に",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ニ",
+          "reading": "",
+          "surface": "に",
+          "curPos": "av"
+        },
+        {
+          "base": "ある",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "アル",
+          "reading": "",
+          "surface": "ある",
+          "curPos": "v"
+        },
+        {
+          "base": "闇",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ヤミ",
+          "reading": "やみ",
+          "surface": "闇",
+          "curPos": "n"
+        },
+        {
+          "base": "蹴る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ケ",
+          "reading": "け",
+          "surface": "蹴",
+          "curPos": "v"
+        },
+        {
+          "base": "散る",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "チラ",
+          "reading": "ちら",
+          "surface": "散ら",
+          "curPos": "v"
+        },
+        {
+          "base": "せる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "セ",
+          "reading": "",
+          "surface": "せ",
+          "curPos": "v"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 39,
+      "surface": "“Tap, Rap, Back 何でも良いから”",
+      "words": [
+        {
+          "base": "“",
+          "pos": "記号,括弧開,*,*",
+          "pronunciation": "“",
+          "reading": "",
+          "surface": "“",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Tap",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ",",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Rap",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ",",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Back",
+          "curPos": "n"
+        },
+        {
+          "base": "何",
+          "pos": "名詞,代名詞,一般,*",
+          "pronunciation": "ナニ",
+          "reading": "なに",
+          "surface": "何",
+          "curPos": "/"
+        },
+        {
+          "base": "でも",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "デモ",
+          "reading": "",
+          "surface": "でも",
+          "curPos": "av"
+        },
+        {
+          "base": "良い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ヨイ",
+          "reading": "よい",
+          "surface": "良い",
+          "curPos": "a"
+        },
+        {
+          "base": "から",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "カラ",
+          "reading": "",
+          "surface": "から",
+          "curPos": "av"
+        },
+        {
+          "base": "”",
+          "pos": "記号,括弧閉,*,*",
+          "pronunciation": "”",
+          "reading": "",
+          "surface": "”",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "surface": "まだまだ…",
+      "words": [
+        {
+          "base": "まだまだ",
+          "pos": "副詞,助詞類接続,*,*",
+          "pronunciation": "マダマダ",
+          "reading": "",
+          "surface": "まだまだ",
+          "curPos": "adv"
+        },
+        {
+          "base": "…",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "…",
+          "reading": "",
+          "surface": "…",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 42,
+      "surface": "そんなんじゃ違うって　心でわかってても",
+      "words": [
+        {
+          "base": "そんな",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "ソンナ",
+          "reading": "",
+          "surface": "そんな",
+          "curPos": "/"
+        },
+        {
+          "base": "ん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ン",
+          "reading": "",
+          "surface": "ん",
+          "curPos": "n"
+        },
+        {
+          "base": "じゃ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ジャ",
+          "reading": "",
+          "surface": "じゃ",
+          "curPos": "av"
+        },
+        {
+          "base": "違う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "チガウ",
+          "reading": "ちがう",
+          "surface": "違う",
+          "curPos": "v"
+        },
+        {
+          "base": "って",
+          "pos": "助詞,格助詞,連語,*",
+          "pronunciation": "ッテ",
+          "reading": "",
+          "surface": "って",
+          "curPos": "av"
+        },
+        {
+          "base": "心",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ココロ",
+          "reading": "こころ",
+          "surface": "心",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "わかる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ワカッ",
+          "reading": "",
+          "surface": "わかってて",
+          "curPos": "v"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "surface": "理想と程遠い現実でも",
+      "words": [
+        {
+          "base": "理想",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "リソー",
+          "reading": "りそう",
+          "surface": "理想",
+          "curPos": "n"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,並立助詞,*,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "程遠い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ホドトーイ",
+          "reading": "ほどとおい",
+          "surface": "程遠い",
+          "curPos": "a"
+        },
+        {
+          "base": "現実",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ゲンジツ",
+          "reading": "げんじつ",
+          "surface": "現実",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "surface": "うすっぺらい理念伝えたって",
+      "words": [
+        {
+          "base": "うすっぺら",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ウスッペラ",
+          "reading": "",
+          "surface": "うすっぺら",
+          "curPos": "n"
+        },
+        {
+          "base": "いる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イ",
+          "reading": "",
+          "surface": "い",
+          "curPos": "v"
+        },
+        {
+          "base": "理念",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "リネン",
+          "reading": "りねん",
+          "surface": "理念",
+          "curPos": "n"
+        },
+        {
+          "base": "伝える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ツタエ",
+          "reading": "つたえた",
+          "surface": "伝えた",
+          "curPos": "v"
+        },
+        {
+          "base": "って",
+          "pos": "助詞,格助詞,連語,*",
+          "pronunciation": "ッテ",
+          "reading": "",
+          "surface": "って",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "surface": "何一つ響かないんだって",
+      "words": [
+        {
+          "base": "何一つ",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ナニヒトツ",
+          "reading": "なにひとつ",
+          "surface": "何一つ",
+          "curPos": "adv"
+        },
+        {
+          "base": "響く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヒビカ",
+          "reading": "ひびかない",
+          "surface": "響かない",
+          "curPos": "v"
+        },
+        {
+          "base": "ん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ン",
+          "reading": "",
+          "surface": "ん",
+          "curPos": "n"
+        },
+        {
+          "base": "だって",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ダッテ",
+          "reading": "",
+          "surface": "だって",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "surface": "Go Fighter　自分手放しちゃダメだ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Go",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Fighter",
+          "curPos": "n"
+        },
+        {
+          "base": "自分",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ジブン",
+          "reading": "じぶん",
+          "surface": "自分",
+          "curPos": "n"
+        },
+        {
+          "base": "手放す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "テバナシ",
+          "reading": "てばなし",
+          "surface": "手放し",
+          "curPos": "v"
+        },
+        {
+          "base": "ちゃ",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "チャ",
+          "reading": "",
+          "surface": "ちゃ",
+          "curPos": "av"
+        },
+        {
+          "base": "ダメ",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ダメ",
+          "reading": "",
+          "surface": "ダメ",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 48,
+      "surface": "Go　次のステージ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Go",
+          "curPos": "n"
+        },
+        {
+          "base": "次",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ツギ",
+          "reading": "つぎ",
+          "surface": "次",
+          "curPos": "n"
+        },
+        {
+          "base": "の",
+          "pos": "助詞,連体化,*,*",
+          "pronunciation": "ノ",
+          "reading": "",
+          "surface": "の",
+          "curPos": "av"
+        },
+        {
+          "base": "ステージ",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ステージ",
+          "reading": "",
+          "surface": "ステージ",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "surface": "Let’s move forward with us.",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Let",
+          "curPos": "n"
+        },
+        {
+          "base": "’",
+          "pos": "記号,括弧閉,*,*",
+          "pronunciation": "’",
+          "reading": "",
+          "surface": "’",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "s",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "move",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "forward",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "with",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "us",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ".",
+          "curPos": "/",
+          "left": true
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "surface": "Let’s move forward with us.",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Let",
+          "curPos": "n"
+        },
+        {
+          "base": "’",
+          "pos": "記号,括弧閉,*,*",
+          "pronunciation": "’",
+          "reading": "",
+          "surface": "’",
+          "left": true,
+          "curPos": "/"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "s",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "move",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "forward",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "with",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "us",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ".",
+          "curPos": "/",
+          "left": true
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "surface": "All you have to do is follow me.",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "All",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "you",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "have",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "to",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "do",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "is",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "follow",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "me",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,サ変接続,*,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": ".",
+          "curPos": "/",
+          "left": true
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "surface": "真っ向から挑め！",
+      "words": [
+        {
+          "base": "真っ向",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "マッコー",
+          "reading": "まっこう",
+          "surface": "真っ向",
+          "curPos": "n"
+        },
+        {
+          "base": "から",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "カラ",
+          "reading": "",
+          "surface": "から",
+          "curPos": "av"
+        },
+        {
+          "base": "挑める",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ノゾメ",
+          "reading": "のぞめ",
+          "surface": "挑め",
+          "curPos": "v"
+        },
+        {
+          "base": "！",
+          "pos": "記号,一般,*,*",
+          "pronunciation": "！",
+          "reading": "",
+          "surface": "！",
+          "left": true,
+          "curPos": "/"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 54,
+      "surface": "Everybody　Go Fighter　今戦ってやるよ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Everybody",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Go",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Fighter",
+          "curPos": "n"
+        },
+        {
+          "base": "今",
+          "pos": "名詞,副詞可能,*,*",
+          "pronunciation": "イマ",
+          "reading": "いま",
+          "surface": "今",
+          "curPos": "n"
+        },
+        {
+          "base": "戦う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "タタカッ",
+          "reading": "たたかって",
+          "surface": "戦って",
+          "curPos": "v"
+        },
+        {
+          "base": "やる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ヤル",
+          "reading": "",
+          "surface": "やる",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "surface": "Go Soldier　突き進んでやるよ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Go",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Soldier",
+          "curPos": "n"
+        },
+        {
+          "base": "突き進む",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ツキススン",
+          "reading": "つきすすん",
+          "surface": "突き進ん",
+          "curPos": "v"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "やる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "ヤル",
+          "reading": "",
+          "surface": "やる",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "surface": "雑音が鳴り響いたって",
+      "words": [
+        {
+          "base": "雑音",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ザツオン",
+          "reading": "ざつおん",
+          "surface": "雑音",
+          "curPos": "n"
+        },
+        {
+          "base": "が",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "ガ",
+          "reading": "",
+          "surface": "が",
+          "curPos": "av"
+        },
+        {
+          "base": "鳴り響く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ナリヒビイ",
+          "reading": "なりひびいた",
+          "surface": "鳴り響いた",
+          "curPos": "v"
+        },
+        {
+          "base": "って",
+          "pos": "助詞,格助詞,連語,*",
+          "pronunciation": "ッテ",
+          "reading": "",
+          "surface": "って",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "surface": "後ろ指刺されたって",
+      "words": [
+        {
+          "base": "後ろ指",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ウシロユビ",
+          "reading": "うしろゆび",
+          "surface": "後ろ指",
+          "curPos": "n"
+        },
+        {
+          "base": "刺す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ササ",
+          "reading": "ささ",
+          "surface": "刺さ",
+          "curPos": "v"
+        },
+        {
+          "base": "れる",
+          "pos": "動詞,接尾,*,*",
+          "pronunciation": "レ",
+          "reading": "",
+          "surface": "れた",
+          "curPos": "v"
+        },
+        {
+          "base": "って",
+          "pos": "助詞,格助詞,連語,*",
+          "pronunciation": "ッテ",
+          "reading": "",
+          "surface": "って",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "surface": "笑い飛ばせよ",
+      "words": [
+        {
+          "base": "笑い飛ばす",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ワライトバセ",
+          "reading": "わらいとばせ",
+          "surface": "笑い飛ばせ",
+          "curPos": "v"
+        },
+        {
+          "base": "よ",
+          "pos": "助詞,終助詞,*,*",
+          "pronunciation": "ヨ",
+          "reading": "",
+          "surface": "よ",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 60,
+      "surface": "そんなんじゃ違うって　心でわかってても",
+      "words": [
+        {
+          "base": "そんな",
+          "pos": "連体詞,*,*,*",
+          "pronunciation": "ソンナ",
+          "reading": "",
+          "surface": "そんな",
+          "curPos": "/"
+        },
+        {
+          "base": "ん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ン",
+          "reading": "",
+          "surface": "ん",
+          "curPos": "n"
+        },
+        {
+          "base": "じゃ",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ジャ",
+          "reading": "",
+          "surface": "じゃ",
+          "curPos": "av"
+        },
+        {
+          "base": "違う",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "チガウ",
+          "reading": "ちがう",
+          "surface": "違う",
+          "curPos": "v"
+        },
+        {
+          "base": "って",
+          "pos": "助詞,格助詞,連語,*",
+          "pronunciation": "ッテ",
+          "reading": "",
+          "surface": "って",
+          "curPos": "av"
+        },
+        {
+          "base": "心",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ココロ",
+          "reading": "こころ",
+          "surface": "心",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "わかる",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ワカッ",
+          "reading": "",
+          "surface": "わかってて",
+          "curPos": "v"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "surface": "理想と程遠い現実でも",
+      "words": [
+        {
+          "base": "理想",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "リソー",
+          "reading": "りそう",
+          "surface": "理想",
+          "curPos": "n"
+        },
+        {
+          "base": "と",
+          "pos": "助詞,並立助詞,*,*",
+          "pronunciation": "ト",
+          "reading": "",
+          "surface": "と",
+          "curPos": "av"
+        },
+        {
+          "base": "程遠い",
+          "pos": "形容詞,自立,*,*",
+          "pronunciation": "ホドトーイ",
+          "reading": "ほどとおい",
+          "surface": "程遠い",
+          "curPos": "a"
+        },
+        {
+          "base": "現実",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ゲンジツ",
+          "reading": "げんじつ",
+          "surface": "現実",
+          "curPos": "n"
+        },
+        {
+          "base": "で",
+          "pos": "助詞,格助詞,一般,*",
+          "pronunciation": "デ",
+          "reading": "",
+          "surface": "で",
+          "curPos": "av"
+        },
+        {
+          "base": "も",
+          "pos": "助詞,係助詞,*,*",
+          "pronunciation": "モ",
+          "reading": "",
+          "surface": "も",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "surface": "うすっぺらい理念伝えたって",
+      "words": [
+        {
+          "base": "うすっぺら",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ウスッペラ",
+          "reading": "",
+          "surface": "うすっぺら",
+          "curPos": "n"
+        },
+        {
+          "base": "いる",
+          "pos": "動詞,非自立,*,*",
+          "pronunciation": "イ",
+          "reading": "",
+          "surface": "い",
+          "curPos": "v"
+        },
+        {
+          "base": "理念",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "リネン",
+          "reading": "りねん",
+          "surface": "理念",
+          "curPos": "n"
+        },
+        {
+          "base": "伝える",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ツタエ",
+          "reading": "つたえた",
+          "surface": "伝えた",
+          "curPos": "v"
+        },
+        {
+          "base": "って",
+          "pos": "助詞,格助詞,連語,*",
+          "pronunciation": "ッテ",
+          "reading": "",
+          "surface": "って",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "surface": "何一つ響かないんだって",
+      "words": [
+        {
+          "base": "何一つ",
+          "pos": "副詞,一般,*,*",
+          "pronunciation": "ナニヒトツ",
+          "reading": "なにひとつ",
+          "surface": "何一つ",
+          "curPos": "adv"
+        },
+        {
+          "base": "響く",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "ヒビカ",
+          "reading": "ひびかない",
+          "surface": "響かない",
+          "curPos": "v"
+        },
+        {
+          "base": "ん",
+          "pos": "名詞,非自立,一般,*",
+          "pronunciation": "ン",
+          "reading": "",
+          "surface": "ん",
+          "curPos": "n"
+        },
+        {
+          "base": "だって",
+          "pos": "助詞,副助詞,*,*",
+          "pronunciation": "ダッテ",
+          "reading": "",
+          "surface": "だって",
+          "curPos": "av"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "surface": "Go Fighter　自分手放しちゃダメだ",
+      "words": [
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Go",
+          "curPos": "n"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Fighter",
+          "curPos": "n"
+        },
+        {
+          "base": "自分",
+          "pos": "名詞,一般,*,*",
+          "pronunciation": "ジブン",
+          "reading": "じぶん",
+          "surface": "自分",
+          "curPos": "n"
+        },
+        {
+          "base": "手放す",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "テバナシ",
+          "reading": "てばなし",
+          "surface": "手放し",
+          "curPos": "v"
+        },
+        {
+          "base": "ちゃ",
+          "pos": "助詞,接続助詞,*,*",
+          "pronunciation": "チャ",
+          "reading": "",
+          "surface": "ちゃ",
+          "curPos": "av"
+        },
+        {
+          "base": "ダメ",
+          "pos": "名詞,形容動詞語幹,*,*",
+          "pronunciation": "ダメ",
+          "reading": "",
+          "surface": "ダメ",
+          "curPos": "n"
+        },
+        {
+          "base": "だ",
+          "pos": "助動詞,*,*,*",
+          "pronunciation": "ダ",
+          "reading": "",
+          "surface": "だ",
+          "curPos": "mv"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "surface": "",
+      "words": []
+    },
+    {
+      "id": 66,
+      "surface": "奮い立てFighter",
+      "words": [
+        {
+          "base": "奮い立つ",
+          "pos": "動詞,自立,*,*",
+          "pronunciation": "フルイタテ",
+          "reading": "ふるいたて",
+          "surface": "奮い立て",
+          "curPos": "v"
+        },
+        {
+          "base": "*",
+          "pos": "名詞,固有名詞,組織,*",
+          "pronunciation": "?",
+          "reading": "",
+          "surface": "Fighter",
+          "curPos": "n"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "surface": "",
+      "words": []
+    }
+  ],
+  "pureLrc": [
+    "いつだって立ち上がる Fighter",
+    "鳴らせかませ討て Soldier",
+    "さぁはじめよう",
+    "",
+    "弱い Boss　まさに心に居る俺",
+    "まっさら坊主、裸状態の奴隷",
+    "そんなんだから又言われる「踊れ！」",
+    "己怨み根性で吹っ飛ばす Birthday",
+    "Data に無いパーツで組み上げろ　小さなピースサイン",
+    "臭い言葉吐いてもいい　ブッサイクでもいい",
+    "この際ハッキリ吐き捨てよう　「冗談じゃねぇ」",
+    "",
+    "誰かさんが心で笑ってても",
+    "つまらない声にかき消されても",
+    "かなぐり捨てて裸になっても",
+    "",
+    "喉潰し叫べふざけていいよ",
+    "だってお前の周りは…",
+    "",
+    "Everybody　Go Fighter　今戦ってやるよ",
+    "Go Soldier　突き進んでやるよ",
+    "雑音が鳴り響いたって",
+    "後ろ指刺されたって",
+    "Go Fighter　覚悟はもうできてるから",
+    "",
+    "常に Dive　冷たい Knifeに触れて",
+    "胸に快感　大胆なワンチャンスに Bound",
+    "説明不要の目標　目掛けチェックメイト",
+    "",
+    "身振り手振りで武者震いさえも起こす",
+    "いっぺんに惑わす、迷わず、か弱いか強いか？",
+    "バランス取らん　バラす Trump",
+    "Backup　Tempo up で Update",
+    "そんでもってイチから全てバカになれ",
+    "",
+    "幸せそうな顔してるキミも",
+    "どこか誇らしげそうなキミも",
+    "心の底にある闇蹴散らせ",
+    "",
+    "“Tap, Rap, Back 何でも良いから”",
+    "まだまだ…",
+    "",
+    "そんなんじゃ違うって　心でわかってても",
+    "理想と程遠い現実でも",
+    "うすっぺらい理念伝えたって",
+    "何一つ響かないんだって",
+    "Go Fighter　自分手放しちゃダメだ",
+    "",
+    "Go　次のステージ",
+    "Let’s move forward with us.",
+    "Let’s move forward with us.",
+    "All you have to do is follow me.",
+    "真っ向から挑め！",
+    "",
+    "Everybody　Go Fighter　今戦ってやるよ",
+    "Go Soldier　突き進んでやるよ",
+    "雑音が鳴り響いたって",
+    "後ろ指刺されたって",
+    "笑い飛ばせよ",
+    "",
+    "そんなんじゃ違うって　心でわかってても",
+    "理想と程遠い現実でも",
+    "うすっぺらい理念伝えたって",
+    "何一つ響かないんだって",
+    "Go Fighter　自分手放しちゃダメだ",
+    "",
+    "奮い立てFighter",
+    ""
+  ]
+}
