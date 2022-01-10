@@ -24,7 +24,7 @@ export default function IndexPage() {
   }, []);
   return (
     <Row>
-      <Col flex={'300px'} style={{ display: 'none' }}>
+      <Col flex={'300px'}>
         <Collapse>
           {!!albums?.length &&
             albums?.map((conf, idx) => (
@@ -62,7 +62,7 @@ export default function IndexPage() {
             ))}
         </Collapse>
       </Col>
-      <Col flex="400px" style={{ display: 'none' }}>
+      <Col flex="400px">
         <DiscoDetail curNode={curDisco} onNameClick={setCurSongName} />
       </Col>
       <Col flex={'1'} style={{ minWidth: 500 }}>

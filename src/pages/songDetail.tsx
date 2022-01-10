@@ -8,6 +8,47 @@ interface Props {
   songMap?: uMap<jdisolink>;
 }
 
+const formatLrc = (info: jsongInfo) => {
+  const lrcs: jlrc[] = info.lrc.map((item) => {
+    let sf = '';
+    const idxs: any[] = [];
+    const words = item?.words.map((w, pos) => {
+      let ttmp = sf + w.surface;
+      if (item.surface.indexOf(ttmp) != 0) {
+        const char = item.surface.charAt(sf.length);
+        sf = sf + char + w.surface;
+        idxs.push({
+          pos,
+          value: { surface: char },
+        });
+      } else sf = ttmp;
+      const tmp = _.pick(w, ['surface', 'reading', 'base']);
+      if (w.base != '*' && w.curPos) tmp.type = w.curPos;
+      if (w.base == '*') delete tmp['base'];
+      return tmp;
+    });
+    if (idxs?.length) {
+      idxs.reverse();
+      idxs.map((item) => {
+        words.splice(item.pos, 0, item.value);
+      });
+    }
+
+    sf = words.reduce((ans, w) => {
+      return (ans += w.surface);
+    }, '');
+    if (sf != item.surface) {
+      item.isDiff = true;
+      console.log(sf);
+    }
+
+    item.words = words;
+    return item;
+  });
+  info.lrc = lrcs;
+  return info;
+};
+
 const confKeys: any[] = ['katakana', 'type', 'npl', 'word', 'grammar', 'trans'];
 const SongDetail: React.FC<Props> = ({ name, songMap }) => {
   const [curSong, setCurSong] = useState<jdisolink & jsongInfo>();
@@ -25,8 +66,9 @@ const SongDetail: React.FC<Props> = ({ name, songMap }) => {
       const dif = songMap[name];
       apis.disco.getSong(name).then((res) => {
         if (res) {
+          const ans = formatLrc(res);
           setCurSong({
-            ...res,
+            ...ans,
             ...dif,
           });
         }
@@ -37,17 +79,16 @@ const SongDetail: React.FC<Props> = ({ name, songMap }) => {
   return (
     <div>
       <div>
-        {
-          // @ts-ignore
-          confKeys.map((key) => (
-            <Tag
-              color={conf[key] ? 'error' : ''}
-              onClick={() => setConf({ ...conf, [key]: !conf[key] })}
-            >
-              {key}
-            </Tag>
-          ))
-        }
+        {confKeys.map((key) => (
+          <Tag
+            // @ts-ignore
+            color={conf[key] ? 'error' : ''}
+            // @ts-ignore
+            onClick={() => setConf({ ...conf, [key]: !conf[key] })}
+          >
+            {key}
+          </Tag>
+        ))}
       </div>
       <div>{curSong?.name}</div>
       <div>{curSong?.from?.join(' / ')}</div>

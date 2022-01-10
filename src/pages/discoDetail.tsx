@@ -8,14 +8,12 @@ interface Props {
 }
 
 const DiscoDetail: React.FC<Props> = ({ curNode, songMap, onNameClick }) => {
-  const [showMode, setShowMode] = useState<'songlist' | 'verslist'>('verslist');
+  const [showMode, setShowMode] = useState<'songlist' | 'verslist'>('songlist');
 
   if (!curNode) return null;
   return (
     <>
-      <div>{curNode?.name}</div>
       <div>
-        {curNode?.type} {curNode?.release}{' '}
         <Tag
           color={showMode == 'songlist' ? 'blue' : 'red'}
           onClick={() =>
@@ -24,6 +22,10 @@ const DiscoDetail: React.FC<Props> = ({ curNode, songMap, onNameClick }) => {
         >
           {showMode}
         </Tag>
+      </div>
+      <div>{curNode?.name}</div>
+      <div>
+        {curNode?.type} {curNode?.release}{' '}
       </div>
       {showMode == 'songlist' && (
         <div>
